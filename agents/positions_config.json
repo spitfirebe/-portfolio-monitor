@@ -1,0 +1,6 @@
+[
+  {"ticker": "UCB.BR",  "name": "UCB SA",                    "qty": 3,   "cost": 255.50, "currency": "EUR"},
+  {"ticker": "HLNE",    "name": "Hamilton Lane",              "qty": 6,   "cost": 107.00, "currency": "USD"},
+  {"ticker": "AOF.DE",  "name": "ATOSS Software AG",          "qty": 6,   "cost": 79.80,  "currency": "EUR"},
+  {"ticker": "V",       "name": "Visa Inc.",                  "qty": 1,   "cost": 296.50, "currency": "USD"}
+]
