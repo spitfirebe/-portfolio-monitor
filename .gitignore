@@ -1,0 +1,10 @@
+﻿# Gevoelige bestanden — NOOIT naar GitHub
+saxo_token.json
+saxo_auth.py
+agents/portfolio_history.json
+agents/portfolio_data.json
+agents/__pycache__/
+agents/reports/
+Kennis/
+Mijn portefeulle/
+*.pyc
