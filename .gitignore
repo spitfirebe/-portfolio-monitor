@@ -8,5 +8,6 @@ agents/reports/
 Kennis/*.md
 !Kennis/KB11_newsletter_inzichten.md
 !Kennis/KB12_bronnen_en_tools.md
+!Kennis/KB13_slegers_research_database.md
 Mijn portefeulle/
 *.pyc
