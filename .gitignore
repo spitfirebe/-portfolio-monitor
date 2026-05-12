@@ -7,5 +7,6 @@ agents/__pycache__/
 agents/reports/
 Kennis/*.md
 !Kennis/KB11_newsletter_inzichten.md
+!Kennis/KB12_bronnen_en_tools.md
 Mijn portefeulle/
 *.pyc
