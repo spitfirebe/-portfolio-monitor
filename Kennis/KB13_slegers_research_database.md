@@ -228,34 +228,196 @@ Dit is een onafhankelijke validatie van de moat-kwaliteit.
 
 ---
 
-## 6. ASML Analyse — 15-Stappenmodel Voorbeeld
+## 6. Tiny Titans Watchlist — EGM Waarderingsdata (Zomer 2025)
 
-**Bron:** Bedrijfsanalyse ASML.pdf (Slegers' volledige 15-stappen analyse)
+**Bron:** "Watchlist Tiny Titans (zomer 2025)" spreadsheet
+**Let op:** Koersen zijn van zomer 2025 — gebruik alleen als startpunt voor eigen research, niet als actuele koopbeslissing.
 
-### Stap 1 — Begrijp ik het businessmodel?
-EUV (Extreme Ultraviolet) machines voor chipproductie.
-- DUV: 90% wereldmarktaandeel
-- EUV: **100% wereldmarktaandeel** (enige fabrikant ter wereld)
-- Prijs: tot €200 miljoen per machine
+### EGM-formule (zoals gebruikt door Slegers)
+```
+Verwacht rendement = WPA groei + Dividendrendement +/- P/E multiple expansie/contractie
+KOOPZONE = EGM ≥ 10% EN Forward P/E onder historisch gemiddelde
+```
+
+### Top-kandaten: EGM > 15% + >30% ondergewaardeerd (zomer 2025)
+
+| Bedrijf | Ticker | EGM | Onderwaard. | Fwd P/E | Hist P/E | EPS groei |
+|---------|--------|-----|------------|---------|---------|-----------|
+| Infratil | IFT | **62,1%** | **89%** | 3,3x | 19,3x | 12% |
+| Kingsway Financial | KFS | **66,1%** | **81%** | 3,6x | 45,9x | 6,7% |
+| Simulations Plus | SLP | **46,0%** | **88%** | 4,0x | 16,4x | 15% |
+| Software Circle | SFT | **41,7%** | **86%** | 5,5x | 20,2x | 15% |
+| Payton Planar | PAY | **32,0%** | **96%** | 10,9x | 52,6x | 15% |
+| Propel Holdings | PRL | **31,7%** | **94%** | 7,4x | 17,1x | 15% |
+| Intellego Tech | INT | **29,1%** | **79%** | 6,8x | 16,4x | 15% |
+| XPEL | XPEL | **20,1%** | **67%** | 16,4x | 24,8x | 15% |
+| Synektik | SNT | **22,7%** | **87%** | 17,1x | 49,1x | 15% |
+| Pharmanutra | PHN | **18,4%** | **74%** | 22,0x | 25,6x | 15% |
+| Nathan's Famous | NATH | **19,8%** | **77%** | 19,5x | 29,7x | 15% |
+| Medistim | MEDI | **15,7%** | **69%** | 30,0x | 57,5x | 15% |
+| Dream Finders Homes | DFH | **21,2%** | **58%** | 13,0x | 57,4x | 12% |
+| goeasy | GSY | **16,8%** | **56%** | 8,2x | 19,1x | 10% |
+| DaVita | DVA | **15,1%** | **49%** | 11,5x | 12,1x | 14,6% |
+| Docebo | DCBO | **17,8%** | **61%** | 19,5x | 26,0x | 15% |
+| I-Tech AB | ITECH | **17,6%** | **76%** | 15,1x | 15,1x | 15% |
+| IES Holdings | IESC | **15,6%** | **53%** | 23,7x | 48,1x | 15% |
+| LeMaitre Vascular | LMAT | **16,5%** | **21%** | 35,8x | 39,8x | 15% |
+
+### Bedrijven BOVEN faire waarde (vermijden):
+- Manhattan Associates (MANH): -271% overwaard, EGM -0,7%
+- Doximity (DOCS): -127% overwaard, EGM 3,4%
+- Technology One (TNE): -155% overwaard
+- Kelly Partners (KPG): -125% overwaard
+
+### Hoe de Tiny Titans data gebruiken voor GEM 2:
+1. **EGM > 10%** = minimumdrempel voor koopoverweging
+2. **Over/Undervaluation positief** = koers onder faire waarde
+3. **Forward P/E onder hist. gemiddelde** = additionele bevestiging
+4. **Reverse DCF check**: is de ingeprijsde groei realistisch?
+5. Combineer altijd met GEM 1 kwaliteitscheck → beide nodig voor aankoop
+
+---
+
+## 7. ASML — Volledige 15-Stappen Analyse (Kwaliteitsscore: 8,2/10)
+
+**Bron:** Bedrijfsanalyse ASML.pdf (Slegers' volledige analyse)
+**Dit is het meest uitgewerkte voorbeeld van de 15-stappenmethode in de database.**
+
+### Algemene info
+- **Ticker:** ASML (AMS + NASDAQ)
+- **ISIN:** NL0010273215
+- **Type:** Monopolie (Type 2 — zuiverste vorm)
+- **Analysekoers:** €706,1 (nov 2025)
+
+### Stap 1 — Businessmodel ✅
+- DUV-machines: **90% wereldmarktaandeel**
+- EUV-machines: **100% wereldmarktaandeel** (enige fabrikant ter wereld)
+- Prijs per EUV-machine: tot **€200 miljoen**
+- Transport: **7 Boeing 747's** per machine
 - Klanten: TSMC, Intel, Samsung
-- Transport: 7 Boeing 747's nodig per machine
+- Omzet: 77,5% machineverkoop + 22,5% onderhoud/upgrades
 
-### Stap 2 — Management
-- CEO: Christophe Fouquet (2024), 15 jaar ASML-ervaring
-- Insider ownership: €5,7 miljoen aandelen ✅
-- Voormalig CEO Wennink + CTO Van den Brink vertrokken → risico management continuïteit
+### Stap 2 — Management ✅ (met kanttekening)
+- CEO: Christophe Fouquet (2024), 15j ASML-ervaring, €5,7M aandelen ✅
+- ⚠️ Voormalig CEO Wennink + CTO Van den Brink vertrokken → managementtransitie
+- 42.000 medewerkers
 
-### Stap 3 — Moat
+### Stap 3 — Moat ✅ Type 2 Monopolie
 - **17.500 patenten**
-- **$15 miljard + 20 jaar** R&D nodig om te repliceren → onmogelijk
-- 1.600 medewerkers exclusief voor TSMC-relatie
-- Klanten co-financieren R&D → lock-in
+- **>$15 miljard + 20 jaar R&D** om te repliceren → onmogelijk
+- 1.600 medewerkers exclusief voor TSMC
+- Klanten co-financieren R&D → structurele lock-in
+- China probeert te kopiëren → onmogelijk gebleken
 
-### Moat Type: **Type 2 — Monopolie** (meest zuivere vorm ter wereld)
+### Stap 4 — Eindmarkt ✅
+- Chipmarkt groeit **+9%/jaar** komende 5 jaar
+- Tailwinds: AI, 5G, elektrische auto's, datacenters
+- Deepseek-effect: **geen bedreiging** — meer AI = meer chips nodig
+- ASML 2030 guidance: €44-60 miljard omzet (best case +16,2%/j, worst case +8%/j)
 
-### Waarom ASML in de Getting Rich categorie staat:
-Groeimotor = elke nieuwe chipgeneratie (AI, auto's, datacenters) vereist nieuwe ASML-machines.
-Structural tailwind: halfgeleiders zijn de bottleneck van de 21e eeuw.
+### Stap 5 — Risico's ⚠️
+- Geopolitiek (China, exportrestricties)
+- Omzetconcentratie: 84% uit Azië
+- Cycliciteit chipsindustrie
+- Nieuwe CEO moet zich bewijzen
+- Grote klantenconcentratie (TSMC dominant)
+
+### Stap 6 — Balans ✅
+| Metric | Waarde | Drempel | Status |
+|--------|--------|---------|--------|
+| Interest Coverage | 59,2x | >15x | ✅ |
+| Nettoschuld/FCF | Nettokaspositie (3,2% mktcap) | <4x | ✅ |
+| Goodwill/Activa | 9,4% | <20% | ✅ |
+
+### Stap 7 — Kapitaalintensiteit ✅ (met nuance)
+| Metric | Waarde | Drempel | Status |
+|--------|--------|---------|--------|
+| CAPEX/Omzet (totaal) | 7,3% | <5% | ❌ |
+| CAPEX/Omzet (maintenance) | **3,2%** | <5% | ✅ |
+| CAPEX/OCF (maintenance) | 8,2% | <25% | ✅ |
+**Let op:** Growth CAPEX telt mee in totaal. Maintenance CAPEX is wat telt = 3,2% ✅
+
+### Stap 8 — Kapitaalallocatie ✅
+- ROE: **47,4%** (>15% ✅)
+- ROIC: **22,2%** (>15% ✅)
+- R&D: 16% van omzet → nodig voor technologische voorsprong
+
+### Stap 9 — Winstgevendheid ✅
+- Brutomarge: **51,3%** (>40% ✅)
+- Nettomarge: **26,8%** (>10% ✅)
+- FCF/Nettowinst: **120,2%** (>80% ✅)
+
+### Stap 10 — Aandelencompensatie ✅
+- SBC: **2,2%** van nettowinst (<10% ✅)
+
+### Stap 11 — Historische groei ✅
+- Omzetgroei 5j: **19,0%** (>5% ✅)
+- Omzetgroei 10j: **17,0%** (>5% ✅)
+- WPA groei 5j: **25,6%** (>7% ✅)
+- WPA groei 10j: **19,5%** (>7% ✅)
+
+### Stap 12 — Toekomstige groei ✅
+- Verwachte omzetgroei 2j: **13,8%** ✅
+- Verwachte WPA groei 2j: **22,5%** ✅
+- Orderboek: **€36 miljard** (zichtbaarheid inkomsten) ✅
+
+### Stap 13 — Waardering (nov 2025, koers €706,1)
+**Forward PE methode:**
+- Huidig Forward PE: **29,5x**
+- 5-jaar gemiddelde: **35,0x**
+- Oordeel: **ondergewaardeerd t.o.v. historisch gemiddelde**
+
+**EGM (Slegers' berekening):**
+```
+WPA groei: 12%/jaar (conservatief)
+Dividendrendement: 0,9%
+Forward PE: 29,5x → 25,0x over 10 jaar (-0,1% contractie/jaar)
+EGM = 12% + 0,9% - 0,1% = 11,4%/jaar
+```
+EGM = **11,4%** ✅ (>10% drempel)
+
+**Reverse DCF:**
+- FCF 2025 (verwacht): €6.593M
+- Vereiste FCF-groei voor 10% aandeelhoudersrendement: **17,5%/jaar**
+- Realistisch? ASML groeit historisch 17-20%/jaar → **haalbaar** ✅
+
+### Stap 14 — Owner's Earnings ✅
+- CAGR Owner's Earnings 5j: **26,5%** (>12% ✅)
+- CAGR Owner's Earnings 10j: **20,4%** (>12% ✅)
+
+### Stap 15 — Aandeelhouderswaarde ✅
+- 5j CAGR aandelenkoers: **21,3%**
+- CAGR since IPO 2001: **19,3%** (>12% ✅)
+
+### Totale Kwaliteitsscore: **8,2/10**
+
+**Conclusie Slegers:** "ASML is een wondermooi bedrijf tegen een faire prijs."
+
+---
+
+### Leerles: Hoe de 15-stappen methode toepassen
+Dit is het sjabloon dat Slegers gebruikt voor élk aandeel. Toepassing op jouw posities/watchlist:
+
+1. Stap 1-5: Kwalitatief (begrijp ik het? management? moat? eindmarkt? risico's?)
+2. Stap 6-11: Kwantitatief (balans, CAPEX, ROE/ROIC, marges, groei)
+3. Stap 12-15: Waardering (Forward PE, EGM, Reverse DCF, Owner's Earnings)
+
+**Drempelwaarden samengevat** (uit ASML analyse bevestigd):
+| Metric | Drempel |
+|--------|---------|
+| Brutomarge | >40% |
+| ROIC | >15% |
+| ROE | >15% |
+| FCF/Nettowinst | >80% |
+| Interest Coverage | >15x |
+| Goodwill/Activa | <20% |
+| CAPEX/Omzet (maintenance) | <5% |
+| SBC/Nettowinst | <10% |
+| Omzetgroei (5j CAGR) | >5% |
+| WPA groei (5j CAGR) | >7% |
+| Owner's Earnings CAGR | >12% |
+| EGM | >10% |
+| CAGR sinds beursgang | >12% |
 
 ---
 
