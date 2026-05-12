@@ -6,5 +6,6 @@ agents/portfolio_data.json
 agents/__pycache__/
 agents/reports/
 Kennis/
+!Kennis/KB11_newsletter_inzichten.md
 Mijn portefeulle/
 *.pyc

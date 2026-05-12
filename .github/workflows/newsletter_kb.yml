@@ -1,0 +1,52 @@
+name: Newsletter KB Update
+
+on:
+  schedule:
+    # Elke dag 07:30 UTC = 08:30 CET (na de ochtendmail van Slegers)
+    - cron: '31 7 * * *'
+  workflow_dispatch:  # handmatig triggeren via GitHub UI
+
+jobs:
+  update-kb:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # nodig voor git push
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: KB11 aanmaken als niet bestaat
+        run: |
+          mkdir -p Kennis
+          if [ ! -f Kennis/KB11_newsletter_inzichten.md ]; then
+            echo "# Kennisfile 11 — Actuele Inzichten: De Kwaliteitsbelegger Newsletter" > Kennis/KB11_newsletter_inzichten.md
+            echo "**Bron:** De Kwaliteitsbelegger (Pieter Slegers) — dekwaliteitsbelegger@substack.com" >> Kennis/KB11_newsletter_inzichten.md
+            echo "" >> Kennis/KB11_newsletter_inzichten.md
+            echo "## Update-log" >> Kennis/KB11_newsletter_inzichten.md
+            echo "" >> Kennis/KB11_newsletter_inzichten.md
+            echo "| Datum | Onderwerp | Bron |" >> Kennis/KB11_newsletter_inzichten.md
+            echo "|-------|-----------|------|" >> Kennis/KB11_newsletter_inzichten.md
+          fi
+
+      - name: Newsletter KB updaten
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python agents/update_newsletter_kb.py
+
+      - name: Wijzigingen committen en pushen
+        run: |
+          git config user.name  "Portfolio Monitor Bot"
+          git config user.email "jasper.jacobs04@gmail.com"
+          git add Kennis/KB11_newsletter_inzichten.md agents/newsletter_state.json
+          if git diff --staged --quiet; then
+            echo "Geen wijzigingen — niets te committen."
+          else
+            git commit -m "KB11 update: $(date '+%Y-%m-%d') — nieuwe newsletter inzichten"
+            git push
+          fi
