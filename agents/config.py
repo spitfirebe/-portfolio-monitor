@@ -29,8 +29,12 @@ ETF_INVESTED  = 6951.56   # historisch — voor rendementberekening
 SAT_INVESTED  = 2188.48   # historisch — voor rendementberekening
 
 # ── DCA — wordt automatisch voortgezet naar volgend kwartaal ─────────────────
+NEXT_DCA_OVERRIDE = date(2026, 5, 31)  # Overschrijft automatische kwartaalberekening
+
 def next_dca_date() -> date:
-    """Geeft de eerstvolgende kwartaal-DCA datum terug (1 jan/apr/jul/okt)."""
+    """Geeft de eerstvolgende DCA datum terug. Gebruikt override indien ingesteld."""
+    if NEXT_DCA_OVERRIDE and NEXT_DCA_OVERRIDE >= date.today():
+        return NEXT_DCA_OVERRIDE
     today = date.today()
     kwartalen = [date(today.year, m, 1) for m in (1, 4, 7, 10)]
     kwartalen += [date(today.year + 1, m, 1) for m in (1, 4, 7, 10)]
