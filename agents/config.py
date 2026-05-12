@@ -29,16 +29,26 @@ ETF_INVESTED  = 6951.56   # historisch — voor rendementberekening
 SAT_INVESTED  = 2188.48   # historisch — voor rendementberekening
 
 # ── DCA — wordt automatisch voortgezet naar volgend kwartaal ─────────────────
-NEXT_DCA_OVERRIDE = date(2026, 5, 31)  # Overschrijft automatische kwartaalberekening
+DCA_START = date(2026, 5, 31)  # Eerste DCA-datum — systeem schuift automatisch 3 maanden op
 
 def next_dca_date() -> date:
-    """Geeft de eerstvolgende DCA datum terug. Gebruikt override indien ingesteld."""
-    if NEXT_DCA_OVERRIDE and NEXT_DCA_OVERRIDE >= date.today():
-        return NEXT_DCA_OVERRIDE
+    """
+    Geeft de eerstvolgende DCA-datum terug.
+    Vertrekt van DCA_START en schuift telkens 3 maanden op totdat de datum in de toekomst ligt.
+    Werkt correct over jaarsgrenzen en maanden met verschillende lengtes.
+    """
     today = date.today()
-    kwartalen = [date(today.year, m, 1) for m in (1, 4, 7, 10)]
-    kwartalen += [date(today.year + 1, m, 1) for m in (1, 4, 7, 10)]
-    return next(d for d in kwartalen if d > today)
+    candidate = DCA_START
+    while candidate <= today:
+        # Voeg 3 maanden toe, respecteer maandeinden (bv. 31 aug → 30 nov)
+        month = candidate.month + 3
+        year  = candidate.year + (month - 1) // 12
+        month = (month - 1) % 12 + 1
+        # Begrens op laatste dag van de maand
+        import calendar
+        last_day = calendar.monthrange(year, month)[1]
+        candidate = date(year, month, min(candidate.day, last_day))
+    return candidate
 
 # ── Posities (Saxo-symbool → Yahoo ticker + aankoopprijs) ────────────────────
 POSITIONS = {
