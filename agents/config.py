@@ -59,9 +59,58 @@ POSITIONS = {
 }
 
 WATCHLIST = {
-    "UNA.AS": {"name": "Unilever",           "sector": "Consumer Staples", "prio": 1, "hist_pe": 18.0},
-    "SU.PA":  {"name": "Schneider Electric", "sector": "Industrials",      "prio": 2, "hist_pe": 22.0},
+    "UNA.AS": {
+        "name": "Unilever", "sector": "Consumer Staples", "prio": 1,
+        "hist_pe": 18.0, "eps_growth_5y": 5.0, "div_yield": 3.5,
+    },
+    "SU.PA": {
+        "name": "Schneider Electric", "sector": "Industrials", "prio": 2,
+        "hist_pe": 22.0, "eps_growth_5y": 9.0, "div_yield": 1.5,
+    },
 }
+
+# Thesis-check items per positie — gebaseerd op PP2
+THESIS_CHECKS = {
+    "HLNE:xnas": [
+        "AUM-groei YoY (doel: structureel >10%)",
+        "Fee-inkomsten groei (management fees + incentive fees)",
+        "Evergreen fondsen traction — democratisering private markets",
+        "Management commentary over private markets outlook 2026-2027",
+        "Guidance: geen neerwaartse bijstelling verwacht rendement",
+        "Geen structurele verandering in relaties top-tier PE fondsen",
+    ],
+    "UCB:xbru": [
+        "Bimekizumab sales groei (psoriasis + arthritis markten)",
+        "Zilucoplan goedkeuring voortgang (myasthenia gravis)",
+        "Geen nieuwe patent cliff risico's aangekondigd",
+        "R&D pipeline: zijn er nieuwe fase-3 data?",
+        "Management: is Jean-Christophe Tellier nog CEO?",
+    ],
+    "AOF:xetr": [
+        "SaaS-transitie: % recurring revenue (doel: stijgend)",
+        "DACH-marktaandeel workforce management: intact?",
+        "EBIT marge 2026 guidance (management zei >= 34%)",
+        "Nieuwe klanten buiten DACH — internationalisatie voortgang",
+    ],
+    "V:xnys": [
+        "Payments volume groei YoY (doel: >8%)",
+        "Cross-border volume (indicator globale digitalisering)",
+        "Geen nieuwe antitrust/interchange fee beslissingen",
+        "Net income marge: stabiel >50%?",
+    ],
+}
+
+# CAGR-model aannames
+CAGR_AANNAMES = {
+    "etf_cagr":             8.0,    # % MSCI ACWI IMI historisch nominaal
+    "satellite_cagr":      11.0,    # % ETF + ~3% Slegers alpha doelstelling
+    "dca_nu":               300,    # EUR/maand (student)
+    "graduatie_datum":      date(2027, 6, 1),
+    "dca_na_graduatie":    1500,    # EUR/maand (conservatief na afstuderen)
+    "noodbuffer":          11731,   # EUR — niet meerekenen in beleggingsvermogen
+}
+
+EGM_DREMPEL = 10.0   # % — minimale EGM voor geldige KOOPZONE (Slegers)
 
 HIST_PE = {p["ticker"]: 25.0 for p in POSITIONS.values()} | {
     "UCB.BR": 25.0, "HLNE": 22.0, "AOF.DE": 32.0, "V": 27.0,
