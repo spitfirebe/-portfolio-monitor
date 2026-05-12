@@ -1,0 +1,19 @@
+{
+  "_info": "Handmatig bijwerken na elk earnings rapport. Bron: investor relations pagina's.",
+  "_update_urls": {
+    "V":      "https://investor.visa.com/events-calendar/",
+    "HLNE":   "https://shareholders.hamiltonlane.com/",
+    "UCB.BR": "https://www.ucb.com/investors",
+    "AOF.DE": "https://www.atoss.com/en/company/investor-relations/financial-calendar-events",
+    "UNA.AS": "https://www.unilever.com/investors/results-events/upcoming-results/",
+    "SU.PA":  "https://www.se.com/ww/en/about-us/investor-relations/financial-calendar-and-events/"
+  },
+  "earnings": {
+    "V":      {"date": "2026-07-29", "label": "Q3 FY2026",     "source": "investor.visa.com"},
+    "HLNE":   {"date": "2026-05-21", "label": "Q4 FY2026",     "source": "stocktitan.net"},
+    "UCB.BR": {"date": "2026-07-30", "label": "H1 2026",       "source": "investing.com"},
+    "AOF.DE": {"date": "2026-08-11", "label": "H1 2026",       "source": "atoss.com"},
+    "UNA.AS": {"date": "2026-07-23", "label": "H1 2026",       "source": "unilever.com"},
+    "SU.PA":  {"date": "2026-07-30", "label": "H1 2026",       "source": "se.com"}
+  }
+}

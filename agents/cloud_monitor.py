@@ -28,16 +28,37 @@ def _yf_price(ticker: str) -> Optional[float]:
         return None
 
 
+EARNINGS_CONFIG_FILE = os.path.join(os.path.dirname(__file__), "earnings_config.json")
+
 def _yf_forward_pe(ticker: str) -> Optional[float]:
+    """Forward P/E via timeseries — werkt voor US én Europese aandelen."""
     enc = urllib.parse.quote(ticker)
-    url = f"https://query1.finance.yahoo.com/v7/finance/quote?symbols={enc}&fields=forwardPE"
+    url = (f"https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/"
+           f"timeseries/{enc}?type=trailingForwardPeRatio,annualForwardPeRatio"
+           f"&period1=1700000000&period2=1800000000")
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     try:
         with urllib.request.urlopen(req, timeout=8) as r:
             d = json.loads(r.read())
-        return d.get("quoteResponse", {}).get("result", [{}])[0].get("forwardPE")
+        for result in d.get("timeseries", {}).get("result", []):
+            vals = result.get("trailingForwardPeRatio") or result.get("annualForwardPeRatio") or []
+            if vals:
+                last = vals[-1]
+                raw  = (last.get("reportedValue", {}) if isinstance(last, dict) else {})
+                pe   = raw.get("raw") if isinstance(raw, dict) else raw
+                if pe:
+                    return round(float(pe), 2)
     except Exception:
+        pass
+    return None
+
+def _get_earnings_date(ticker: str) -> Optional[str]:
+    """Earnings datum uit config."""
+    if not os.path.exists(EARNINGS_CONFIG_FILE):
         return None
+    with open(EARNINGS_CONFIG_FILE, encoding="utf-8") as f:
+        cfg = json.load(f).get("earnings", {}).get(ticker, {})
+    return cfg.get("date")
 
 
 def build_and_send():
@@ -69,6 +90,16 @@ def build_and_send():
     sat_pct     = round(sat_val_eur / totaal * 100, 1)
     etf_return  = round((etf_kern - ETF_INVESTED) / ETF_INVESTED * 100, 2)
     sat_return  = round((sat_val_eur - SAT_INVESTED) / SAT_INVESTED * 100, 2)
+
+    # Earnings triggers
+    from datetime import datetime as dt
+    for sym, cfg_vals in POSITIONS.items():
+        earn_date_str = _get_earnings_date(cfg_vals["ticker"])
+        if earn_date_str:
+            ed    = dt.strptime(earn_date_str, "%Y-%m-%d").date()
+            dagen = (ed - today).days
+            if 0 <= dagen <= 7:
+                triggers.insert(0, f"Earnings {cfg_vals['name']} over {dagen} dagen ({ed.strftime('%d/%m/%Y')})")
 
     # Watchlist
     watchlist_data = []
