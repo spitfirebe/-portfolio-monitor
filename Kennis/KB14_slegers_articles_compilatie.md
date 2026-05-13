@@ -236,6 +236,27 @@ Via officiële documenten:
 
 ---
 
+## 12. Slegers' 10 Aandelen Om Voor Altijd Bij Te Houden ("Koffie Kan Beleggen")
+
+**Strategie:** Koop uitstekende bedrijven met de intentie om ze **decennia** te houden.
+
+| Rang | Bedrijf | Ticker | Waarom over 50 jaar nog relevant |
+|------|---------|--------|----------------------------------|
+| 1 | **Berkshire Hathaway** | BRK.B | Beste investeringsconglomeraat ooit, cultuur + float-model |
+| 2 | **Brown & Brown** | BRO | Verzekering altijd nodig, management denkt in decennia (est. 1939) |
+| 3 | **Watsco** | WSO | HVAC-distributie, klimaatverandering tailwind, serial acquirer |
+| 4 | **Markel** | MKL | Mini-Berkshire: float investeren, uitstekende cultuur |
+| 5 | **Games Workshop** | GAW.L | Niche monopolie (Warhammer), aandeelhouderscultuur, moeilijk te kopiëren |
+| 6 | **Constellation Software** | CSU.TSX | Beste seriële overnemer ter wereld, VMS-markt aantrekkelijk |
+| 7 | **LVMH** | MC.PA | Luxe nooit uit de mode, groeiende Aziatische middenklasse |
+| 8 | **Stryker** | SYK | Medische apparatuur, vergrijzing tailwind, marktleider |
+| 9 | **Old Dominion Freight** | ODFL | Best geleide LTL-vervoerder VS, oligopolie (est. 1934) |
+| 10 | **Zoetis** | ZTS | Dierengezondheid, met IDEXX domineert industrie, huisdiertrend |
+
+**Gemeenschappelijk kenmerk:** Alle 10 hebben een moat die hen over 50 jaar relevant houdt, ongeacht technologische veranderingen.
+
+---
+
 ## Update-log Articles Database
 | Datum | Toegevoegd |
 |-------|-----------|
