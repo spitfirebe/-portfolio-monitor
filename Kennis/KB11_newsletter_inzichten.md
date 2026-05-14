@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 14/05/2026 | Het geheim van de kleintjes | Slegers newsletter |
 | 12/05/2026 | De €1 Test van Warren Buffett | Slegers newsletter |
 | 12/05/2026 | The Outsiders CEO-framework, €1 test, Kapitaalallocatie | Slegers newsletter |
 | 07/05/2026 | Berkshire float, Greg Abel, Omaha vergadering inzichten | Slegers newsletter |
@@ -185,5 +186,67 @@ Kapitaalallocatie
 Kapitaalallocatie is de belangrijkste taak van het management.
 Mark Leonard, één van de beste CEO’s ooit, zei ooit dit:
 “Op de lange termijn worden beursprestaties bepaald door de keuzes die een CEO maakt over kapitaal. Twee bedrijven met dezelfde prestaties, maar me
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Het geheim van de kleintjes
+**Datum:** 14/05/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Twee van de beste microcap-beleggers ter wereld? Ian Cassel en Paul Andreola.
+Ze vinden sterren zoals Lebron James toen hij nog op de middelbare school basketbalde.
+Laten we eens kijken naar het geheim van de kleintjes op de beurs.
+Tiny Titans 
+Tiny Titans draait helemaal om...Het vinden van kleine bedrijven die x10 kunnen gaan.
+Tijdens de lancering was Tiny Titans op 36 uur uitverkocht.
+Het goede nieuws? Je kan je nu aanmelden op de officiële wachtlijst.
+Als je dat doet, krijg je meteen toegang tot een lijstje van 93 (!) bedrijven met een potentieel van 10x.
+Je kan het hier ontvangen:
+Waarom microcaps?
+Mijn gekke vriend
+Ken je de naam van één van mijn beste vrienden? Hij heet Mr Market.
+Wat ik zo leuk vind aan hem? Hij is ongelooflijk gul. Hij doet mij dagelijks heel wat aanbiedingen.
+Maar wat nog beter is? Soms is hij compleet irrationeel.
+Sommige van zijn aanbiedingen zijn gewoon absurd.
+In november 2022 kon je Meta ($META) kopen aan een Koers-Winstverhouding van 8,6x. 
+Sindsdien steeg het aandeel met meer dan 600%.
+Maar eerlijk gezegd doet hij dit soort aanbiedingen niet vaak bij grote aandelen.
+De kleintjes daarentegen...
+Hoe kleiner het aandeel, hoe minder efficiënt de markt.
+Of met andere woorden, hoe gekker mijn vriend Mr Market wordt.
+Dat is precies waarom er hier grote kansen te vinden zijn.
+De data bewijst het
+Een grote studie van Jenga Investment Partners vond iets interessants.
+Bijna 90% van alle aandelen die tussen 2012 en 2022 met meer dan 10x stegen waren microcaps.
+De Grote Vier
+Als belegger verspil je niet graag tijd.
+Je wilt zo snel mogelijk ‘nee’ zeggen tegen een potentiële belegging.
+Daarom check je best altijd eerst ‘De Grote Vier’:
+Winstgevendheid
+Lage verwatering
+Lage liquiditeit
+Sterke groei
+Als je deze vier dingen checkt, heb je al in 95 van de 100 gevallen een reden gevonden om niet te beleggen in het aandeel:
+“Bij kleine bedrijven zijn er meestal twee soorten aandelen: die met sterke fundamentals die groeien, en de andere 95%.” - Paul Andreola
+1. Winstgevendheid
+De studie van Jenga Investment Partners is heel lang.
+Het document telt 287 pagina’s.
+Maar hier is alles wat je moet weten in twee zinnen:
+87% van alle aandelen die tussen 2012 en 2022 met +1.000% stegen waren kleine aandelen
+82% van al deze 10-baggers waren vanaf het begin al winstgevend
+2. Lage verwatering
+Verwatering is een duidelijk gevaar voor beleggers in kleine aandelen.
+Ian Cassel vond een duidelijk patroon:
+“De verliezers, die waarvan de aandelenwaarde met 50-99% zijn gedaald, verwaterden hun aandeelhouders gemiddeld met 61%."
+De belangrijkste les? 
+We willen niet dat het aantal uitstaande aandelen te veel stijgt omdat dit ons als aandeelhouders schaadt.
+3. Lage liquiditeit
+Het beste moment om te kopen als belegger? Wanneer het bloed door de straten loopt.
+En als belegger in kleine aandelen? Wanneer er niemand op straat is.
+“Ik wil niet kopen wanneer het bloed door de straten loopt, ik wil kopen wanneer er niemand op stra
 
 *[Volledige tekst beschikbaar via Substack]*
