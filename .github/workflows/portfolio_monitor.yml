@@ -21,4 +21,5 @@ jobs:
       - name: Portfolio monitor uitvoeren
         env:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          PYTHONPATH: ${{ github.workspace }}
         run: python agents/cloud_monitor.py

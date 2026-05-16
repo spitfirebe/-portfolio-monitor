@@ -91,6 +91,9 @@ def build_and_send():
     etf_return  = round((etf_kern - ETF_INVESTED) / ETF_INVESTED * 100, 2)
     sat_return  = round((sat_val_eur - SAT_INVESTED) / SAT_INVESTED * 100, 2)
 
+    # Triggers — initialize list before using
+    triggers = []
+
     # Earnings triggers
     from datetime import datetime as dt
     for sym, cfg_vals in POSITIONS.items():
@@ -114,8 +117,7 @@ def build_and_send():
         watchlist_data.append({**info, "ticker": ticker, "price": price, "fpe": fpe,
                                 "hist": hist, "status": status})
 
-    # Triggers
-    triggers = []
+    # Continue building triggers
     for h in holdings:
         pct = round(h["eur_val"] / sat_val_eur * 100, 1) if sat_val_eur else 0
         if pct > CONCENTRATION_MAX:

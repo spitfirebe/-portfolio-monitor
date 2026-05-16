@@ -14,8 +14,8 @@ GMAIL_USER         = "jasper.jacobs04@gmail.com"
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 
 # ── Paden ─────────────────────────────────────────────────────────────────────
-BASE_DIR      = r"C:\Users\jaspe\Documents\Investing_claude"
-AGENTS_DIR    = os.path.join(BASE_DIR, "agents")
+BASE_DIR      = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+AGENTS_DIR    = os.path.dirname(os.path.abspath(__file__))
 REPORTS_DIR   = os.path.join(AGENTS_DIR, "reports")
 TOKEN_PATH    = os.path.join(BASE_DIR, "saxo_token.json")
 FISCAL_FILE   = os.path.join(AGENTS_DIR, "fiscal_2026.json")
