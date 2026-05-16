@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 16/05/2026 | Het moment is nu daar | Slegers newsletter |
 | 14/05/2026 | Het geheim van de kleintjes | Slegers newsletter |
 | 12/05/2026 | De €1 Test van Warren Buffett | Slegers newsletter |
 | 12/05/2026 | The Outsiders CEO-framework, €1 test, Kapitaalallocatie | Slegers newsletter |
@@ -250,3 +251,42 @@ En als belegger in kleine aandelen? Wanneer er niemand op straat is.
 “Ik wil niet kopen wanneer het bloed door de straten loopt, ik wil kopen wanneer er niemand op stra
 
 *[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Het moment is nu daar
+**Datum:** 16/05/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Proficiat!
+Je hebt aangegeven te willen starten met beleggen.
+Top. Het moment is nu daar.
+Met grote trots kondigen we de lancering van Geldgeneratie aan.
+Donderdag 21 mei om 20u geven Pieter Slegers en Cédric Proost een gratis webinar.
+Je zal leren hoe je kan starten met beleggen.
+Dit webinar is exclusief voor jou en volledig gratis.
+Geen opname, gewoon live en met ruimte voor jouw vragen.
+Hier is wat je zal leren:
+Waarom starten met beleggen zo interessant is
+Hoe je vandaag nog start, zelfs als je nog nooit een aandeel hebt gekocht
+De fouten die beginners maken (en hoe jij ze vermijdt)
+Hoe je kwaliteitsbedrijven herkent
+Waarom het vandaag het juiste moment is
+Stel je even voor dat je tien jaar geleden voor 1.000 euro in Microsoft had belegd…
+Dan had je vandaag bijna 9.000 euro (!).
+Geen geluk, geen gokwerk. Eén goede beslissing en daarna geduld.
+Dat is wat we je donderdag leren herkennen.
+Praktisch:
+Wat? Gratis webinar - Hoe starten met beleggen
+Wanneer? Donderdag 21 mei om 20u
+Waar? Online
+Door wie? Pieter Slegers & Cédric Proost
+Hoe lang? Ongeveer een uur, vragen inbegrepen
+Tot donderdag!
+Pieter & Cédric
+PS De beste belegging die je ooit doet, is eentje in jezelf. Eén uurtje donderdagavond kan het verschil maken. Schrijf je hier in. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
