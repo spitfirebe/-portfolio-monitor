@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 17/05/2026 | We kopen dit geweldig bedrijf | Slegers newsletter |
 | 16/05/2026 | Het moment is nu daar | Slegers newsletter |
 | 14/05/2026 | Het geheim van de kleintjes | Slegers newsletter |
 | 12/05/2026 | De €1 Test van Warren Buffett | Slegers newsletter |
@@ -288,5 +289,45 @@ Hoe lang? Ongeveer een uur, vragen inbegrepen
 Tot donderdag!
 Pieter & Cédric
 PS De beste belegging die je ooit doet, is eentje in jezelf. Eén uurtje donderdagavond kan het verschil maken. Schrijf je hier in. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## We kopen dit geweldig bedrijf
+**Datum:** 17/05/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Vandaag kopen we een nieuw aandeel voor onze portefeuille.
+Beleggers mogen volgens mijn berekeningen een rendement van meer dan 15% per jaar verwachten.
+Hier is wat je moet weten:
+📈 Groeit met meer dan 15% per jaar
+🏆 Eén van de sterkste managementteams van Europa
+💰 Noteert aan een korting van 28% ten opzichte van de intrinsieke waarde
+🔄 Koopt actief eigen aandelen in (het management gelooft dat het aandeel te goedkoop is)
+Waarom we kopen
+Onze volgende aankoop is een holding dat zich focust op middelgrote niet-beursgenoteerde bedrijven.
+Sinds de huidige CEO in 2012 aan het roer kwam, ging de intrinsieke waarde van 279 pence naar 3.030 pence.
+Een stijging van meer dan 800% (!).
+Deze groei komt vooral van een non-food retailketen waarin ze beleggen.
+Deze keten zag sinds 2011 zijn omzet stijgen van €718 miljoen naar €16.000 miljoen.
+Een waanzinnige jaarlijkse groei van 25% (!).
+Maar ondertussen staat het aandeel 30% lager sinds het begin van het jaar.
+Dit biedt geweldige kansen als je het mij vraagt.
+De voorbije 20 jaar heeft het bedrijf nog nooit aan zo’n grote korting genoteerd als vandaag.
+Dat is exact waarom het zo interessant is.
+Onze aankoop
+Benieuwd welk aandeel we gaan aankopen?
+Test De Kwaliteitsbelegger risicoloos uit met de niet-tevreden, geld-teruggarantie van 90 dagen:
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Dankzij de niet-tevreden, geld-teruggarantie kan je het risicoloos uittesten. Hoe? Door een jaarabonnement te nemen via deze link. [  ]
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed
+Fiscal.ai [  ]: Financiële data
+Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
