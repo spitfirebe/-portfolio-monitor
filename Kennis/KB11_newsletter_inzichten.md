@@ -129,6 +129,8 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 19/05/2026 | 🤝 Wat ik leerde van de meester | Slegers newsletter |
+| 19/05/2026 | 🏰 Leer uit deze 10 fouten | Slegers newsletter |
 | 17/05/2026 | We kopen dit geweldig bedrijf | Slegers newsletter |
 | 16/05/2026 | Het moment is nu daar | Slegers newsletter |
 | 14/05/2026 | Het geheim van de kleintjes | Slegers newsletter |
@@ -331,3 +333,112 @@ Fiscal.ai [  ]: Financiële data
 Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## 🏰 Leer uit deze 10 fouten
+**Datum:** 19/05/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Het is #KwaliteitsDinsdag!
+In deze reeks leer je in minder dan vijf minuten vijf dingen uit over de aandelenmarkt.
+1️⃣ Vermijd deze 10 fouten
+Zelfs de slimste mensen maken nog altijd domme keuzes als het over beleggen gaat.
+Hoe komt dat? Luister even naar Charlie Munger:
+“Het is niet hebzucht die de wereld drijft, maar jaloezie.”
+Laten we een snelle test doen.
+Bekijk de infografiek hieronder en stel jezelf één vraag: 
+Welke van deze dingen heeft mij onlangs geld gekost?
+2️⃣ De Psychologie Van Geld
+‘De Psychologie Van Geld’ van Morgan Housel is echt één van de beste boeken over Personal Finance.
+Het boek draait om drie simpele maar krachtige inzichten:
+Jaloezie zorgt voor domme keuzes.
+Verwar ‘geluk’ niet met ‘vaardigheid’.
+Emoties op korte termijn leiden tot fouten op lange termijn.
+Ik heb een duidelijke samenvatting van het boek gemaakt. Je kan die hier lezen:
+3️⃣ Eén eenvoudige beleggingsquote
+Je hoeft echt niet alles zelf uit te zoeken.
+Soms is de slimste zet gewoon … iemand inschakelen die er wél alles van weet.
+Charlie Munger vatte het perfect samen:
+4️⃣ De psychologie van menselijke misvattingen
+Charlie Munger heeft jarenlang bestudeerd waarom slimme mensen toch domme beslissingen nemen.
+In een van zijn bekendste toespraken legt hij 24 denkfouten uit. Hij noemt dat: de psychologie van menselijke misvattingen.
+Je kan het volledige artikel hier lezen. Het zit boordevol wijsheid:
+5️⃣ Aandelentip: Adobe ($ADBE)
+Hoe verdient het bedrijf geld? 
+Adobe verdient zijn geld door creatieve en productiviteitstools te verkopen, zoals Photoshop, Premiere Pro, Illustrator en Acrobat. Bijna 94% van hun omzet komt uit abonnementen.
+Adobe is een sterk bedrijf met stabiele omzet en voorspelbare cashflow.
+Door hun software steeds meer met AI te versterken, verwachten analisten dat het aandeel op lange termijn zo’n 14,3% per jaar kan groeien.
+En het opvallende? Adobe wordt op dit moment verhandeld tegen een van zijn laagste waarderingen ooit.
+Bij een forward P/E van 13,6 oogt het aandeel gewoon goedkoop.
+Veel beleggers zijn bang dat AI het hele businessmodel onderuit zal halen.
+Maar als dat niet gebeurt, dan kan de huidige koers wel eens een heel mooie instapkans zijn. Ondertussen koopt Adobe ook nog eens flink wat eigen aandelen terug.
+Wil je meer weten? 
+Lees dan hier onze ‘Not So Deep Dive’:
+Beleggen in de beste bedrijven ter wereld
+Pieter
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed
+Fiscal.ai [  ]: Financiële data
+Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+
+---
+
+## 🤝 Wat ik leerde van de meester
+**Datum:** 19/05/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Twee weken geleden reisde ik naar Omaha om Warren Buffett te bezoeken.
+Het was het vierde jaar op rij.
+Een geweldige ervaring.
+Het track record van Warren Buffett is écht opmerkelijk.
+Je zou 99% van het rendement van Berkshire Hathaway kunnen wegnemen…
+… En zelfs dan deed je het nog steeds beter dan de S&P 500.
+$10.000 belegd in 1962:
+S&P 500: $6 miljoen
+Berkshire Hathaway: $3,8 miljard
+Dat is de magie van samengestelde interest in de praktijk.
+Wij mensen kunnen de kracht van exponentiële groei niet echt bevatten.
+Maar als je het wél doet, levert het je enorm veel op.
+Tijdens de algemene vergadering van Berkshire leerde ik veel nieuwe dingen. Die deel ik graag met jou.
+Dit was het drukke programma:
+Laten we eens kijken naar de drie belangrijkste lessen.
+1. Berkshire Hathaway zal het beter doen dan de hangmatbelegger
+Veel mensen vragen zich af of Berkshire Hathaway de komende jaren beter zal presteren dan de markt.
+Het korte antwoord?
+Ja, dat zullen ze.
+De outperformance zal lager liggen dan in de decennia ervoor, door de wet van de grote getallen…
+… Maar het is heel logisch dat Berkshire het goed zal blijven doen.
+Het geheime recept van Berkshire Hathaway zit in de float.
+Wat is float?
+Float is het geld dat een verzekeraar vasthoudt tussen het moment dat hij je premie int en het moment dat hij een schade uitbetaalt. Klanten betalen vooraf, maar de schadeclaims komen pas later. Dat betekent dat de verzekeraar in de tussentijd een flinke berg geld kan vasthouden.
+Slimme verzekeraars (zoals Berkshire Hathaway) beleggen dat geld om er rendement mee te halen. Vaak verdienen ze meer met het beleggen van dat geld dan met de verzekeringen zelf.
+Berkshire Hathaway gebruikt dat kapitaal om te beleggen in obligaties en aandelen.
+Weet je nog niet precies wat ‘float’ nu éxact betekent?
+Laat ik je een voorbeeld geven.
+Stel je voor: je sluit vandaag een autoverzekering af voor €500 per jaar.
+Normaal gezien rij je je auto vandaag niet stuk.
+De gemiddelde automobilist heeft maar eens in de 17 à 18 jaar een ongeval. De gemiddelde schade per ongeval bedraagt €8.000.
+Dat betekent dat Berkshire Hathaway €500 per jaar van je krijgt, maar gemiddeld maar eens in de 17 à 18 jaar €8.000 uitbetaalt.
+Tot dat ongeval gebeurt, kan Berkshire Hathaway die premies beleggen in aandelen en obligaties.
+Dat is de float. En dat is precies wat Berkshire zo krachtig maakt.
+Hier zie je de evolutie sinds de beursgang van Berkshire:
+Denk er eens even over na…
+Gaat het goed met je verzekeringsmaatschappij en ben je winstgevend?
+Dan krijg je de float er gratis bij.
+Het is gratis geld dat niet van jou is, maar dat je toch kan beleggen.
+Dit versnelt de winst die zoals Berkshire maken.
+En het betekent ook…
+Als Berkshire Hathaway zijn operationele winst en zijn cash zou gebruiken om gewoon de S&P 500 te kopiëren, dan zou het automatisch beter doen dan de index.
+Waarom? Het gebruikt ‘gratis geld’ om in die index te beleggen.
+Net daarom zal Berkshire 
+
+*[Volledige tekst beschikbaar via Substack]*
