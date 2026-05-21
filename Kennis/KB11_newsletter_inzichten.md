@@ -129,6 +129,8 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 21/05/2026 | 🎯 Fair Isaac: Een analyse van 114 pagina's (!) | Slegers newsletter |
+| 20/05/2026 | Mijn reis door Frankrijk | Slegers newsletter |
 | 19/05/2026 | 🤝 Wat ik leerde van de meester | Slegers newsletter |
 | 19/05/2026 | 🏰 Leer uit deze 10 fouten | Slegers newsletter |
 | 17/05/2026 | We kopen dit geweldig bedrijf | Slegers newsletter |
@@ -440,5 +442,127 @@ En het betekent ook…
 Als Berkshire Hathaway zijn operationele winst en zijn cash zou gebruiken om gewoon de S&P 500 te kopiëren, dan zou het automatisch beter doen dan de index.
 Waarom? Het gebruikt ‘gratis geld’ om in die index te beleggen.
 Net daarom zal Berkshire 
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Mijn reis door Frankrijk
+**Datum:** 20/05/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+Welkom bij de 9e editie van deze exclusieve nieuwsbrief met een kijkje achter de schermen.
+Vorige week vertelde ik je over 🏆 De Magie van Tiny Titans. [  ]
+Vandaag? Laten we het hebben over 🚀 Mijn reis door Frankrijk.
+Wil je op 9 juni meedoen aan Tiny Titans? Meld je dan hier aan door je e-mailadres achter te laten. [  ]
+Dag belegger 👋
+Ik schrijf deze e-mail tijdens een busrit van La Sologne (Zuid-Frankrijk) naar Parijs.
+Wat doe ik hier?
+En waarom reis ik bijna direct van Omaha (Nebraska) naar Frankrijk?
+Ik reis met een aantal topondernemers uit Amerika om te praten over beleggen, ondernemen en het leven.
+Alle deelnemers aan deze reis zijn miljoenen dollars waard.
+Een van de belangrijkste lessen die ik meeneem?
+Ze zijn allemaal bescheiden. Héél bescheiden.
+Ze zeggen allemaal dat ze geluk hebben gehad tijdens hun carrière.
+Die nederigheid raakt mij diep.
+Het zegt zeker wel iets.
+Succesvolle mensen weten wat ze weten. 
+Maar nog belangrijker… ze weten wat ze niet weten.
+Ze schrijven een groot deel van hun succes toe aan geluk.
+Geluk hebben is één ding. 
+De kans zien en grijpen is iets heel anders.
+Je zet best. vol in op de kansen die je ziet. Zowel in het leven als op de beurs.
+Waarom schrijf ik je dit dan? 
+Wat heeft dit met Tiny Titans te maken?
+De mensen met wie ik deze week praat, zijn allemaal heel succesvol.
+Ze bouwden allemaal hun eigen bedrijf vanaf nul op.
+En als je helemaal vanaf nul start, is het potentiële succes enorm.
+Als je er even over nadenkt, zijn de voordelen eigenlijk onbeperkt.
+Het is gewoon logisch.
+Een bedrijf met een jaaromzet van 3 miljoen dollar verdrievoudigt veel makkelijker dan een bedrijf dat al 1 miljard dollar omzet draait.
+Hoe kleiner je bent, hoe groter je groeipotentieel:
+Wat maakt het nóg krachtiger?
+Wanneer je twee motoren hebt die precies tegelijk in jouw voordeel werken:
+Kleine bedrijven groeien sneller dan grote bedrijven.
+Kleine bedrijven zijn goedkoper, waardoor er ruimte is voor een hogere waardering.
+Stel dat een bedrijf zijn winst per aandeel verdubbelt en tegelijk verdubbelt ook zijn waardering….
+In dat geval verdien je vier keer (!) je inleg.
+Zo ontstaan aandelen die verdubbelen (of zelfs honderd keer over de kop gaan).
+Je hebt maar een paar van zulke succesverhalen nodig:
+Welke soorten bedrijven voldoen op dit moment aan deze criteria?
+Welke bedrijven hebben een enorm groeipotentieel én zijn nu nog heel goedkoop?
+1. Kingsway Financial Services ($KFS)
+Hoe verdient Kingsway Financial Services geld?
+Kingsway is een Search Fund. Een Search Fund is een bedrijf dat geld inzamelt om een ander bedrijf te kopen en te laten groeien.
+KFS is actief in twee segmenten:
+Verlengde garantie
+Kingsway Search Xcelerator (dit is het Search Fund waarmee ze andere bedrijven overnemen)
+Kingsway gebruikt een ‘Search Fund’ strategie om goede bedrijven te vinden die ze kunnen overnemen.
+Search Funds zoeken in de eerste plaats naar talentvolle mensen die een bedrijf willen leiden.
+Daarna helpen ze die mensen om een bedrijf te kop
+
+*[Volledige tekst beschikbaar via Substack]*
+
+
+---
+
+## 🎯 Fair Isaac: Een analyse van 114 pagina's (!)
+**Datum:** 21/05/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Vandaag krijg je een volledig analyse van maar liefst 114 (!) pagina’s over Fair Isaac Corporation.
+Dit is een fantastisch bedrijf dat zeker jouw aandacht verdient.
+Compound with René
+Deze investeringscase schreven we samen met René.
+Benieuwd naar zijn werk? Je kan het hier bekijken:
+Fair Isaac Corporation - Algemene informatie
+Hoe verdient Fair Isaac zijn geld?
+Fair Isaac (FICO) verdient voornamelijk geld door kredietverstrekkers, banken en kredietbureaus kosten in rekening te brengen telkens wanneer zij een FICO-kredietscore opvragen om iemand te beoordelen voor een lening, creditcard of hypotheek. 
+Het bedrijf genereert ook inkomsten door de verkoop van software en analysetools die bedrijven gebruiken om beslissingen te nemen over fraudedetectie, kredietverlening en klantbeheer.
+👔 Bedrijfsnaam: Fair Isaac Corporation
+✍️ ISIN: US3032501047
+🔎 Ticker: FICO
+📚 Type: Oligopoly
+📈 Aandelenkoers: $1.230,0
+💵 Marktkapitalisatie: $28,5 miljard
+📊 Gemiddeld dagelijks volume: $457,9 miljoen
+Merk op dat dit een zeer uitgebreid rapport is.
+Laten we eerst even door de drie belangrijkste conclusies op. 
+Drie belangrijke conclusies
+Dit zijn de 3 belangrijkste conclusies:
+1. Absolute marktleider
+FICO-scores worden gebruikt bij 90% van de kredietbeslissingen in de VS en bij meer dan 95% van alle hypotheekgedekte effecten.
+2. Sterke marges
+FICO heeft sterke structurele voordelen. 
+Deze zorgen voor de hoogste marges in de sector:
+3. FICO is een kannibaal
+FICO is een echte geldmachine. 
+Een groot deel van de winst vloeit terug naar aandeelhouders via de inkoop van eigen aandelen.
+Conclusie analyse
+René schreef een uitgebreid artikel van 114 pagina’s over FICO. Laten we het even voor jou samenvatten.
+FICO is één van de beste compounders uit de geschiedenis.
+Ze hanteren een eenvoudig systeem en zijn heel kapitaallicht.
+Het bedrijf verleent licenties voor zijn kredietscoretechnologie aan kredietverstrekkers en kredietbureaus.
+Telkens als er een hypotheek, autolening of kredietkaartaanvraag wordt verwerkt, ontvangt FICO een kleine vergoeding.
+Hierdoor is FICO als een tolbrug voor het Amerikaanse financiële systeem.
+Het bedrijf profiteert van:
+Hoge overstapkosten
+Institutionele traagheid
+Decennia aan vertrouwen
+FICO-scores zitten diep verweven in verzekeringssystemen en het volledige Amerikaanse financiële systeem.
+Het bedrijf is bovendien zeer winstgevend.
+FICO heeft sterke marges, een hoog rendement op kapitaal en kocht de afgelopen 10 jaar 30% van zijn eigen aandelen in.
+De opportuniteiten zijn aantrekkelijk, maar er zijn ook zorgen. Welke?
+Concurrentie van VantageScore
+Druk vanuit de regelgeving
+AI zou hun bedrijfsmodel kunnen verstoren
+Onepager
+Hieronder vind je de algemene informatie over Fair Isaac Corporation (klik op de afbeelding om ze te vergroten):
+Kwaliteitsscore
+Elk bedrijf krijgt een kwaliteitsscore op basis van 15 criteria.
+Uiteindelijk krijgt het bedrijf een ‘Totale Kwaliteitsscore’. Die berekenen we door de som
 
 *[Volledige tekst beschikbaar via Substack]*
