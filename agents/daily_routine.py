@@ -16,7 +16,34 @@ from config import (
     STOP_LOSS_PCT, CONCENTRATION_MAX, EARNINGS_HORIZON, DCA_ALARM_DAGEN,
     FISCAL_ALARM_PCT, next_dca_date, THESIS_CHECKS, CAGR_AANNAMES, EGM_DREMPEL,
 )
-from saxo_client import get_portfolio
+def _get_portfolio_offline() -> dict:
+    """Yahoo Finance + statische config — geen Saxo login vereist."""
+    holdings = []
+    for symbol, cfg in POSITIONS.items():
+        ticker  = cfg["ticker"]
+        qty     = cfg["qty"]
+        cost    = cfg["cost"]
+        curr    = cfg["currency"]
+        price   = _yf_price(ticker)
+        stale   = price is None
+        price   = price or cost
+        eur_val = (price * qty) if curr == "EUR" else round(price * qty / EURUSD, 2)
+        holdings.append({
+            "symbol":   symbol,
+            "name":     cfg["name"],
+            "sector":   cfg["sector"],
+            "ticker":   ticker,
+            "qty":      qty,
+            "cost":     cost,
+            "price":    price,
+            "currency": curr,
+            "eur_val":  round(eur_val, 2),
+            "value":    round(price * qty, 2),
+            "pnl_pct":  round((price - cost) / cost * 100, 2) if cost and not stale else None,
+            "stale":    stale,
+        })
+    total_eur = sum(h["eur_val"] for h in holdings)
+    return {"account_id": "offline", "total_value": total_eur, "cash": 0, "holdings": holdings}
 
 EARNINGS_CONFIG_FILE = os.path.join(AGENTS_DIR, "earnings_config.json")
 
@@ -532,7 +559,7 @@ def build_html(holdings: list, market: dict, fiscal: dict, triggers: list,
 <html><body style="font-family:Arial,sans-serif;max-width:700px;margin:auto;color:#333;font-size:14px">
 
 <h2 style="color:#1565c0;margin-bottom:4px">Portfolio Monitor &mdash; {today_str}</h2>
-<p style="color:#888;font-size:12px;margin-top:0">Saxo Bank + Yahoo Finance &middot; PP1&ndash;PP3 + KB1&ndash;KB10</p>
+<p style="color:#888;font-size:12px;margin-top:0">Yahoo Finance &middot; PP1&ndash;PP3 + KB1&ndash;KB10</p>
 
 <table width="100%" cellpadding="10" style="background:#e3f2fd;border-radius:8px;margin-bottom:12px;border-collapse:collapse">
 <tr>
@@ -606,7 +633,7 @@ def build_html(holdings: list, market: dict, fiscal: dict, triggers: list,
 <h3 style="border-bottom:2px solid #e3f2fd;padding-bottom:4px;margin-top:20px">Vermogensgroei-projectie</h3>
 <p style="font-size:12px;color:#888;margin:0 0 6px">
 ETF {CAGR_AANNAMES["etf_cagr"]}% + satelliet {CAGR_AANNAMES["satellite_cagr"]}% = gemengd <strong>{cagr_blended}%</strong> CAGR &middot;
-DCA &euro;{CAGR_AANNAMES["dca_nu"]}/mnd nu, &euro;{CAGR_AANNAMES["dca_na_graduatie"]}/mnd na graduatie ({grad_datum})
+DCA &euro;{CAGR_AANNAMES["dca_nu"]}/kwartaal nu, &euro;{CAGR_AANNAMES["dca_na_graduatie"]}/mnd na graduatie ({grad_datum})
 </p>
 <table cellpadding="6" cellspacing="0" style="border-collapse:collapse;font-size:13px">
 <tr style="background:#f5f5f5"><th align="left">Jaar</th><th align="left">Horizon</th><th align="left">Geschatte waarde</th></tr>
@@ -619,7 +646,7 @@ Niet gecorrigeerd voor inflatie &middot; Noodbuffer &euro;{CAGR_AANNAMES["noodbu
 <p style="font-size:11px;color:#bbb;font-style:italic">Performance ETF vs. satelliet: eerste meting op 27/02/2027 (12 maanden vereist).</p>
 
 <hr style="margin:16px 0;border:none;border-top:1px solid #e0e0e0">
-<p style="color:#bbb;font-size:11px">Portfolio Monitor v3 &middot; {today} &middot; Saxo Bank + Yahoo Finance</p>
+<p style="color:#bbb;font-size:11px">Portfolio Monitor v3 &middot; {today} &middot; Yahoo Finance</p>
 </body></html>"""
 
     return subject, html
@@ -659,11 +686,11 @@ def main():
     etf_kern = get_etf_value()
     print(f"   IMIE.MI: {ETF_SHARES} aandelen x ... = EUR {etf_kern:,.2f}")
 
-    print("2. Saxo portfolio ophalen...")
-    raw      = get_portfolio()
+    print("2. Portfolio ophalen (Yahoo Finance)...")
+    raw      = _get_portfolio_offline()
     holdings = raw["holdings"]
     sat_val_eur = sum(h["eur_val"] for h in holdings)
-    print(f"   {len(holdings)} posities | Saxo totaal EUR {raw['total_value']:,.2f}")
+    print(f"   {len(holdings)} posities | Satelliet EUR {raw['total_value']:,.2f}")
 
     print("3. Marktdata ophalen (P/E + earnings)...")
     market = {}

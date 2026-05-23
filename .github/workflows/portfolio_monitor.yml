@@ -1,35 +1,42 @@
-name: Portfolio Monitor — Slotkoersen
+name: Portfolio Monitor — Earnings & Thesis Check
 
 on:
   schedule:
-    # Elke werkdag 21:15 UTC = 22:15 CET (na sluiting NYSE/NASDAQ)
+    # Ochtend: elke werkdag 06:57 UTC = 08:57 CEST (thesis check)
+    - cron: '57 6 * * 1-5'
+    # Avond: elke werkdag 21:15 UTC = 22:15 CEST (na sluiting NYSE/NASDAQ)
     - cron: '15 21 * * 1-5'
   workflow_dispatch:  # handmatig triggeren via GitHub UI
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # nodig voor auto-commit earnings updates
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
       - name: Python instellen
         uses: actions/setup-python@v5
-        env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         with:
           python-version: '3.12'
-
-      - name: Debug info
-        run: |
-          python --version
-          pwd
-          ls -la agents/ | head -20
 
       - name: Portfolio monitor uitvoeren
         env:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           PYTHONPATH: ${{ github.workspace }}
         run: python agents/cloud_monitor.py 2>&1
+
+      - name: Commit earnings updates indien aanwezig
+        run: |
+          git config user.name "Portfolio Monitor Bot"
+          git config user.email "jasper.jacobs04@gmail.com"
+          if git diff --quiet agents/earnings_config.json; then
+            echo "Geen earnings updates."
+          else
+            git add agents/earnings_config.json
+            git commit -m "auto: earnings_config bijgewerkt $(date '+%Y-%m-%d')"
+            git push
+          fi

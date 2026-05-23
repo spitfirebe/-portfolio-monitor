@@ -104,7 +104,7 @@ THESIS_CHECKS = {
 CAGR_AANNAMES = {
     "etf_cagr":             8.0,    # % MSCI ACWI IMI historisch nominaal
     "satellite_cagr":      11.0,    # % ETF + ~3% Slegers alpha doelstelling
-    "dca_nu":               300,    # EUR/maand (student)
+    "dca_nu":               300,    # EUR/kwartaal (student)
     "graduatie_datum":      date(2027, 6, 1),
     "dca_na_graduatie":    1500,    # EUR/maand (conservatief na afstuderen)
     "noodbuffer":          11731,   # EUR — niet meerekenen in beleggingsvermogen

@@ -1,6 +1,9 @@
 """
 Cloud Portfolio Monitor — draait op GitHub Actions, geen lokale computer nodig.
 Gebruikt Yahoo Finance (geen Saxo auth vereist).
+
+Timing: stuurt email ALLEEN bij actief earnings/thesis signaal of trigger.
+Geen dagelijkse spam — enkel wanneer er iets concreets te doen is.
 """
 import json, os, smtplib, urllib.request, urllib.parse
 from datetime import date, datetime
@@ -12,7 +15,7 @@ from config import (
     ETF_TICKER, ETF_SHARES, ETF_INVESTED, SAT_INVESTED,
     POSITIONS, WATCHLIST, HIST_PE, EURUSD,
     STOP_LOSS_PCT, CONCENTRATION_MAX, DCA_ALARM_DAGEN,
-    next_dca_date, POSITIONS_FILE,
+    next_dca_date, POSITIONS_FILE, THESIS_CHECKS,
 )
 
 
@@ -52,19 +55,68 @@ def _yf_forward_pe(ticker: str) -> Optional[float]:
         pass
     return None
 
-def _get_earnings_date(ticker: str) -> Optional[str]:
-    """Earnings datum uit config."""
+def _get_earnings_config() -> dict:
     if not os.path.exists(EARNINGS_CONFIG_FILE):
-        return None
+        return {}
     with open(EARNINGS_CONFIG_FILE, encoding="utf-8") as f:
-        cfg = json.load(f).get("earnings", {}).get(ticker, {})
-    return cfg.get("date")
+        return json.load(f).get("earnings", {})
+
+
+def _yf_next_earnings(ticker: str) -> Optional[str]:
+    """Auto-detectie volgende earnings via Yahoo calendarEvents."""
+    enc = urllib.parse.quote(ticker)
+    url = (f"https://query1.finance.yahoo.com/v10/finance/quoteSummary/{enc}"
+           f"?modules=calendarEvents")
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    try:
+        with urllib.request.urlopen(req, timeout=8) as r:
+            d = json.loads(r.read())
+        events = d["quoteSummary"]["result"][0]["calendarEvents"]
+        dates  = events.get("earnings", {}).get("earningsDate", [])
+        if dates:
+            ts = dates[0].get("raw", 0)
+            return datetime.fromtimestamp(ts).strftime("%Y-%m-%d")
+    except Exception:
+        pass
+    return None
+
+
+def _check_stale_earnings(earnings_cfg: dict) -> list:
+    """Geeft lijst van tickers waarvan de earnings-datum al gepasseerd is (>7 dagen)."""
+    today  = date.today()
+    stale  = []
+    for ticker, cfg in earnings_cfg.items():
+        d_str = cfg.get("date")
+        if not d_str:
+            continue
+        d = datetime.strptime(d_str, "%Y-%m-%d").date()
+        if (today - d).days > 7:
+            auto = _yf_next_earnings(ticker)
+            stale.append({"ticker": ticker, "old_date": d_str,
+                          "label": cfg.get("label", ""), "auto_next": auto})
+    return stale
+
+
+def should_send(earnings_cfg: dict, triggers: list) -> bool:
+    """Stuurt email ALLEEN bij earnings binnen 14 dagen of actieve trigger."""
+    today = date.today()
+    for cfg in earnings_cfg.values():
+        d_str = cfg.get("date")
+        if not d_str:
+            continue
+        d     = datetime.strptime(d_str, "%Y-%m-%d").date()
+        dagen = (d - today).days
+        if 0 <= dagen <= 14:
+            return True
+    return len(triggers) > 0
 
 
 def build_and_send():
     today     = date.today()
     next_dca  = next_dca_date()
     dagen_dca = (next_dca - today).days
+
+    earnings_cfg = _get_earnings_config()
 
     # ETF waarde
     etf_price = _yf_price(ETF_TICKER)
@@ -91,17 +143,17 @@ def build_and_send():
     etf_return  = round((etf_kern - ETF_INVESTED) / ETF_INVESTED * 100, 2)
     sat_return  = round((sat_val_eur - SAT_INVESTED) / SAT_INVESTED * 100, 2)
 
-    # Triggers — initialize list before using
+    # Triggers
     triggers = []
 
-    # Earnings triggers
-    from datetime import datetime as dt
+    # Earnings triggers — 14-dagenvenster voor thesis-check
     for sym, cfg_vals in POSITIONS.items():
-        earn_date_str = _get_earnings_date(cfg_vals["ticker"])
-        if earn_date_str:
-            ed    = dt.strptime(earn_date_str, "%Y-%m-%d").date()
+        earn_cfg  = earnings_cfg.get(cfg_vals["ticker"], {})
+        d_str     = earn_cfg.get("date")
+        if d_str:
+            ed    = datetime.strptime(d_str, "%Y-%m-%d").date()
             dagen = (ed - today).days
-            if 0 <= dagen <= 7:
+            if 0 <= dagen <= 14:
                 triggers.insert(0, f"Earnings {cfg_vals['name']} over {dagen} dagen ({ed.strftime('%d/%m/%Y')})")
 
     # Watchlist
@@ -117,7 +169,7 @@ def build_and_send():
         watchlist_data.append({**info, "ticker": ticker, "price": price, "fpe": fpe,
                                 "hist": hist, "status": status})
 
-    # Continue building triggers
+    # Overige triggers
     for h in holdings:
         pct = round(h["eur_val"] / sat_val_eur * 100, 1) if sat_val_eur else 0
         if pct > CONCENTRATION_MAX:
@@ -127,6 +179,57 @@ def build_and_send():
     for w in watchlist_data:
         if w.get("fpe") and w.get("hist") and w["fpe"] < w["hist"]:
             triggers.append(f"Koopzone: {w['name']} Fwd P/E {w['fpe']:.1f}x < hist. {w['hist']}x")
+
+    # Stale earnings detecteren
+    stale_earnings = _check_stale_earnings(earnings_cfg)
+
+    # Timing-filter: stuur ALLEEN als er iets concreet te doen is
+    if not should_send(earnings_cfg, triggers) and not stale_earnings:
+        print(f"Geen earnings binnen 14 dagen en geen triggers — geen email vandaag ({today}).")
+        return
+
+    # Thesis check blok voor earnings <= 14 dagen
+    thesis_blok = ""
+    naam_map = {cfg["ticker"]: cfg["name"] for cfg in POSITIONS.values()}
+    for sym, cfg_vals in POSITIONS.items():
+        earn_cfg_item = earnings_cfg.get(cfg_vals["ticker"], {})
+        d_str = earn_cfg_item.get("date")
+        if not d_str:
+            continue
+        ed    = datetime.strptime(d_str, "%Y-%m-%d").date()
+        dagen = (ed - today).days
+        if 0 <= dagen <= 14:
+            checks = THESIS_CHECKS.get(sym, [])
+            if checks:
+                items = "".join(f"<li style='margin:3px 0'>{c}</li>" for c in checks)
+                label = earn_cfg_item.get("label", "")
+                thesis_blok += (
+                    f"<div style='background:#e8f5e9;border-left:4px solid #2e7d32;"
+                    f"padding:10px 14px;margin:8px 0;border-radius:0 6px 6px 0'>"
+                    f"<strong>Thesis-check {cfg_vals['name']}</strong>"
+                    f" &mdash; {ed.strftime('%d/%m/%Y')} ({dagen} dagen)"
+                    f"<small style='color:#666;margin-left:8px'>{label}</small>"
+                    f"<ul style='margin:6px 0;padding-left:18px;font-size:13px'>{items}</ul>"
+                    f"</div>"
+                )
+
+    # Stale earnings HTML
+    stale_earn_html = ""
+    if stale_earnings:
+        items = ""
+        for s in stale_earnings:
+            auto_str = (f" &rarr; Yahoo schat: <strong>{s['auto_next']}</strong>"
+                        if s["auto_next"] else " &rarr; Yahoo kon datum niet ophalen")
+            items += (f"<li><strong>{s['ticker']}</strong> {s['label']} "
+                      f"was {s['old_date']}{auto_str}"
+                      f" — update <code>agents/earnings_config.json</code></li>")
+        stale_earn_html = (
+            f"<div style='background:#fff3e0;border-left:4px solid #e65100;"
+            f"padding:10px 14px;margin:8px 0;border-radius:0 6px 6px 0'>"
+            f"<strong>Earnings data verouderd — update vereist:</strong>"
+            f"<ul style='margin:6px 0;padding-left:18px;font-size:13px'>{items}</ul>"
+            f"</div>"
+        )
 
     # Email HTML
     stale_warn = ""
@@ -209,6 +312,8 @@ def build_and_send():
 </table>
 
 {stale_warn}{trigger_html}
+{thesis_blok}
+{stale_earn_html}
 
 <h3 style="border-bottom:2px solid #e3f2fd;padding-bottom:4px">Posities (slotkoersen)</h3>
 <p style="font-size:11px;color:#999;margin:0 0 6px">Aankoopprijs verborgen. Buffer = ruimte tot Zanna -30% stop-loss.</p>
@@ -247,9 +352,15 @@ def build_and_send():
 <p style="color:#bbb;font-size:11px">Cloud Portfolio Monitor &middot; GitHub Actions &middot; {today}</p>
 </body></html>"""
 
-    subject = f"Slotkoersen {today.strftime('%d/%m/%Y')}"
-    if triggers:
-        subject = f"[ALERT] Slotkoersen {today.strftime('%d/%m/%Y')} — {len(triggers)} signaal(en)"
+    earnings_soon = [t for t in triggers if "Earnings" in t]
+    if earnings_soon:
+        subject = f"[THESIS] {today.strftime('%d/%m/%Y')} — {earnings_soon[0][:55]}"
+    elif stale_earnings:
+        subject = f"[UPDATE] Earnings data verouderd — {', '.join(s['ticker'] for s in stale_earnings)}"
+    elif triggers:
+        subject = f"[SIGNAAL] Portfolio {today.strftime('%d/%m/%Y')} — {len(triggers)} signaal(en)"
+    else:
+        subject = f"Portfolio Monitor {today.strftime('%d/%m/%Y')}"
 
     password = GMAIL_APP_PASSWORD.replace(" ", "")
     if not password:
