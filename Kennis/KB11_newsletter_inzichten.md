@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 24/05/2026 | Onze Portefeuille: 17,8% per jaar? | Slegers newsletter |
 | 21/05/2026 | 🎯 Fair Isaac: Een analyse van 114 pagina's (!) | Slegers newsletter |
 | 20/05/2026 | Mijn reis door Frankrijk | Slegers newsletter |
 | 19/05/2026 | 🤝 Wat ik leerde van de meester | Slegers newsletter |
@@ -564,5 +565,72 @@ Hieronder vind je de algemene informatie over Fair Isaac Corporation (klik op de
 Kwaliteitsscore
 Elk bedrijf krijgt een kwaliteitsscore op basis van 15 criteria.
 Uiteindelijk krijgt het bedrijf een ‘Totale Kwaliteitsscore’. Die berekenen we door de som
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Onze Portefeuille: 17,8% per jaar?
+**Datum:** 24/05/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Het is tijd voor een nieuwe update van onze portefeuille vandaag.
+Hoe gaat het met onze bedrijven?
+En welke aandelen zijn vandaag het meest aantrekkelijk?
+Laten we er meteen induiken.
+Aandelen? Of bedrijven?
+Warren Buffett is de beste belegger ter wereld.
+In dit interview [  ] vertelt hij dat hij al op elfjarige leeftijd probeerde aandelen te selecteren.
+Hij keek naar de prijs
+Hij las boeken over technische analyse
+Hij vond het belangrijk om te kunnen voorspellen wat de koers zou doen
+Op een dag las hij het boek van Ben Graham: ‘The Intelligent Investor’.
+Vanaf dat moment kocht hij nooit meer aandelen op dezelfde manier.
+Dat klinkt waanzinnig.
+Warren Buffett is de beste belegger ter wereld.
+Hij staat erom bekend dat hij aandelen koopt zoals Apple, Coca-Cola en American Express.
+Maar sinds hij ‘The Intelligent Investor’ heeft gelezen...
+... stopte hij met het kopen van aandelen en begon hij bedrijven te kopen.
+Sommige van die bedrijven, zoals Apple, Coca-Cola en American Express, zijn toevallig beursgenoteerd.
+Dit is een belangrijke mentaliteitsverandering.
+Op de korte termijn zijn er heel veel willekeurige factoren die de aandelenkoers beïnvloeden.
+Denk maar aan:
+Wijzigingen in de rentevoet
+Sentiment op de beurs
+Analistenrapporten
+Krantenkoppen
+...
+Maar op de lange termijn zullen de onderliggende prestaties van het bedrijf de aandelenkoers bepalen.
+Luister maar naar Peter Lynch:
+💡
+“Er is een 100% correlatie tussen de winst van een bedrijf en wat er met de aandelenkoers gebeurt.”
+De belangrijkste les?
+Op korte termijn kan de koers van een aandeel fors stijgen of dalen door factoren die eigenlijk niets met het bedrijf te maken hebben.
+Maar met genoeg tijd leidt een sterk bedrijf tot een sterk aandeel.
+Op de lange termijn volgen aandelenkoersen altijd de evolutie van de intrinsieke waarde:
+Laten we nu eens naar onze portefeuille kijken.
+Onze portefeuille
+Het gaat uitstekend met onze bedrijven.
+Onze bedrijven zijn gezonder dan die van de S&P 500.
+En dat terwijl ze ook nog eens een pak goedkoper noteren dan de index.
+Zoals je hieronder kan zien, bezitten we betere bedrijven die maar liefst 23% (!) goedkoper zijn dan de S&P 500:
+De intrinsieke waarde van onze bedrijven is met bijna 20% (!) per jaar gestegen.
+Vrijwel alle bedrijven waarin we beleggen, zijn momenteel ondergewaardeerd.
+Op dit moment lijkt de markt zich vooral te richten opde korte termijn.
+Laten we even in de cijfers duiken.
+Onze portefeuille in 2025
+Intrinsieke waarde:+8,6%
+Aandelenkoers:-6,6%
+Hierdoor werd onze portefeuille 15,2% goedkoper.
+Onze portefeuille in 2026
+Intrinsieke waarde:+8,3% (verwachtingen)
+Aandelenkoers:-17,2%
+Hierdoor werd onze portefeuille 25,5% goedkoper.
+Onze portefeuille sinds begin 2026
+Als je 2025 en 2026 combineert, is onze portefeuille maar liefst 40,7% goedkoper geworden (!).
+In diezelfde periode steeg de waardering van de S&P 500 met 5%.
+Dat betekent dat de relatieve waardering van onze portefeuille sinds 2025 met bijna 50% is g
 
 *[Volledige tekst beschikbaar via Substack]*
