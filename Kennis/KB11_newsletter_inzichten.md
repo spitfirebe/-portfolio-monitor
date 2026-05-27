@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 26/05/2026 | ✉️ Een brief aan mijn Partner | Slegers newsletter |
 | 24/05/2026 | Onze Portefeuille: 17,8% per jaar? | Slegers newsletter |
 | 21/05/2026 | 🎯 Fair Isaac: Een analyse van 114 pagina's (!) | Slegers newsletter |
 | 20/05/2026 | Mijn reis door Frankrijk | Slegers newsletter |
@@ -632,5 +633,69 @@ Onze portefeuille sinds begin 2026
 Als je 2025 en 2026 combineert, is onze portefeuille maar liefst 40,7% goedkoper geworden (!).
 In diezelfde periode steeg de waardering van de S&P 500 met 5%.
 Dat betekent dat de relatieve waardering van onze portefeuille sinds 2025 met bijna 50% is g
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## ✉️ Een brief aan mijn Partner
+**Datum:** 26/05/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Zoals je weet, begin ik elk artikel met jou aan te spreken als Partner.
+Waarom? Omdat we dat ook écht zijn. We zitten hier samen in.
+Dat schreven we al in de Owner’s Manual in 2023.
+Zoals je weet zit al mijn geld in de bedrijven waarover ik schrijf.
+Jouw succes is mijn succes. En omgekeerd.
+Het is de enige juiste manier.
+Zoals Charlie Munger zei:
+“Ik denk dat ik mijn hele leven tot de beste 5% van mijn leeftijdsgenoten heb behoord in het begrijpen van de kracht van incentives en toch heb ik die kracht mijn hele leven onderschat. Elk jaar opnieuw word ik verrast door iets dat mijn grenzen nog verder verlegt.”
+De reden dat ik dit artikel vandaag schrijf, is deze e‑mail die ik ontving: 
+Om eerlijk te zijn: deze e‑mail raakte me echt.
+Het betekent veel voor mij.
+Soms vergeten we hoe menselijk we allemaal zijn.
+Het is altijd fijn om waardering te krijgen. 
+Al mijn toewijding, passie en inzet gaan naar De Kwaliteitsbelegger.
+Dit is werkelijk mijn levenswerk.
+Ik ben ongelooflijk dankbaar dat ik van mijn passie mijn beroep heb kunnen maken.
+En dat is dankzij jou. Een Partner in heel dit verhaal.
+Het doel?
+Financiële onafhankelijkheid bereiken. En dat terwijl we elkaar onderweg helpen.
+Want zoals Charlie Munger zei: 
+Bij De Kwaliteitsbelegger beleggen we in kwaliteitsaandelen.
+Uiteraard leiden er meerdere wegen naar Rome.
+Je moet de beleggingsstijl kiezen die het beste bij jou past.
+Wat is belangrijk?
+Kies een strategie die bij je past.  
+Kies een strategie die bewezen heeft de markt te verslaan.
+Voor mij voldoet Kwaliteit aan beide criteria:
+Hetzelfde geldt wanneer je bankier je een bepaald beleggingsproduct aanbeveelt.
+In dat geval moet je hem of haar twee vragen stellen:
+Ben je zelf in dit product belegd?
+Heeft dit product een sterk trackrecord?
+Beleg enkel in het product wanneer het antwoord op beide vragen ‘ja’ is.
+Spoiler: niet veel bankiers slagen voor beide criteria.
+En precies daarom is De Kwaliteitsbelegger ontstaan.
+Om écht het juiste te doen.
+Om jou te helpen betere beleggingsbeslissingen te nemen.
+Er is geen groter voorrecht voor mij dan voor jou te mogen schrijven en analyseren.
+Vandaag bereikt De Kwaliteitsbelegger meer dan 1 miljoen lezers over alle kanalen heen.
+Eén miljoen. Laat dat even bezinken.
+En vandaag wil ik je een nog beter inzicht geven in wat De Kwaliteitsbelegger écht is.
+Mijn dagelijkse routine
+Veel Partners vragen mij naar mijn dagelijkse routine.
+Laat mij iets bekennen: ik ben maniakaal gefocust op productiviteit.
+In boeken zoals Atomic Habits, Eat That Frog en Deep Work leer je iets krachtigs. 
+Door je productiviteit te optimaliseren, bereik je in 2 à 3 uur waar de gemiddelde werknemer een volledige werkdag voor nodig heeft.
+Klinkt straf, hé?
+Ik sta volledig achter die stelling.
+Daarom hou ik mij aan twee regels:
+Ik plan (bijna) nooit meetings voor 15u.
+Ik bouw elke dag op exact dezelfde manier op
+Zo ziet een typische dag bij mij eruit:
+Ik ben mij er heel goed van bewust dat dit
 
 *[Volledige tekst beschikbaar via Substack]*
