@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 28/05/2026 | Het rode goud? | Slegers newsletter |
 | 26/05/2026 | ✉️ Een brief aan mijn Partner | Slegers newsletter |
 | 24/05/2026 | Onze Portefeuille: 17,8% per jaar? | Slegers newsletter |
 | 21/05/2026 | 🎯 Fair Isaac: Een analyse van 114 pagina's (!) | Slegers newsletter |
@@ -697,5 +698,57 @@ Ik plan (bijna) nooit meetings voor 15u.
 Ik bouw elke dag op exact dezelfde manier op
 Zo ziet een typische dag bij mij eruit:
 Ik ben mij er heel goed van bewust dat dit
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Het rode goud?
+**Datum:** 28/05/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Herinner je je onze analyse van TransDigm nog? 
+Het aandeel steeg met +4.800% (!) sinds 2006.
+Maar wat als ik je vertel dat er een kleinere, goedkopere versie bestaat waar je nog nooit van gehoord hebt?
+Maak kennis met Perimeter Solutions.
+Kan Perimeter even succesvol worden als TransDigm? Laten we het uitzoeken.
+Volgende week donderdag (4 juni) geven we om 19u00 een gratis masterclass beleggen.
+Benieuwd?
+Je kan je hier gratis inschrijven:
+1. Hoe verdient Perimeter geld?
+Perimeter is actief in twee segmenten:
+1. Brandveiligheid (74,9% van de omzet)
+Heb je je ooit afgevraagd wat dat rode stofje is dat brandweerlui gebruiken?
+Het is niet zomaar rood water.
+Het is brandvertrager.
+Brandvertragers blussen geen bosbranden. Brandvertragers voorkomen dat bosbranden zich uitbreidt.
+Alles waarop je het brandvertragende middel aanbrengt, wordt onbrandbaar. Het geeft brandweerlieden tijd door de verspreiding van het vuur te vertragen.
+Dit is ook de reden waarom het rood is: piloten moeten kunnen zien waar het product al verspreid is.
+Brandvertragers gebruik je vooral in de natuur, maar soms ook voor particulier gebruik rondom woningen.
+Hieronder zie je de impact van brandvertragers:
+Brandvertragers voorkomen dat bosbranden zich verspreiden.
+Perimeter verkoopt ook een speciale brandvertrager genaamd Fortify [  ].
+Je kan dit gebruiken als preventie tegen brand. De gewone brandvertragers spoelen weg zodra het regent. Bij Fortify is dat niet het geval.
+Fortify is een kleurloze brandvertrager (het wordt niet rood gemaakt zoals andere brandvertragers) en heeft een langere levensduur.
+Dat maakt Fortify interessant voor industriële omgevingen, om kostbare bezittingen te beschermen tegen brand.
+Naast brandvertragers verkoopt Perimeter ook gespecialiseerde schuimen.
+Wanneer je deze schuimen met water mengt, krijg je een combinatie die branden sneller blust dan water alleen.
+Je gebruikt deze schuimen ook in situaties waarin het moeilijk is om het vuur enkel met water te blussen. Denk maar aan brandende olie.
+Een brede moat (slotgracht) met monopolie-uitkomsten
+In brandveiligheid heeft Perimeter een zeer brede slotgracht.
+De slotgracht is gebaseerd op twee pijlers:
+Hoge instapdrempel: concurrenten moeten jarenlang dure laboratoriumtests, veiligheidscontroles en veldproeven doorlopen om brandvertragers te mogen verkopen.
+Schaalvoordelen: snelheid en betrouwbaarheid zijn essentieel wanneer elke minuut levens kan kosten.
+Laten we wat dieper duiken in waarom schaal zo belangrijk is.
+Bij bosbranden telt elke minuut.
+Er hangen mensenlevens, blijvende schade aan de natuur, verwoeste huizen,  … vanaf.
+Elke minuut telt. 
+Daarom moet de brandvertrager altijd in de buurt zijn van potentiële brandhaarden.
+Perimeter bezit cruciale infrastructuur op luchtmachtbases die dit mogelijk maakt:
+Daarbij hebben ze ook een grote vloot van mobiele bases.
+Denk aan grote tankwagens op vrachtwagens.
+Dit helpt om brandvertragers naar de meest afgelegen locaties te br
 
 *[Volledige tekst beschikbaar via Substack]*
