@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 31/05/2026 | Eén aandeel eruit, twee erbij | Slegers newsletter |
 | 28/05/2026 | Het rode goud? | Slegers newsletter |
 | 26/05/2026 | ✉️ Een brief aan mijn Partner | Slegers newsletter |
 | 24/05/2026 | Onze Portefeuille: 17,8% per jaar? | Slegers newsletter |
@@ -752,3 +753,54 @@ Denk aan grote tankwagens op vrachtwagens.
 Dit helpt om brandvertragers naar de meest afgelegen locaties te br
 
 *[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Eén aandeel eruit, twee erbij
+**Datum:** 31/05/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Beleggen draait om opportuniteitskosten.
+Het doel? 
+Het hoogste rendement behalen terwijl je een risico neemt waarbij je je goed voelt. 
+Vandaag verkopen we één aandeel, en kopen we er twee bij.
+Ik moet me verontschuldigen
+Elke keer dat ik een aandeel verkoop, moet ik me eigenlijk verontschuldigen.
+Er is maar één reden waarom we besluiten een aandeel te verkopen…
+… Wanneer ik merk dat ik een fout heb gemaakt. 
+Zoals Charlie Munger zei:
+“Het beste moment om een geweldig aandeel te verkopen, is bijna nooit.”
+De enige geldige reden om een kwaliteitsbedrijf te verkopen? 
+Eén van de meest geweldige bedrijven ter wereld?
+Dat doe je alleen wanneer je merkt dat je fout zat. 
+Wanneer je analyse niet langer intact is en het bedrijf (een deel van) zijn moat verliest.
+Vandaag verkopen we een aandeel in onze portefeuille.
+Ik denk dat er elders betere kansen liggen. 
+En daarom wil ik me verontschuldigen bij jou, Partner.
+Ik heb hier een fout gemaakt en neem daar de volledige verantwoordelijkheid voor.
+Helaas hoort het maken van fouten bij beleggen.
+We moeten altijd de regel van drie van François Rochon in gedachten houden:
+• Eén jaar op drie daalt de beurs minstens 10%.
+• Eén aandeel op drie dat we kopen wordt een teleurstelling.
+• Eén jaar op drie presteren we slechter dan de index.
+Zoals Peter Lynch zei:
+Maar dat betekent niet dat ik me hier goed bij voel. 
+Ik voel me persoonlijk verantwoordelijk. 
+Daarom wil ik de belangrijkste inzichten met je delen.
+Dit is wat we doen:  
+We verkopen één bedrijf. 
+We gebruiken de opbrengst om twee bestaande posities te versterken: bedrijven waarvan ik denk dat ze meer opwaarts potentieel hebben.
+Laten we meteen in de bedrijfsnamen duiken.
+De transacties
+Benieuwd welk aandeel we verkopen?
+En welke twee aandelen we kopen?
+Schrijf je voor het gratis webinar volgende week donderdag.
+Het is een lezing die héél mijn beleggingsfilosofie tot in de puntjes uitlegt.
+Al (!) mijn eigen geld zit belegd in 19 aandelen die ik selecteer volgens deze methode.
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Ik kan niet wachten om je donderdag te zien. Schrijf je hier in en leer gratis bij over de beurs. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
