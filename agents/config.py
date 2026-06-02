@@ -24,8 +24,8 @@ POSITIONS_FILE = os.path.join(AGENTS_DIR, "positions_config.json")
 
 # ── Portefeuille (wordt dynamisch aangevuld in runtime) ───────────────────────
 ETF_TICKER    = "IMIE.MI"
-ETF_SHARES    = 671
-ETF_INVESTED  = 6951.56   # historisch — voor rendementberekening
+ETF_SHARES    = 726
+ETF_INVESTED  = 7566.46   # historisch — voor rendementberekening
 SAT_INVESTED  = 2188.48   # historisch — voor rendementberekening
 
 # ── DCA — wordt automatisch voortgezet naar volgend kwartaal ─────────────────
