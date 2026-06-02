@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 02/06/2026 | 🥭 De Mango‑strategie | Slegers newsletter |
 | 31/05/2026 | Eén aandeel eruit, twee erbij | Slegers newsletter |
 | 28/05/2026 | Het rode goud? | Slegers newsletter |
 | 26/05/2026 | ✉️ Een brief aan mijn Partner | Slegers newsletter |
@@ -804,3 +805,67 @@ Pieter
 PS Ik kan niet wachten om je donderdag te zien. Schrijf je hier in en leer gratis bij over de beurs. [  ]
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## 🥭 De Mango‑strategie
+**Datum:** 02/06/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+Dit is een artikel van onze exclusieve achter-de-schermen nieuwsbrief.
+Welke? Tiny Titans. Dit zijn bedrijven die het potentieel hebben om van Tiny naar Titans te groeien.
+Het is alsof je Lotus Bakeries koopt. Maar dan 20 jaar geleden.
+Wil je op 9 juni aansluiten bij Tiny Titans? Ontdek hier of Tiny Titans iets voor jou is [  ].
+De beste belegging die je kan doen? 
+Beleggen in een bedrijf dat van Tiny naar Titan kan groeien.
+Het is alsof je in Amazon zou beleggen. Maar dan 25 jaar geleden.
+Laat me jou uitleggen hoe je zelf dit soort aandelen kan vinden.
+Waarom microcaps?
+Kleine aandelen doen het belachelijk goed op de beurs.
+Als je in 1928 €1.000 had belegd, dan had je vandaag ongeveer:
+Large caps: €8,7 miljoen
+Small caps: €430 miljoen
+Micro caps: €870 miljoen
+Hoogwaardige small- & micro caps: €1,26 miljard
+Lees dat nog eens opnieuw. Het verschil is fenomenaal! 
+Hoe kan zo’n enorme outperformance bestaan?
+Marktinefficiëntie.
+Mr. Market gedraagt zich soms vreemd.
+Maar zodra hij een klein bedrijf moet waarderen, slaat hij helemaal op hol.
+Als vuistregel geldt: Hoe kleiner het aandeel, hoe inefficiënter de markt.
+Grote spelers zoals fondsbeheerders kunnen kleine bedrijfjes simpelweg niet kopen.
+Als ze het toch proberen, duwt hun eigen koopvolume de koers al snel met 20% omhoog.
+En dat zonder ze een volledige positie hebben opgebouwd. 
+Dat is exact waarom Warren Buffett zegt dat hij met €1 miljoen een rendement van 50% per jaar zou kunnen genereren.
+Sommige mensen denken dat beleggen in kleine bedrijven héél risicovol is.
+Dat hoeft zeker niet zo te zijn.
+Slimme beleggers doen het anders.
+Je zoekt naar een goed, klein bedrijf dat gestaag groeit.
+Een voorbeeld?
+Lemaitre Vascular ($LMAT):
+Hoe vind je de volgende grote winnaars
+Een geweldig klein aandeel vinden komt neer op vier dingen:
+Lage liquiditeit
+Hoge winstgevendheid 
+Aantrekkelijke groei
+Lage verwatering
+1. Lage liquiditeit 
+Banken en grote fondsen kunnen geen aandelen kopen die te klein zijn.
+Deze aandelen met een lage liquiditeit worden volledig genegeerd.
+Dat is ons oneerlijke voordeel.
+Zoals Warren Buffett zei:
+“Het geheim van het leven is zwakke concurrentie. Als je de markt wil verslaan, moet je gaan waar de concurrentie zwak is. Dat doe je bij de kleine bedrijfjes.” - Warren Buffett
+2. Hoge winstgevendheid
+Hier zijn twee statistieken die je best kent:
+82% van alle aandelen die tussen 2012 en 2022 1.000% stegen, waren al winstgevend.
+87% van alle wereldwijde aandelen die de afgelopen tien jaar 1.000% of meer stegen, waren kleine bedrijven.
+De boodschap is glashelder: winstgevendheid is alles.
+3. Aantrekkelijke groei
+Je zoekt naar hoogwaardige bedrijven met stabiele cashflows en een economische moat.
+Naarmate de winst groeit, stijgt ook de intrinsieke waarde van het bedrijf.
+En op lange termijn volgt de aandelenkoers altijd de intrinsieke waarde.
+4. Lage verwatering
+Wanneer een bedrijf voortdurend nieuwe aandelen uitgeeft, wordt jouw stuk van de taart elk jaar kleiner.
+Een groot voordeel van
+
+*[Volledige tekst beschikbaar via Substack]*
