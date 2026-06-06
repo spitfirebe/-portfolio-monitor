@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 06/06/2026 | 🚀 Knalt SpaceX als een raket?! | Slegers newsletter |
 | 02/06/2026 | 🥭 De Mango‑strategie | Slegers newsletter |
 | 31/05/2026 | Eén aandeel eruit, twee erbij | Slegers newsletter |
 | 28/05/2026 | Het rode goud? | Slegers newsletter |
@@ -867,5 +868,71 @@ En op lange termijn volgt de aandelenkoers altijd de intrinsieke waarde.
 4. Lage verwatering
 Wanneer een bedrijf voortdurend nieuwe aandelen uitgeeft, wordt jouw stuk van de taart elk jaar kleiner.
 Een groot voordeel van
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 🚀 Knalt SpaceX als een raket?!
+**Datum:** 06/06/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋,
+De domste fout die je als belegger kan maken?
+De massa volgen.
+Dat is een recept voor ellende op de beurs.
+Op 12 juni gaat SpaceX naar de beurs via een IPO.
+Je zou kunnen denken dat dit een geweldige kans is voor jou.
+Het bedrijf zou immers noteren aan een waardering van €1,75 biljoen (!).
+In eerste instantie lijkt dat goed nieuws, tot je het volgende beseft:
+Aan een waardering van €1,75 biljoen noteert SpaceX aan bijna 100× (!) zijn omzet.
+Dat is gigantisch.
+Het betekent dat het aandeel geprijsd is voor perfectie.
+Er is maar één manier waarop je hier grote rendementen haalt.
+SpaceX moet alles perfect doen om dit waarderingsniveau te rechtvaardigen.
+Er is absoluut GEEN veiligheidsmarge.
+En als het bedrijf de verwachtingen niet waarmaakt?
+Dan lijd je forse verliezen, zoals bij de meeste IPO’s.
+Houd dit zeker in je achterhoofd: 
+Overgewaardeerde IPO’s (zoals SpaceX) doen het doorgaans slecht op de beurs.
+Je verliest geld zodra de hype wegvalt (dat gebeurt altijd).
+Als IPO‑belegger maak je vooral de vroege beleggers rijk.
+Dus… wie probeer je hier eigenlijk rijk te maken? 
+Jezelf? 
+Of Elon Musk?
+Er zijn nog andere redenen, maar uiteindelijk komt het hierop neer…
+Als je SpaceX wil bezitten, is dit absoluut niet het juiste moment.
+Het goede nieuws?
+Er zijn heel wat andere interessante aandelen in de ruimtevaartsector.
+Kijk maar naar de 10×‑kandidaten op onze watchlist.
+Ze zijn niet zo populair als SpaceX of andere grote namen.
+Maar ze leverden de voorbije 5 jaar een totaalrendement op van 333%.
+Dat is een jaarlijks rendement van 34%.
+Volgende week publiceren we een exclusief rapport met de beste aandelen in de ruimte‑industrie.
+Het is exclusief voor Partners van Tiny Titans.
+Het stijgingspotentieel van deze bedrijven is enorm.
+Waarom?
+Kijk naar een recent rapport van Deloitte.
+Daarin staat dat de ruimte‑economie volgend jaar zal groeien naar €800 miljard.
+Dat komt door een sterke toename in de globale defensie-uitgaven.
+En weet je wie profiteert van die enorme kapitaalinstroom?
+Ruimtebedrijven met hoge rendementen op geïnvesteerd kapitaal (ROIC).
+Wij hebben drie van de allerbeste geïdentificeerd.
+En in tegenstelling tot SpaceX hebben deze aandelen geen hype nodig om te groeien.
+Ze worden gedreven door bedrijfsfundamenten waarop je kan vertrouwen.
+Kijk maar naar de prestaties van een bedrijf zoals dit.
+Een ruimtebedrijf dat sinds 1990 meer dan 100× (!) is gestegen.
+Dit is waar we naar op zoek gaan:
+Gezonde balans: sterke financiële positie met beheersbare schulden.
+Gedisciplineerde aanpak: geen buitensporige verwatering voor aandeelhouders.
+ROIC boven 15%: hoge rendementen op geïnvesteerd kapitaal.
+Hoge winstgevendheid: nettowinstmarge boven 10%.
+Aantrekkelijke omzetgroei > 9% per jaar
+Sterke winstgroei per aandeel > 11% per jaar
+Gelukkig voor ons is Wall Street zo gefocust op SpaceX dat ze deze fantastische bedrijven niet eens zien.
+Maar als Partner kun jij deze winnaars kopen aan spotprijzen.
+En ze vervol
 
 *[Volledige tekst beschikbaar via Substack]*
