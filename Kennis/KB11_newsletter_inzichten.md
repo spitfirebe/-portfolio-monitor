@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 07/06/2026 | ⭐ 5 Favoriete aandelen: Juni 2026 | Slegers newsletter |
 | 06/06/2026 | 🚀 Knalt SpaceX als een raket?! | Slegers newsletter |
 | 02/06/2026 | 🥭 De Mango‑strategie | Slegers newsletter |
 | 31/05/2026 | Eén aandeel eruit, twee erbij | Slegers newsletter |
@@ -934,5 +935,61 @@ Sterke winstgroei per aandeel > 11% per jaar
 Gelukkig voor ons is Wall Street zo gefocust op SpaceX dat ze deze fantastische bedrijven niet eens zien.
 Maar als Partner kun jij deze winnaars kopen aan spotprijzen.
 En ze vervol
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## ⭐ 5 Favoriete aandelen: Juni 2026
+**Datum:** 07/06/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Elke maand krijg je een update over onze favoriete aandelen van de maand.
+Waar staan de markten vandaag? En wat zijn onze favoriete aandelen?
+Laten we dat vandaag samen ontdekken.
+Mei 2026
+De S&P 500 steeg met 5.0% in mei.
+Maar het begin van juni was minder: -2,4%.
+Een voorbeeld? De Nasdaq daalde deze week met 4,4%, terwijl enkele ‘saaie kwaliteitsaandelen’ het juist heel goed deden:
+Brown & Brown: +4,8%
+Ameriprise Financial: +2,2%
+Medpace: +2,2%
+Ik verwacht dat dit soort bewegingen steeds vaker gaan voorkomen.
+Kwaliteit is héél goed gepositioneerd om het vanaf hier beter te doen dan de markt.
+Beleggers zijn vandaag ‘Angstig’ volgens de Fear & Greed Index [  ]:
+Beste en slechtste aandelen
+Dit overzicht toont de beste en slechtste presteerders binnen onze watchlist van de afgelopen maand.
+Slechtste presteerders
+Hoe goedkoper we geweldige bedrijven kunnen kopen, hoe beter.
+Hier zijn de slechtste presteerders van de voorbije maand:
+Beste presteerders
+Deze aandelen deden het heel goed de voorbije maand:
+💧 In de spotlights: Badger Meter, Inc. ($BMI)
+Hoe verdient het bedrijf geld?
+Badger Meter levert slimme technologie om alles wat door een leiding stroomt te meten en te sturen. 
+Het bedrijf evolueerde van een klassieke producent van mechanische meters naar een hoogtechnologische speler in waterbeheer. 
+Daardoor zijn ze vandaag de duidelijke marktleider:
+Meer dan 90% omzet zit in de VS
+Een toppositie in slimme watersystemen voor steden
+Eén volledig geïntegreerd systeem waarin hun eigen slimme meters samenwerken met de ORION‑ en BEACON‑software
+Waarom verdient het een plekje in de spotlights?
+We kunnen Badger Meter niet bespreken zonder hun uitzonderlijk track record te benoemen. 
+Het bedrijf bestaat al 120 (!) jaar.
+Sinds de beursintroductie in 1971 heeft het aandeel gemiddeld 12,2% per jaar opgeleverd.
+De dominante marktpositie van Badger Meter komt uit drie bronnen:
+Verticale integratie: Ze bouwen hun eigen meters, sensoren en software. Hierdoor lossen ze problemen snel op en lanceren ze nieuwe ideeën sneller dan wie dan ook. 
+Hoge overstapkosten: Waterbedrijven sluiten lange contracten. Zodra Badger Meter geïnstalleerd is, kost overstappen veel geld en veel gedoe. 
+Terugkerende inkomsten: Dit zorgt voor een constante stroom voorspelbare cash uit softwareabonnementen, monitoringdiensten en relaties met waterbedrijven die vaak tientallen jaren meegaan.
+Het trackrecord van Badger Meter op het vlak van kapitaalallocatie is ronduit indrukwekkend.
+Brutomarge: 41.4% (> 40%? ✅)
+ROIC: 25.8% (> 15%? ✅)
+Free Cash Flow‑conversie: De voorbije vijf jaar lag die steeds boven 125% van de nettowinst. (> 80%? ✅)
+De wereldwijde markt voor slimme watertechnologie wordt tegen 2031 geschat op €37,4 miljard.
+Deze markt zou met 12% (!) per jaar moeten kunnen groeien. 
+Een grote overname
+Badger Meter deed in 2025 een grote zet met de overname van SmartCover Systems.
+Dit was de grootste acquisitie in zijn geschiedenis. Die deal gaf hun software
 
 *[Volledige tekst beschikbaar via Substack]*
