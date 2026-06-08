@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 07/06/2026 | 💨 Een stapje verder | Slegers newsletter |
 | 07/06/2026 | ⭐ 5 Favoriete aandelen: Juni 2026 | Slegers newsletter |
 | 06/06/2026 | 🚀 Knalt SpaceX als een raket?! | Slegers newsletter |
 | 02/06/2026 | 🥭 De Mango‑strategie | Slegers newsletter |
@@ -991,5 +992,70 @@ Deze markt zou met 12% (!) per jaar moeten kunnen groeien.
 Een grote overname
 Badger Meter deed in 2025 een grote zet met de overname van SmartCover Systems.
 Dit was de grootste acquisitie in zijn geschiedenis. Die deal gaf hun software
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 💨 Een stapje verder
+**Datum:** 07/06/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+Dag belegger 👋,
+Geef het maar toe.
+Diep vanbinnen wil je niets liever dan bedrijven kopen met 10x potentieel.
+Bedrijven ontdekken zoals Fair Isaac (FICO) twintig jaar geleden.
+Een belegging van €10.000 is vandaag €9,23 (!) miljoen waard.
+Hier zijn een paar andere voorbeelden:
+🏠 NVR: +60,300% sinds 1993 
+🔩 O’Reilly Automotive: +54,400% sinds 1993
+⚡ Monster Beverage: +50.000% sinds 1986 
+🚗 Copart: +20,100% sinds 1994 
+⚙️ TransDigm: +5,000% sinds 2006
+Wil je aandelen zoals dit in je portefeuille?
+Je bent niet hebzuchtig. 
+Je bent gewoon strategisch.
+En waarom ook niet?
+Eén enkele 50‑bagger kan je leven volledig veranderen.
+Het kan je eindelijk rust geven en je familie een beter leven bieden.
+Maar dit vertelt bijna niemand: Om zulke rendementen te behalen, moet je anders denken.
+Laat het mij jou uitleggen…
+Mijn beste belegging ooit
+Mijn beste belegging ooit? Games Workshop.
+In 2015 was het bedrijf nog onbekend.
+Maar als je instapte toen ik er voor het eerst over schreef?
+Dan stond je vandaag meer dan 5.000% hoger.
+Het was een fantastische belegging.
+Om eerlijk te zijn is het mijn beste belegging ooit.
+Hoe vond ik het aandeel?
+Door heel intensief onderzoek te doen.
+Ik reis de wereld rond om de CEO’s van de bedrijven waarin we beleggen te ontmoeten.
+Begrijp me niet verkeerd: je moet nog steeds de jaarverslagen lezen.
+Dat is een goed begin.
+Maar wat de meeste beleggers niet beseffen, is dat de belangrijkste details meestal offline te vinden zijn.
+Zeker bij de kleine bedrijfjes.
+Daarom ben ik voortdurend onderweg om de bedrijven die we bezitten persoonlijk te bezoeken.
+Zo reis ik volgende week naar Seattle, en midden juli naar Hamburg om enkele bedrijven te bezoeken en te praten met CEO’s.
+Het afgelopen jaar ben ik in meer dan 20 steden en 8 verschillende landen geweest.
+Van New York en Washington DC tot Omaha, Parijs, Dublin, Madrid en nog vele andere plaatsen.
+Alles om te ontdekken of een bedrijf écht een belegging waard is.
+Je zou denken dat 65.000 mijl per jaar vliegen veel werk is.
+Maar als het gaat om je vermogen en de toekomst van je familie?
+Dan kan je niet thuis blijven zitten met enkel wat rapportjes.
+De les?
+Het is heel intensief en intens om alle bedrijven te gaan bezoeken.
+Maar het geeft je een enorme voorsprong op andere beleggers.
+Het goede nieuws?
+Jij hoeft het werk niet zelf te doen.
+Ik doe het voor jou. Ik ga letterlijk een stapje verder.
+Volgende week reis ik naar Seattle om nieuwe bedrijven te onderzoeken.
+Jij hoeft je nooit af te vragen of een aandeel echt 10x‑potentieel heeft of gewoon doet alsof.
+De meeste beleggers missen de grote winnaars omdat ze de verkeerde vragen stellen.
+Maar met Tiny Titans wordt dat niet jouw verhaal.
+Jij ziet onze topkeuzes altijd vóór iemand anders ze opmerkt.
+Zo kunnen we samen een fantastisch beleggingspad bewandelen.
+Op 9 juni om 14:00 uur Belgische tijd opent Tiny Titans de deuren voor Cohort 2.
+Dat is de eerste keer sinds de lancering.
+Om onze belangen te beschermen, openen we daarna pas weer in 202
 
 *[Volledige tekst beschikbaar via Substack]*
