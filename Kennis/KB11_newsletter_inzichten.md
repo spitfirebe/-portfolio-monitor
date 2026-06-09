@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 08/06/2026 | Morgen is het D‑day | Slegers newsletter |
 | 07/06/2026 | 💨 Een stapje verder | Slegers newsletter |
 | 07/06/2026 | ⭐ 5 Favoriete aandelen: Juni 2026 | Slegers newsletter |
 | 06/06/2026 | 🚀 Knalt SpaceX als een raket?! | Slegers newsletter |
@@ -1057,5 +1058,70 @@ Zo kunnen we samen een fantastisch beleggingspad bewandelen.
 Op 9 juni om 14:00 uur Belgische tijd opent Tiny Titans de deuren voor Cohort 2.
 Dat is de eerste keer sinds de lancering.
 Om onze belangen te beschermen, openen we daarna pas weer in 202
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Morgen is het D‑day
+**Datum:** 08/06/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+Dag belegger 👋
+Waar heb jij het meeste spijt van als belegger?
+Je had Lemaitre Vascular kunnen kopen voor $2 in 2009.
+Vandaag kost het $95 per aandeel.
+Een belegging van €5.000 zou nu €237.500 waard zijn.
+Het missen van zo’n belegging kan écht pijn doen.
+Ik heb er zo al best veel gemist in mijn leven.
+En het doet nog meer pijn wanneer je diep van binnen weet dat je in het bedrijf had moeten beleggen.
+Het is een beetje zoals wat Charlie Munger zei over Google in 2015:
+“Ik voel mij een complete sukkel omdat ik Google niet beter heb herkend. We zaten daar gewoon op onze duim te zuigen. Dus ja, we schamen ons. We wisten dat we Google hadden moeten kopen.”
+(Berkshire Hathaway kocht Alphabet voor het eerst in 2025)
+Ben je het beu om dit soort grote winnaars telkens te missen?
+Het goede nieuws: je kan werken met een bewezen strategie.
+Heel eenvoudig.
+Je focust op S.H.E.-aandelen:
+Slimme smallcaps
+Hoogwaardige bedrijven
+Explosief groeiend
+Meer dan 90% van alle aandelen voldoet niet aan deze criteria.
+Maar de paar die dat wél doen, leveren vaak een ongelooflijk hoog rendement op.
+Hier is een e-mail die ik in 2015 naar een vriend stuurde over één van mijn ontdekkingen.
+Games Workshop is een absurd sterk succesverhaal:
+Ik kan niet beloven dat we elk jaar beter presteren dan de markt.
+Maar wanneer een aandeel wel aan onze criteria voldoet?
+Dan kan het knallen.
+Dus… Wat als je veiligheid en explosieve groei op één plek kan vinden?
+Dat is precies waar Tiny Titans om draait.
+Morgen om 14:00 uur Belgische tijd gaan de deuren open.
+Dat voor het eerst sinds de lancering.
+⚠️ Maar let op: er zijn maar 100 plekjes beschikbaar.
+Ik kan niet te veel nieuwe mensen toelaten. 
+Als we met te veel zijn, beginnen we de aandelenprijs zelf te beïnvloeden.
+Dat willen we absoluut vermijden.
+Het zou onze opwaarts potentieel beperken.
+❌ Daarom worden er maar 100 plekjes beschikbaar gemaakt.
+Hoe snel die 100 plaatsen morgen weg zullen zijn?
+Ik heb geen idee.
+Het kan enkele minuten duren.
+Het kan een uur duren.
+Misschien een paar uur.
+Maar één ding staat vast: Er zijn veel meer geïnteresseerden dan beschikbare plekjes.
+Na deze opening blijven de deuren waarschijnlijk gesloten tot 2028 of 2029.
+Hier zijn de feiten:
+🙋 18.261 geïnteresseerden hebben aangegeven deel te willen uitmaken van Tiny Titans.
+📅 2.367 mensen hebben 9 juni om 14:00 Belgische tijd al in hun agenda gezet.
+✅ 1.068 mensen zijn goedgekeurd. Zij mogen officieel deelnemen zodra de deuren openen.
+🔥 Er zijn slechts 100 plekjes.
+Wat er morgen gaat gebeuren
+Dit is wat er morgen zal gebeuren:
+Morgen om 14:00 uur Belgische tijd krijg je een e‑mail met de titel ‘🎉 De deuren zijn open’.
+Binnen de e‑mail ga je dit zien:
+Klik op de knop ‘Ik wil me abonneren op Tiny Titans’.
+Je gaat meteen naar Stripe:
+Na de betaling krijg je een e‑mail zoals deze:
+Klik op de link ‘Log in’ en je krijgt meteen toegang tot de website, inclusief de drie aandelen die we nu kopen en alle exclusieve rapporten.
+Ben je klaar om morgen samen met mij aan dez
 
 *[Volledige tekst beschikbaar via Substack]*
