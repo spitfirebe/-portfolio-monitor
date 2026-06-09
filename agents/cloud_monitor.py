@@ -39,7 +39,10 @@ def _load_tracker_portfolio() -> dict:
         return sum(float(l.get("shares", 0)) for l in h.get("lots", []))
 
     def invested(h):
-        return sum(float(l.get("shares", 0)) * float(l.get("price", 0)) for l in h.get("lots", []))
+        return sum(
+            float(l.get("shares", 0)) * float(l.get("price", 0)) + float(l.get("fees", 0))
+            for l in h.get("lots", [])
+        )
 
     return {
         "etf": {

@@ -126,6 +126,16 @@
           "date": "2026-06-01",
           "shares": 55,
           "price": 11.18
+        },
+        {
+          "date": "2026-06-09",
+          "shares": 344,
+          "price": 11.15,
+          "fees": 19.6,
+          "brokerFee": 15.0,
+          "transactionTax": 4.6,
+          "settlementDate": "2026-06-11",
+          "brokerReference": "2026 73926122"
         }
       ],
       "valuation": {
