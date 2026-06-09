@@ -1,0 +1,140 @@
+{
+  "_comment": "Jouw posities. Pas aan na elke aan-/verkoop, dan refresh_data.py opnieuw draaien. 'lots' = aankopen; price in de valuta van het aandeel (currency). yahoo = Yahoo Finance ticker.",
+  "baseCurrency": "EUR",
+  "benchmark": {
+    "ticker": "IWDA.AS",
+    "name": "MSCI World (IWDA)"
+  },
+  "holdings": [
+    {
+      "ticker": "AOF.DE",
+      "yahoo": "AOF.DE",
+      "name": "ATOSS Software",
+      "type": "Aandeel",
+      "sector": "Technologie",
+      "region": "Europa",
+      "currency": "EUR",
+      "hue": 168,
+      "yield": 0.0296,
+      "lots": [
+        {
+          "date": "2026-04-14",
+          "shares": 6,
+          "price": 80.58
+        }
+      ],
+      "valuation": {
+        "signal": "KOPEN",
+        "forwardPE": 25.9,
+        "histPE": 38,
+        "discount": 0.318,
+        "upside": 0.22
+      }
+    },
+    {
+      "ticker": "UCB.BR",
+      "yahoo": "UCB.BR",
+      "name": "UCB SA",
+      "type": "Aandeel",
+      "sector": "Gezondheidszorg",
+      "region": "Europa",
+      "currency": "EUR",
+      "hue": 312,
+      "yield": 0.0058,
+      "lots": [
+        {
+          "date": "2026-04-20",
+          "shares": 3,
+          "price": 255.5
+        }
+      ],
+      "valuation": {
+        "signal": "KOPEN",
+        "forwardPE": 18.5,
+        "histPE": 22,
+        "discount": 0.159,
+        "upside": 0.18
+      }
+    },
+    {
+      "ticker": "HLNE",
+      "yahoo": "HLNE",
+      "name": "Hamilton Lane",
+      "type": "Aandeel",
+      "sector": "Financieel",
+      "region": "VS",
+      "currency": "USD",
+      "hue": 198,
+      "yield": 0.0276,
+      "lots": [
+        {
+          "date": "2026-04-17",
+          "shares": 6,
+          "price": 107.0
+        }
+      ],
+      "valuation": {
+        "signal": "WACHT",
+        "forwardPE": 22,
+        "histPE": 28,
+        "discount": 0.214,
+        "upside": 0.05
+      }
+    },
+    {
+      "ticker": "V",
+      "yahoo": "V",
+      "name": "Visa",
+      "type": "Aandeel",
+      "sector": "Financieel",
+      "region": "VS",
+      "currency": "USD",
+      "hue": 224,
+      "yield": 0.0082,
+      "lots": [
+        {
+          "date": "2026-04-02",
+          "shares": 1,
+          "price": 296.5
+        }
+      ],
+      "valuation": {
+        "signal": "WACHT",
+        "forwardPE": 28.5,
+        "histPE": 30,
+        "discount": 0.05,
+        "upside": 0.1
+      }
+    },
+    {
+      "ticker": "IMIE.MI",
+      "yahoo": "IMIE.MI",
+      "name": "SPDR MSCI ACWI IMI",
+      "type": "ETF",
+      "sector": "Wereldwijd",
+      "region": "Wereldwijd",
+      "currency": "EUR",
+      "hue": 256,
+      "yield": 0.017,
+      "lots": [
+        {
+          "date": "2026-02-27",
+          "shares": 671,
+          "price": 10.36
+        },
+        {
+          "date": "2026-06-01",
+          "shares": 55,
+          "price": 11.18
+        }
+      ],
+      "valuation": {
+        "signal": "CORE",
+        "forwardPE": null,
+        "histPE": null,
+        "discount": null,
+        "upside": null
+      }
+    }
+  ]
+}

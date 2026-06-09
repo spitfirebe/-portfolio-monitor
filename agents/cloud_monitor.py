@@ -12,11 +12,54 @@ from typing import Optional
 
 from config import (
     GMAIL_USER, GMAIL_APP_PASSWORD,
+    BASE_DIR,
     ETF_TICKER, ETF_SHARES, ETF_INVESTED, SAT_INVESTED,
     POSITIONS, WATCHLIST, HIST_PE, EURUSD,
     STOP_LOSS_PCT, CONCENTRATION_MAX, DCA_ALARM_DAGEN,
     next_dca_date, POSITIONS_FILE, THESIS_CHECKS,
 )
+
+
+def _load_tracker_portfolio() -> dict:
+    """Lees dezelfde posities als de lokale Portfolio Tracker, als die beschikbaar is."""
+    path = os.path.join(BASE_DIR, "Porfolio tracker", "build", "positions.json")
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception:
+        return {}
+
+    holdings = data.get("holdings", [])
+    etf = next((h for h in holdings if h.get("type") == "ETF"), None)
+    satellites = [h for h in holdings if h.get("type") != "ETF"]
+
+    def shares(h):
+        return sum(float(l.get("shares", 0)) for l in h.get("lots", []))
+
+    def invested(h):
+        return sum(float(l.get("shares", 0)) * float(l.get("price", 0)) for l in h.get("lots", []))
+
+    return {
+        "etf": {
+            "ticker": etf.get("yahoo", etf.get("ticker")) if etf else ETF_TICKER,
+            "shares": shares(etf) if etf else ETF_SHARES,
+            "invested": invested(etf) if etf else ETF_INVESTED,
+        } if etf else None,
+        "positions": {
+            f"{h.get('ticker')}:tracker": {
+                "ticker": h.get("yahoo", h.get("ticker")),
+                "cost": invested(h) / shares(h) if shares(h) else 0,
+                "qty": shares(h),
+                "currency": h.get("currency", "EUR"),
+                "name": h.get("name", h.get("ticker")),
+                "sector": h.get("sector", "Overig"),
+            }
+            for h in satellites
+        },
+        "sat_invested": sum(invested(h) for h in satellites),
+    }
 
 
 def _yf_price(ticker: str) -> Optional[float]:
@@ -54,6 +97,12 @@ def _yf_forward_pe(ticker: str) -> Optional[float]:
     except Exception:
         pass
     return None
+
+
+def _eurusd_rate() -> float:
+    """Live EURUSD; fallback naar configwaarde als Yahoo faalt."""
+    rate = _yf_price("EURUSD=X")
+    return float(rate) if rate else EURUSD
 
 def _get_earnings_config() -> dict:
     if not os.path.exists(EARNINGS_CONFIG_FILE):
@@ -117,20 +166,35 @@ def build_and_send():
     dagen_dca = (next_dca - today).days
 
     earnings_cfg = _get_earnings_config()
+    tracker_portfolio = _load_tracker_portfolio()
+    etf_cfg = tracker_portfolio.get("etf") or {
+        "ticker": ETF_TICKER,
+        "shares": ETF_SHARES,
+        "invested": ETF_INVESTED,
+    }
+    positions = tracker_portfolio.get("positions") or POSITIONS
+    sat_invested = tracker_portfolio.get("sat_invested") or SAT_INVESTED
+    eurusd = _eurusd_rate()
+    portfolio_source = "tracker positions.json" if tracker_portfolio.get("etf") else "agents/config.py"
+    print(
+        "Portfolio bron: "
+        f"{portfolio_source}; ETF {etf_cfg['ticker']} shares={etf_cfg['shares']} "
+        f"invested={etf_cfg['invested']:.2f}; EURUSD={eurusd:.4f}"
+    )
 
     # ETF waarde
-    etf_price = _yf_price(ETF_TICKER)
-    etf_kern  = round((etf_price or ETF_INVESTED / ETF_SHARES) * ETF_SHARES, 2)
+    etf_price = _yf_price(etf_cfg["ticker"])
+    etf_kern  = round((etf_price or etf_cfg["invested"] / etf_cfg["shares"]) * etf_cfg["shares"], 2)
 
     # Posities ophalen via Yahoo Finance
     holdings = []
-    for sym, cfg in POSITIONS.items():
+    for sym, cfg in positions.items():
         ticker  = cfg["ticker"]
         price   = _yf_price(ticker)
         stale   = price is None
         price   = price or cfg["cost"]
         value   = round(price * cfg["qty"], 2)
-        eur_val = value if cfg["currency"] == "EUR" else round(value / EURUSD, 2)
+        eur_val = value if cfg["currency"] == "EUR" else round(value / eurusd, 2)
         sl      = round(cfg["cost"] * (1 - STOP_LOSS_PCT / 100), 2)
         sl_buf  = round((price - sl) * cfg["qty"], 2)
         holdings.append({**cfg, "symbol": sym, "price": price, "value": value,
@@ -140,14 +204,14 @@ def build_and_send():
     totaal      = sat_val_eur + etf_kern
     etf_pct     = round(etf_kern / totaal * 100, 1)
     sat_pct     = round(sat_val_eur / totaal * 100, 1)
-    etf_return  = round((etf_kern - ETF_INVESTED) / ETF_INVESTED * 100, 2)
-    sat_return  = round((sat_val_eur - SAT_INVESTED) / SAT_INVESTED * 100, 2)
+    etf_return  = round((etf_kern - etf_cfg["invested"]) / etf_cfg["invested"] * 100, 2)
+    sat_return  = round((sat_val_eur - sat_invested) / sat_invested * 100, 2)
 
     # Triggers
     triggers = []
 
     # Earnings triggers — 14-dagenvenster voor thesis-check
-    for sym, cfg_vals in POSITIONS.items():
+    for sym, cfg_vals in positions.items():
         earn_cfg  = earnings_cfg.get(cfg_vals["ticker"], {})
         d_str     = earn_cfg.get("date")
         if d_str:
@@ -190,8 +254,8 @@ def build_and_send():
 
     # Thesis check blok voor earnings <= 14 dagen
     thesis_blok = ""
-    naam_map = {cfg["ticker"]: cfg["name"] for cfg in POSITIONS.values()}
-    for sym, cfg_vals in POSITIONS.items():
+    naam_map = {cfg["ticker"]: cfg["name"] for cfg in positions.values()}
+    for sym, cfg_vals in positions.items():
         earn_cfg_item = earnings_cfg.get(cfg_vals["ticker"], {})
         d_str = earn_cfg_item.get("date")
         if not d_str:
