@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 11/06/2026 | ✨ We gaan knallen | Slegers newsletter |
 | 08/06/2026 | Morgen is het D‑day | Slegers newsletter |
 | 07/06/2026 | 💨 Een stapje verder | Slegers newsletter |
 | 07/06/2026 | ⭐ 5 Favoriete aandelen: Juni 2026 | Slegers newsletter |
@@ -1123,5 +1124,74 @@ Je gaat meteen naar Stripe:
 Na de betaling krijg je een e‑mail zoals deze:
 Klik op de link ‘Log in’ en je krijgt meteen toegang tot de website, inclusief de drie aandelen die we nu kopen en alle exclusieve rapporten.
 Ben je klaar om morgen samen met mij aan dez
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## ✨ We gaan knallen
+**Datum:** 11/06/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+Dag belegger 👋
+Stel je voor: je vindt een klein bedrijfje dat alle kenmerken heeft van een typisch ‘Buffett-aandeel’.
+Sterke cijfers. Unieke moat. Veel groeipotentieel.
+Maar het is te klein voor Warren Buffett.
+De media? Geen woord over het bedrijf.
+Bijna niemand praat erover.
+Maar jij ziet iets bijzonders.
+Dus je belegt 1.000 euro... en je kijkt er niet meer naar.
+Een paar jaar later?
+Die €1.000 is nu €20.000… €40.000… misschien zelfs €100.000 waard.
+Genoeg om je hele huis af te betalen.
+Of eindelijk die droomreis te maken.
+En ja... deze verhalen zijn echt.
+Monster Beverage begon als een penny stock. Vandaag is het miljarden waard.
+Games Workshop? Ooit gewoon een hobbywinkel. De beurskoers steeg +12.900%
+Watsco verkocht airco’s in Florida. Sinds 1985? Met +15.000% gestegen.
+Het bizarre hieraan?
+Er zijn veel meer van dit soort voorbeelden.
+Al deze bedrijven...
+➔ Begonnen klein
+➔ Bleven jarenlang onder de radar
+➔ Maakten beleggers die op tijd waren belachelijk rijk
+Maar hier is waar het schoentje knelt…
+Waarom beleggers de nieuwe Monster gaan missen
+Je weet dit al...
+... Hoe meer aandacht een aandeel krijgt, hoe sneller mensen euforisch worden.
+Maar als deze kleine aandelen alles hebben wat Buffett zoekt... waarom praat niemand er dan over?
+Simpel.
+Omdat Wall Street er niet bij kan.
+Grote fondsen moeten miljarden investeren, maar deze small caps zijn veel te klein voor hun budget.
+Het is alsof je met een brandslang een glas water vult. Het glas stroomt meteen over.
+Er is geen ruimte voor de miljarden van Wall Street in small- en microcaps.
+Als ze zouden willen instappen, dan knalt de koers meteen omhoog.
+Dat is dus geen goed idee.
+En de media? Die kijken de andere kant op.
+De eerste grote sprong gebeurt pas als een beroemdheid of bekende belegger over het aandeel praat.
+Ik ben geen beroemdheid...
+Maar kijk eens wat er gebeurde toen ik iets over FitLife Brands ($FTLF) schreef:
+De beurskoers steeg met +8,6%. Op één dag.
+En de dagen daarna zelfs met +40% (!).
+Maar dat is slechts één voorbeeld…
+➔ Kelly Partners steeg met +5% nadat we kochten
+➔ Topicus ging +4% omhoog
+➔ Judges Scientific steeg zelfs met +10%
+Wat is hier de les?
+Als je wacht tot iedereen enthousiast is, ben je te laat.
+Of zoals Peter Lynch zei:
+Maar wat als beleggen niet moeilijk hoeft te zijn?
+Tot nu toe konden gewone beleggers nooit écht vroeg instappen.
+Sinds vandaag kan dat wel...
+... Het moment dat alles veranderde
+Ik ben Pieter Slegers: belegger, schrijver en oprichter van Compounding Quality.
+In 2023 begon ik met Compounding Quality om mensen zoals jij te helpen.
+Sindsdien behaalde ik een rendement van 20% per jaar.
+Mijn Portefeuille verdubbelde tot dusver elke 3,6 jaar.
+Uiteraard zijn historisch behaalde rendementen wel geen garantie voor de toekomst.
+Maar deze nieuwsbrief gaat niet over mij of Compounding Quality.
+Het gaat over iets groters. Iets veel spannenders.
+Na al die jaren op de beurs zijn twee dingen mij glashelder geworden:
+Met grote, stabiele bedrijven behoud je je ve
 
 *[Volledige tekst beschikbaar via Substack]*
