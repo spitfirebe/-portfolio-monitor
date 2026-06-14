@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 14/06/2026 | 5 Aandelen die topbeleggers nu kopen | Slegers newsletter |
 | 11/06/2026 | ✨ We gaan knallen | Slegers newsletter |
 | 08/06/2026 | Morgen is het D‑day | Slegers newsletter |
 | 07/06/2026 | 💨 Een stapje verder | Slegers newsletter |
@@ -1193,5 +1194,63 @@ Maar deze nieuwsbrief gaat niet over mij of Compounding Quality.
 Het gaat over iets groters. Iets veel spannenders.
 Na al die jaren op de beurs zijn twee dingen mij glashelder geworden:
 Met grote, stabiele bedrijven behoud je je ve
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 5 Aandelen die topbeleggers nu kopen
+**Datum:** 14/06/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Weet je wat grappig is?
+De examenperiode is volop aan de gang.
+Als student mag je tijdens een examen niet afkijken.
+Maar als belegger? Dan is het net slim om af te kijken.
+Je kan de ideeën van de beste beleggers ter wereld kopiëren.
+Laten we vandaag eens kijken wat topbeleggers vandaag kopen.
+Schaamteloze copycat
+Als belegger mag je een schaamteloze copycat zijn.
+Je moet gewoon nieuwe ideeën zoeken en meer doen van wat werkt.
+Charlie Munger kopieerde Benjamin Franklin.  
+Microsoft kopieerde Netscape.  
+Facebook kopieerde Snap en TikTok.
+En ga zo maar door
+Iets heel interessants
+Weet je wat écht interessant is?
+Softwarebedrijven gingen in het eerste kwartaal van 2026 in de uitverkoop.
+Waarom? De markt is bang dat AI software op zijn kop zal zetten.
+Warren Buffett zegt dat je hebzuchtig moet zijn wanneer anderen bang zijn, en bang wanneer anderen hebzuchtig zijn.
+Dat is éxact wat topbeleggers vandaag doen.
+Ze zijn uitzonderlijke kansen in topbedrijven zoals Constellation Software ($CSU). 
+Mohnish Pabrai is één van hen.
+Dit is wat hij zegt over Constellation Software:
+Hoe verdient Constellation Software geld?
+Constellation Software is de beste seriële overnemer ter wereld.  
+Het aandeel heeft een gemiddeld jaarlijks rendement van maar liefst 30% opgeleverd.
+Slechts 15 jaar na zijn IPO ging het aandeel al x100.
+Het is een heel uitzonderlijk bedrijf. Je kan hier de essentie terugvinden: 
+Waarom kopen topbeleggers?
+Het vervangen van de producten van Constellation is extreem duur en riskant. 
+De kost van hun software is bovendien minimaal vergeleken met de operationele kosten van de meeste bedrijven. 
+Tegelijk noteert Constellation Software nu aan een van zijn goedkoopste waarderingen ooit
+Kortom: voor langetermijnbeleggers kan Constellation Software vandaag heel interessant zijn. 
+De 5 aandelen die topbeleggers nu kopen
+Wat zijn de vijf aandelen die topbeleggers nu massaal aan het kopen zijn?
+Laten we er eens induiken. 
+5. TransDigm Group (TDG)
+Hoe verdient het bedrijf geld?
+TransDigm neemt bedrijven over die essentiële vliegtuigonderdelen maken.
+Waarom dit interessant kan zijn
+Sterke moat: Ongeveer 90% van TransDigm’s omzet komt uit onderdelen die alleen zij mogen maken. Ze zijn dus de enige partij ter wereld die deze exacte vliegtuigonderdelen mag verkopen.
+Voorspelbare vraag: Vliegtuigen volgen strikte onderhoudsschema’s en blijven tientallen jaren in gebruik. Onderdelen slijten voortdurend. Luchtvaartmaatschappijen en het leger moeten dus nieuwe TransDigm‑onderdelen blijven kopen.
+Prijszettingsmacht: De onderdelen zijn onmisbaar en TransDigm is de enige aanbieder. Daardoor kunnen ze elk jaar de prijzen verhogen zonder klanten te verliezen.
+4. Aon plc (AON)
+Hoe verdient het bedrijf geld?
+Aon is een wereldwijd dienstverleningsbedrijf. Het helpt grote bedrijven risico’s te beheren, verzekeringen te vinden en alles rond personeel te regelen. Denk aan verloning en andere voordelen.
+Ze verkopen de verzekeringe
 
 *[Volledige tekst beschikbaar via Substack]*
