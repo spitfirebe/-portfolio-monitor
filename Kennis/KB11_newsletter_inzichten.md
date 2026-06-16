@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 16/06/2026 | Ben jij een schaap? | Slegers newsletter |
 | 14/06/2026 | 5 Aandelen die topbeleggers nu kopen | Slegers newsletter |
 | 11/06/2026 | ✨ We gaan knallen | Slegers newsletter |
 | 08/06/2026 | Morgen is het D‑day | Slegers newsletter |
@@ -1252,5 +1253,68 @@ Prijszettingsmacht: De onderdelen zijn onmisbaar en TransDigm is de enige aanbie
 Hoe verdient het bedrijf geld?
 Aon is een wereldwijd dienstverleningsbedrijf. Het helpt grote bedrijven risico’s te beheren, verzekeringen te vinden en alles rond personeel te regelen. Denk aan verloning en andere voordelen.
 Ze verkopen de verzekeringe
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Ben jij een schaap?
+**Datum:** 16/06/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Mag ik je een vraag stellen?
+Wat is de beste manier om je vermogen op een voorspelbare manier te laten groeien?
+Tegenwoordig hoor je overal dat ‘fundamenteel beleggen dood is’. 
+Ze vertellen je dat Grahams advies uit het boek De Intelligente Belegger achterhaald is.
+Vol zelfvertrouwen beweren ze: “Als je rijk wilt worden, volg dan gewoon de trend.”
+Wat kan er potentieel misgaan?
+Kwaliteitsaandelen noteren vandaag aan historisch hoge kortingen.
+Aandelen van lage kwaliteit worden dan weer verhandeld tegen extreem hoge premies.
+Zo’n dingen zien we altijd gebeuren op het einde van een stierenmarkt.
+Gratis webinar
+Deze donderdag om 20u00 kan je een gratis masterclass beleggen bijwonen.
+Inschrijven kan hier: 
+We beleven uitdagende tijden als kwaliteitsbeleggers.
+Het is volkomen normaal dat je dan wat aan jezelf begint te twijfelen.
+Maar vor je drastische beslissingen neemt, wil ik je vragen om even naar mij te luisteren.
+Misschien weet je het nog niet.
+Maar de lage waarderingen van kwaliteitsaandelen bieden enorme kansen. 
+Zeker als je weet hoe je er je voordeel uit kan halen.
+De meeste beleggers jagen vandaag op aandelen met een positief momentum.
+Ze kopen AI-aandelen waar ze niets van afweten.
+Of de beursintroductie van SpaceX.
+Uiteindelijk krijgen ze spijt. Dat wil ik graag voorkomen voor jou.
+Daarom schrijf ik deze update.
+Ik deel een mentaal model om je te helpen om dit soort tijden door te komen.
+Onlangs was ik in Omaha voor de algemene aandeelhoudersvergadering van Warren Buffett.
+Het is het vierde jaar op rij dat ik erheen ging.
+Voor mij is het als een jaarlijkse pelgrimstocht.
+Tijdens de bijeenkomst zei Warren Buffett iets bijzonders:
+Het sleutelwoord is GOKKEN.
+Er wordt heel wat gespeculeerd op de beurs vandaag.
+Voor de meeste beleggers doen de fundamentals van bedrijven er niet meer toe.
+Beleggers zijn als schapen. 
+Ze focussen te veel op de korte termijn.
+Dat moedigt aan om de risico’s te negeren.
+Het zet je ertoe aan om de theorie van ‘The Greater Fool’ te omarmen.
+Wat maakt het uit of een bedrijf zijn schulden kan aflossen?
+Volg gewoon de trend en koop zolang de koers stijgt.
+Dit is het grote risico waar Warren Buffett ons voor waarschuwt.
+In tijden als deze raken aandelenkoersen losgekoppeld van de economische realiteit.
+Je ziet dat aandelen van middelmatige bedrijven elke maand nieuwe hoogtepunten bereiken.
+Je kan heel eenvoudig de massa volgen, als je dat prettig vindt.
+Maar als je doel is om op de lange termijn aanzienlijk beter te presteren dan de markt...
+… Dan ga je het anders moeten aanpakken. 
+Kwaliteitsaandelen hebben het momenteel misschien moeilijk.
+Maar op de lange termijn?
+Dan doen ze het aanzienlijk beter dan de markt!
+Een goed voorbeeld is Berkshire Hathaway.
+Het bedrijf belegt in gevestigde maar ondergewaardeerde bedrijven.
+Net zoals we dat proberen te doen bij De Kwaliteitsbelegger.
+Sinds 1962 behaalde Berkshire een rendement van meer dan 5 miljoen procent (!).
+Laat dat even 
 
 *[Volledige tekst beschikbaar via Substack]*
