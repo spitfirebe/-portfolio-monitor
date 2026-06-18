@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 18/06/2026 | 🛒 Ons boodschappenlijstje: Juni 2026 | Slegers newsletter |
 | 16/06/2026 | Ben jij een schaap? | Slegers newsletter |
 | 14/06/2026 | 5 Aandelen die topbeleggers nu kopen | Slegers newsletter |
 | 11/06/2026 | ✨ We gaan knallen | Slegers newsletter |
@@ -1316,5 +1317,69 @@ Het bedrijf belegt in gevestigde maar ondergewaardeerde bedrijven.
 Net zoals we dat proberen te doen bij De Kwaliteitsbelegger.
 Sinds 1962 behaalde Berkshire een rendement van meer dan 5 miljoen procent (!).
 Laat dat even 
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 🛒 Ons boodschappenlijstje: Juni 2026
+**Datum:** 18/06/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Vorige week trok SpaceX naar de beurs.
+Het was de grootste beursgang ooit. 
+Terwijl de markt achter de hype aanholt, richten wij ons op iets anders: sterke bedrijven die elk jaar opnieuw meer waarde genereren.
+Laten we vandaag in ons boodschappenlijstje duiken.
+Mr. Market is een manisch‑depressief typetje.
+SpaceX ging naar de beurs aan $135 per aandeel.
+Dat betekent dat Mr. Market SpaceX waardeert op $1,75 biljoen (!).
+Hier zijn de feiten op een rij:
+Het is de grootste beursgang ooit.
+SpaceX wordt meteen het 7de grootste bedrijven in de VS
+Ze zijn meer waard dan bedrijven als JP Morgan, Visa en Walmart.
+Hoewel dat er héél indrukwekkend uitziet, moeten we even dieper kijken.
+Aan een waardering van $1,75 biljoen noteert SpaceX aan 90× (!) zijn omzet.
+Hoger dan Palantir (75× de omzet).
+Hoger dan Nvidia (20× de omzet).
+Hoger dan Tesla (16× de omzet).
+Investeringsbanken noemen het de meest opwindende beursgang ooit.
+Geen wonder dat ze dat zeggen.
+Ze verdienen meer dan $500 miljoen (!) aan commissies op deze beursgang.
+Maar dit is zeker niet de eerste keer dat we zoiets krankzinnigs zien.
+Laten we even teruggaan naar 1999.
+Herinner je je Pets.com nog?
+Hier is Pets.com in een notendop:
+Pets.com was een online retailer tijdens de dotcom‑bubbel.
+Ze verkochten dierenvoeding, speeltjes, … en waren bekend om hun handpop‑mascotte.
+De internetboom moest hun omzet explosief doen groeien.
+Pets.com haalde $82,5 miljoen op bij zijn beursgang in 2000.
+Het aandeel piekte op $14.
+Negen maanden later noteerde het aandeel nog maar aan $0,19 en vroeg het bedrijf zijn faillissement aan.
+SpaceX is natuurlijk niet hetzelfde als Pets.com.
+Het brengt een paar van de machtigste bedrijven ter wereld samen:
+SpaceX (raketten).
+Starlink (satelliet‑internet).
+X en xAI (social media + AI‑LLM).
+Maar hier komt het punt.
+SpaceX maakt vandaag nog steeds verlies.
+In 2025 boekte SpaceX een omzet van $18,7 omzet, en een verlies van $4,9 miljard.
+De AI‑tak is nog agressiever.
+xAI verbrandde $7,7 miljard in de eerste drie maanden van 2026 en noteerde een operationeel verlies van $2,5 miljard.
+Als we even naar de waardering van SpaceX kijken: 
+Om zijn huidige prijs te rechtvaardigen aan een redelijkere 20×-omzetmultiple, moet SpaceX zijn omzet verhogen naar minstens $88 miljard.
+Dat is bijna 5× de huidige omzet.
+Zelfs met een jaarlijkse groei van 30% per jaar duurt het nog 6 jaar voor ze daar geraken.
+Zelfs in het meest optimistische scenario heeft SpaceX minstens 5 jaar nodig om zijn huidige waardering te rechtvaardigen.
+En dat is onder de assumptie dat er nergens iets misloopt.
+Morningstar schat de waarde van SpaceX op slechts $780 miljard.
+Dat is minder dan 50% van de huidige marktwaarde:
+In het algemeen kan je beter wegblijven van beursgangen (IPO’s).
+IPO… In Prijs Overdreven.
+Kijk maar naar deze eerdere beursintroducties:
+Kwaliteit presteert ondermaats
+Terwijl SpaceX wordt gewaardeerd aan 90× zijn omzet, liggen kwaliteitsbedrijven te worstel
 
 *[Volledige tekst beschikbaar via Substack]*
