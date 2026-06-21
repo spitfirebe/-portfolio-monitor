@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 21/06/2026 | 🏦 Kopen we KKR? | Slegers newsletter |
 | 18/06/2026 | 🛒 Ons boodschappenlijstje: Juni 2026 | Slegers newsletter |
 | 16/06/2026 | Ben jij een schaap? | Slegers newsletter |
 | 14/06/2026 | 5 Aandelen die topbeleggers nu kopen | Slegers newsletter |
@@ -1381,5 +1382,69 @@ IPO… In Prijs Overdreven.
 Kijk maar naar deze eerdere beursintroducties:
 Kwaliteit presteert ondermaats
 Terwijl SpaceX wordt gewaardeerd aan 90× zijn omzet, liggen kwaliteitsbedrijven te worstel
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 🏦 Kopen we KKR?
+**Datum:** 21/06/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner👋,
+Vandaag ontvang je een volledige analyse van maar liefst 50 (!) pagina’s over KKR.
+Dat is een fantastische onderneming die absoluut je aandacht verdient.
+Laten we er meteen induiken. Veel leesplezier!
+KKR & Co - Algemene informatie
+👔 Bedrijfsnaam: KKR & Co. Inc.
+✍️ ISIN: US48251W1045
+🔎 Ticker: KKR
+📚 Type: Owner‑operator‑aandeel
+📈 Aandelenkoers: $97
+💵 Marktkapitalisatie: $85,0 miljard
+📊 Gemiddeld dagelijks volume: $595,0 miljoen
+Onepager
+Hier is de essentie van KKR op één pagina (klik op de afbeelding om deze te vergroten):
+Drie belangrijkste inzichten
+Hier zijn de 3 belangrijkste takeaways:
+🏦 KKR is één van de grootste vermogensbeheerders ter wereld.
+♾️ Dankzij de verzekeringsactiviteiten beschikt KKR over ‘permanent kapitaal.’
+🏆 Uitstekend trackrecord.
+🏦 Eén van de grootste vermogensbeheerders ter wereld
+KKR is één van de grootste alternatieve vermogensbeheerders ter wereld.
+♾️ Permanent kapitaalvoordeel
+KKR beschikt via Global Atlantic over €219 miljard aan permanent kapitaal.
+Permanent kapitaal is het geld uit verzekeringspremies dat KKR tientallen jaren kan investeren voordat het ooit moet worden uitgekeerd als schadeclaim.
+Dat geeft hen de flexibiliteit om kansen te grijpen zodra ze zich voordoen.
+🏆 Uitstekend trackrecord
+KKR heeft een uitstekend trackrecord.
+Het aandeel staat sinds 2010 maar liefst +860% (!) hoger.
+Kwaliteitsscore
+Elk bedrijf krijgt een kwaliteitsscore op basis van 15 criteria.
+Aan het einde berekenen we de ‘totale kwaliteitsscore’: de som van alle 15 scores, gedeeld door 15.
+Zoals je in de onderstaande tabel ziet, behaalt KKR een totale kwaliteitsscore van 8,3/10.
+Volledige analyse
+We schreven een volledige analyse van 50 pagina’s over KKR.
+Je kan de case hier downloaden:
+Conclusie analyse
+Wil je niet de volledige 50 pagina’s lezen?
+Dan kan je gewoon deze conclusie doornemen.
+KKR begon in de jaren 70 als een private‑equitybedrijf.
+Vandaag beheert het €744 miljard via drie activiteiten:
+Vermogensbeheer: KKR verdient vergoedingen door geld te beheren.
+Verzekeringen (Global Atlantic): Ze ontvangen premies en investeren dat kapitaal.
+Strategische belangen: Het bedrijf laat waarde groeien via investeringen en dividenden.
+Deze drie activiteiten versterken elkaar.
+Global Atlantic haalt premies binnen die KKR vervolgens investeert.
+KKR investeert dat kapitaal dan weer in private credit, infrastructuur en real assets.
+Daardoor heeft KKR altijd kapitaal om te beleggen.
+Dat in tegenstelling tot concurrenten die tienjarige fondsen ophalen en het geld daarna moeten teruggeven aan investeerders.
+Met €744 miljard aan beheerd vermogen kan KKR deals doen die voor veel concurrenten simpelweg te groot zijn.
+Ze doen dit al bijna 50 jaar, waardoor CEO’s en pensioenfondsen KKR verkiezen boven nieuwere spelers.
+De markten waarin KKR actief is, groeien ook heel snel.
+Alternatieve activa, private credit en verzekeringen breiden allemaal uit.
+Sinds banken na 2008 zijn teruggeschakeld in directe kredietve
 
 *[Volledige tekst beschikbaar via Substack]*
