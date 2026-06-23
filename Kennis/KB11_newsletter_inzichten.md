@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 23/06/2026 | 5 Podcasts Die Tellen | Slegers newsletter |
 | 21/06/2026 | 🏦 Kopen we KKR? | Slegers newsletter |
 | 18/06/2026 | 🛒 Ons boodschappenlijstje: Juni 2026 | Slegers newsletter |
 | 16/06/2026 | Ben jij een schaap? | Slegers newsletter |
@@ -1448,3 +1449,55 @@ Alternatieve activa, private credit en verzekeringen breiden allemaal uit.
 Sinds banken na 2008 zijn teruggeschakeld in directe kredietve
 
 *[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 5 Podcasts Die Tellen
+**Datum:** 23/06/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Het is dinsdag vandaag!
+Dat betekent dat ik je 5 dingen over de beurs ga leren in minder dan 5 minuten.
+Vandaag duiken we in 5 podcasts. 
+1️⃣ Beleggen in winnaars
+In een gesprek met Ben’s Mentors doken we dieper in de psychologie achter succesvol beleggen.
+Hier is wat je zal leren: 
+Waarom tijd en compounding de sterkste wapens van elke belegger zijn
+Waarom de meeste professionele beleggers de markt niet verslaan
+Hoe een checklist je helpt goede beslissingen te maken
+Waarom je nooit blind aandelentips mag kopiëren
+Waarom elke dag een beetje bijleren op lange termijn het verschil maakt
+2️⃣ Geld is al wat telt
+Op zoek naar een persoonlijke inkijk in het belang van geld?
+Beluister deze podcast ‘Geld is al wat telt’ met Sven Vonck: 
+3️⃣ Beleggen in tijden van oorlog
+In een gesprek met de heren van de Virtual Podcast (VRT) bespraken we hoe kwaliteitsbeleggers koers houden in een onzekere wereld.
+4️⃣ CEO van mijn leven
+Jij bent de CEO van je leven.
+In een gesprek met Julien de Wit en Esohe Weyden werd het volgende besproken: 
+Het uitbouwen van een carrière
+Persoonlijke groei
+Het bouwen van een rijk leven
+5️⃣ Mijn beleggingsfilosofie
+Tijdens een Masterclass bij LYNX bespraken we de huidige stand van de markten.
+En hoe je een sterke kwaliteitsportefeuille opbouwt voor de lange termijn.
+Ik geef ook een inkijk in mijn favoriete aandelen op dit moment.
+Ben je nog geen klant bij Lynx? Via deze link kan je genieten van 500 euro (!) gratis transactietegoed:
+Onze lezerspagina
+Er werd net een gloednieuwe lezerspagina aangemaakt.
+Benieuwd wat De Kwaliteitsbelegger te bieden heeft? Ontdek het hier:
+Lezing donderdag
+Deze donderdag geven we weer een gratis Masterclass Beleggen.
+Benieuwd?
+Schrijf je hier gratis in:
+Beleggen in de beste bedrijven ter wereld
+Pieter
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed
+Fiscal.ai [  ]: Financiële data
+Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
