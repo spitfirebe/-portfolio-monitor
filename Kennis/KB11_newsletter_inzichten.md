@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 25/06/2026 | Update ETF-portefeuille: Juni 2026 | Slegers newsletter |
 | 23/06/2026 | 5 Podcasts Die Tellen | Slegers newsletter |
 | 21/06/2026 | 🏦 Kopen we KKR? | Slegers newsletter |
 | 18/06/2026 | 🛒 Ons boodschappenlijstje: Juni 2026 | Slegers newsletter |
@@ -1501,3 +1502,66 @@ Fiscal.ai [  ]: Financiële data
 Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Update ETF-portefeuille: Juni 2026
+**Datum:** 25/06/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Je wil beleggen in bedrijven met een brede moat.
+Maar weet je wat nog beter is? Een klein bedrijf met een brede moat.
+Laten we kijken hoe je dat kan doen als hangmatbelegger.
+Moats zijn cruciaal
+Kapitalisme kan hard zijn. 
+Zodra een bedrijf veel geld begint te verdienen, trekt het meestal concurrenten aan.
+In de meeste gevallen dalen dan de marges en winsten voor iedereen.
+Dat noemen we ‘Reversion to the mean’.
+Maar soms… gebeurt dat niet.
+Reversion to the mean blijft uit wanneer een bedrijf een duurzaam concurrentievoordeel (moat) heeft.
+Een moat geeft een bedrijf een sterke, superieure positie.
+Daardoor kan het zijn winstmarge en marktaandeel behouden en vergroten.
+Voor een langetermijnbelegger is dat het allerbelangrijkste.
+Morningstar beoordeelt bedrijven op basis van hun economische moat.
+Er zijn drie categorieën:
+• Brede moat: Een duurzaam concurrentievoordeel dat 20 jaar of langer kan meegaan.
+• Smalle moat: Een concurrentievoordeel dat 10 tot 20 jaar kan meegaan.
+• Geen moat: Geen voordeel, of een voordeel dat heel snel verdwijnt.
+Hoe breder de moat, hoe beter.
+Soorten moats
+In het algemeen zijn er vijf verschillende soorten moats:
+Overstapkosten
+Wat? Het is moeilijk voor een klant om over te stappen naar een concurrent.
+Voorbeeld: FICO‑scores. Banken hebben hun systemen hierop gebouwd. Overstappen betekent grote operationele risico’s zonder voordeel.
+Immateriële activa 
+Wat? Merken, patenten of vergunningen die hogere prijzen mogelijk maken.
+Voorbeeld: Hermès. Concurrenten kunnen een tas namaken, maar niet het prestige dat prijsverhogingen blijft dragen.
+Netwerkeffecten  
+Wat? Hoe meer gebruikers, hoe waardevoller het netwerk wordt voor iedereen.
+Voorbeeld: Visa. Consumenten gebruiken het omdat handelaars het aanvaarden. Handelaars aanvaarden het omdat consumenten het gebruiken.
+Kostenvoordelen  
+Wat? Het bedrijf kan goedkoper produceren of leveren dan concurrenten.
+Voorbeeld: Costco koopt in bulk, geeft de besparing door, krijgt loyalere klanten en nog hogere volumes.
+Efficiënte schaal  
+Wat? De markt is te klein voor extra concurrenten zonder dat iedereen verliest.
+Voorbeeld: Spoorwegen zoals Union Pacific. Een nieuw netwerk bouwen kost honderden miljarden voor een markt die al verdeeld is.
+Moats presteren beter
+Ik hoop dat je intussen overtuigd bent dat bedrijven met een brede moat beter presteren.
+Maar… maakt een moat echt verschil voor een belegger zoals jij?
+Het antwoord is heel duidelijk: ja.
+Sinds 2008 heeft de Morningstar Wide Moat Index de Amerikaanse beurs met 4% per jaar verslagen.
+Grootte telt
+Nog iets dat een duidelijk verschil maakt in beleggen?
+Grootte.
+Op lange termijn presteren kleinere bedrijven beter op de beurs.
+Het grootteprobleem
+Hoe groter een bedrijf wordt, hoe moeilijker het is om nog te groeien.
+Laten we eens kijken naar een hypothetisch voorbeeld.
+Bedrijf A: 
+Genereert €50 miljoen omzet.
+Om 20% te groeien, moet het €10 miljoen aan extra omzet vinden.
+Dat kan via een paar nieuwe g
+
+*[Volledige tekst beschikbaar via Substack]*
