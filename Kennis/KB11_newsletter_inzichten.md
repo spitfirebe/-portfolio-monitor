@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 28/06/2026 | 3 Nieuwe Aankopen | Slegers newsletter |
 | 25/06/2026 | Update ETF-portefeuille: Juni 2026 | Slegers newsletter |
 | 23/06/2026 | 5 Podcasts Die Tellen | Slegers newsletter |
 | 21/06/2026 | 🏦 Kopen we KKR? | Slegers newsletter |
@@ -1563,5 +1564,72 @@ Bedrijf A:
 Genereert €50 miljoen omzet.
 Om 20% te groeien, moet het €10 miljoen aan extra omzet vinden.
 Dat kan via een paar nieuwe g
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 3 Nieuwe Aankopen
+**Datum:** 28/06/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Vandaag is het weer tijd om drie aankopen te doen voor onze portefeuille.
+Laten we er meteen induiken.
+Mr. Market zit in een gevaarlijke fase
+We zitten in een heel vreemde periode.
+Hoe je het ook meet, de markt is erg duur.
+De kloof tussen momentumaandelen en aandelen met een lage volatiliteit is nog nooit zo groot geweest.
+Er zit ook veel speculatie in de markt. De verwachtingen liggen extreem hoog.
+Analisten gaan ervan uit dat de winst van de S&P 500 de komende vijf jaar jaarlijks met 24% zal groeien.
+Dat is extreem rooskleurig en waarschijnlijk zelfs onhaalbaar.
+Tegelijkertijd negeert Mr. Market kwaliteits­aandelen volledig.
+Hier zie je het verschil tussen kwaliteit en momentum:
+Er zijn vandaag heel wat kwaliteitsbedrijven die noteren aan hun laagste waarderingen in tien jaar.
+Denk aan bedrijven zoals Mastercard, S&P Global, Novo Nordisk, …
+Drie soorten bedrijven
+Dit is een goed moment om na te denken over wat voor bedrijven je in je portefeuille wilt hebben.
+In 2007 beschreef Warren Buffett in zijn jaarlijkse brief 3 soorten bedrijven:
+Goede bedrijven
+Fantastische bedrijven
+Gruwelijke bedrijven
+1. Goede bedrijven
+Dit is wat goede bedrijven doen:
+Ze bieden veel waarde aan hun klanten.
+Ze hebben een competitief voordeel.
+Waarom zijn het geen fantastische bedrijven?
+Omdat ze veel van hun winst moeten herinvesteren om te kunnen groeien.
+Buffett gebruikt FlightSafety als voorbeeld. Het is een simulator voor vliegtuigen.
+Het bedrijf heeft een duidelijke moat, maar om te groeien moest het voortdurend miljoenen investeren in nieuwe simulatoren.
+Deze bedrijven werken volgens een ‘meer betalen om meer te verdienen’‑model.
+2. Fantastische bedrijven
+Fantastische bedrijven hebben drie kenmerken:
+Een sterke moat.
+Uitstekende rendement op het geïnvesteerd kapitaal.
+De mogelijkheid om de winst te laten groeien zonder veel extra kapitaal.
+Een voorbeeld? See’s Candies.
+Toen Berkshire See’s in 1972 kocht, had het bedrijf slechts €8 miljoen aan kapitaal nodig om ongeveer €5 miljoen per jaar te verdienen.
+Decennia later verdiende het €82 miljoen, terwijl het maar €40 miljoen nodig had om te draaien.
+Omdat groei nauwelijks investeringen vereiste kon bijna alle cash terugstromen naar Berkshire. 
+Cash die Buffett vervolgens gebruikte om andere fantastische bedrijven te kopen.
+Een fantastisch bedrijf werkt als een spaarrekening met een uitzonderlijk hoge rente.
+Eentje die elk jaar verder oploopt.
+3. Gruwelijke bedrijven
+Deze bedrijven:
+Groeien snel.
+Hebben veel kapitaal nodig.
+Verdienen weinig tot geen geld.
+Luchtvaartmaatschappijen zijn het schoolvoorbeeld.
+Ze hebben geen moat.
+Ze hebben enorme hoeveelheden kapitaal nodig.
+En er is constante concurrentie, meestal op prijs.
+Alleen het beste is goed genoeg
+Dit is wat er vandaag in de markt gebeurt:
+De markt is duur.
+De groeiverwachtingen zijn te rooskleurig.
+Veel goede en zelfs ‘gruwelijke’ bedrijven zijn geprijsd voor perfectie.
+Dat is, als je het mij vraagt, een gevaarlij
 
 *[Volledige tekst beschikbaar via Substack]*
