@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 30/06/2026 | Wie is Peter Lynch? | Slegers newsletter |
 | 28/06/2026 | 3 Nieuwe Aankopen | Slegers newsletter |
 | 25/06/2026 | Update ETF-portefeuille: Juni 2026 | Slegers newsletter |
 | 23/06/2026 | 5 Podcasts Die Tellen | Slegers newsletter |
@@ -1631,5 +1632,65 @@ De markt is duur.
 De groeiverwachtingen zijn te rooskleurig.
 Veel goede en zelfs ‘gruwelijke’ bedrijven zijn geprijsd voor perfectie.
 Dat is, als je het mij vraagt, een gevaarlij
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Wie is Peter Lynch?
+**Datum:** 30/06/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Peter Lynch maakte van $18 miljoen meer dan $14 miljard in 13 jaar met zijn Magellan Fund van Fidelity.
+Dat komt neer op een gemiddeld rendement van 29,3% per jaar!
+In dit artikel leren we je hoe Peter Lynch dat deed.
+Donderdag geven we opnieuw een gratis lezing kwaliteitsbeleggen.
+Benieuwd?
+Je kan je hier gratis inschrijven:
+Wie is Peter Lynch?
+Peter Lynch is een van de grootste beleggers aller tijden.
+Hij wordt ook wel eens “de kameleon van het beleggen” genoemd.
+Waarom? Omdat hij niet vasthield aan één vaste strategie.
+Hij gebruikte elke aanpak die geld kon opleveren.
+Lynch werd geboren in 1944 in Massachusetts.
+Als tiener raakte hij geïnteresseerd in aandelen toen hij werkte als caddie op een golfclub en beleggers hoorde praten. 
+Hij schreef het heel goede beleggingsboek “One up on Wall Street [  ]”. Het is een van de best verkochte beleggingsboeken ooit.
+Zijn belangrijkste regel? Beleg alleen in bedrijven die je écht begrijpt. 
+Zo kocht hij aandelen Dunkin’ Donuts nadat hij zag dat het steeds drukker werd in de winkels.
+In 1969 begon hij te werken bij Fidelity. 
+Acht jaar later stond hij aan het hoofd van het Magellan Fund, dat hij in 13 jaar tijd uitbouwde tot het grootste beleggingsfonds ter wereld. 
+Hij belegde in honderden aandelen tegelijk, wat in contrast staat met hoe andere grote beleggers het aanpakken.
+De winnaars hield hij vaak 3 tot 5 jaar vast.
+Hij ging met pensioen in 1990, maar zijn ideeën zijn nog steeds even actueel.
+Wil je meer weten over zijn strategie? 
+Dan is deze PDF puur goud:
+Beleggingsfilosofie
+De aanpak van Peter Lynch kan als volgt worden samengevat:
+Je kan zijn filosofie in drie delen splitsen:
+Beleg enkel in bedrijven die je begrijpt
+Doe je huiswerk
+Wees geduldig en denk op de lange termijn
+1. Beleg enkel in bedrijven die je begrijpt
+Peter Lynch vindt dat je goede beleggingskansen vaak uit je dagdagelijkse omgeving haalt.
+Willen veel mensen ineens hetzelfde product?
+Is een bepaald merk overal populair?
+Die signalen kan je als belegger gebruiken. 
+Zo zie je trends vaak veel eerder dan Wall Street.
+2. Doe je huiswerk
+Lynch benadrukt ook dat je zelf je eigen onderzoek moet doen.
+Bekijk de cijfers, het management en de positie van een bedrijf voordat je belegt.
+Bij De Kwaliteitsbelegger doen we dat ook.
+We beleggen in sterke bedrijven met betere fundamentals dan de markt, zonder te veel te betalen.
+3. Wees geduldig en denk op de lange termijn
+“De beurs zit vol mensen die de prijs van alles kennen, maar de waarde van niets.” — Peter Lynch
+Peter Lynch is een langetermijnbelegger.
+Volgens hem vergroot je je rendement door goede aandelen meerdere jaren vast te houden en je niet druk te maken om beursschommelingen.
+Hij hield aandelen vaak 3 tot 5 jaar aan. 
+Daarmee behaalde hij bij het Magellan Fund tussen 1977 en 1990 een gemiddeld rendement van ruim 29% per jaar.
+Rendement
+Het succes van Peter Lynch bij het Magellan Fund is indrukwekkend:
+Tussen 1977 en 1990 behaalde het fonds gemiddeld 29
 
 *[Volledige tekst beschikbaar via Substack]*
