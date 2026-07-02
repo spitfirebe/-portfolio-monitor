@@ -129,6 +129,8 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 02/07/2026 | 10 Aandelen voor de komende 20 jaar | Slegers newsletter |
+| 01/07/2026 | Waarom ik naar Seattle ging | Slegers newsletter |
 | 30/06/2026 | Wie is Peter Lynch? | Slegers newsletter |
 | 28/06/2026 | 3 Nieuwe Aankopen | Slegers newsletter |
 | 25/06/2026 | Update ETF-portefeuille: Juni 2026 | Slegers newsletter |
@@ -1692,5 +1694,106 @@ Daarmee behaalde hij bij het Magellan Fund tussen 1977 en 1990 een gemiddeld ren
 Rendement
 Het succes van Peter Lynch bij het Magellan Fund is indrukwekkend:
 Tussen 1977 en 1990 behaalde het fonds gemiddeld 29
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Waarom ik naar Seattle ging
+**Datum:** 01/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+De afgelopen 2 weken was ik in Seattle.
+Ik pikte ook de wedstrijd van België tegen Egypte mee op het WK.
+Het was een unieke ervaring.
+Hopelijk winnen we vanavond tegen Senegal!
+Er waren twee redenen waarom ik naar Seattle trok: 
+Om een lezing te geven
+Om een bedrijf te bezoeken dat we potentieel gaan kopen
+Met De Kwaliteitsbelegger reizen we de wereld rond om de beste beleggingen ter wereld te vinden.
+Kijk maar eens naar deze foto (van linksboven naar rechtsonder)…
+… Pieter met de CEO van:
+Judges Scientific
+Kelly Partners Group
+Chapters Group
+Markel
+Hier is wat informatie over het bedrijf dat ik bezocht in Seattle:
+🐾 Een verzekeraar van huisdieren in Amerika
+💰 Insiders kochten recent stevig bij en bezitten nog steeds 5% van het bedrijf
+📈 De omzet is sinds 2012 maal 25 gegaan (!)
+Dit zijn het soort bedrijven waar we naar op zoek zijn bij De Kwaliteitsbelegger.
+Over 14 dagen trek ik naar Hamburg om te praten met Jan Mohr, de CEO van Chapters Group.
+Het aandeel steeg de afgelopen maand met +30%.
+Meer aandelen zoals dit ontdekken?
+Neem een proefabonnement op De Kwaliteitsbelegger.
+De normale prijs voor een jaarabonnement is €1.200.
+Als je nu beslist, betaal je slechts €299 om je aan te sluiten.
+Dat is een uitzonderlijk aantrekkelijke instapkans voor serieuze beleggers.
+En je abonnement valt onder mijn geld‑teruggarantie.
+Ben je niet helemaal tevreden? Laat het me weten binnen de 90 dagen.
+Ik stort dan het volledige bedrag van je abonnement terug.
+Klinkt fair, toch?
+Zoals Charlie Munger al zei:
+‘Het beste wat je kan doen, is een andere mens helpen meer te weten te komen.’
+Test De Kwaliteitsbelegger hier uit:
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Dankzij de niet-tevreden, geld-teruggarantie kan je De Kwaliteitsbelegger risicoloos uittesten. Het aanbod is geldig tot het einde van deze week. Hoe? Via deze link. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+
+---
+
+## 10 Aandelen voor de komende 20 jaar
+**Datum:** 02/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋,
+Ik heb een vraag voor jou…
+… Wat als je 10 aandelen moest kopen, maar geen enkele daarvan mocht verkopen gedurende de volgende 20 jaar?
+Het is zo’n waardevolle denkoefening. 
+Iedereen zou dit af en toe moeten doen.
+In het verleden maakte ik al een lijstje met 10 aandelen om voor altijd te houden. Je vindt deze hier. [  ]
+Vandaag doe ik het opnieuw.
+Laten we er meteen induiken.
+Donderdag geven we opnieuw een gratis lezing kwaliteitsbeleggen.
+Benieuwd?
+Je kan je hier gratis inschrijven:
+10. W.W. Grainger ($GWW)
+Hoe verdient het bedrijf geld?
+Grainger verkoopt onderhouds-, reparatie- en operationele (MRO) benodigdheden. Ze verkopen alles, van veiligheidsbrillen tot industriële motoren.
+Hun producten worden aangeboden aan miljoenen bedrijven en instellingen wereldwijd.
+Waarom is het over 20 jaar nog steeds relevant?
+Hun enorme schaal en brede distributienetwerk houden de kosten laag. Ze hebben ook het grootste assortiment, waardoor ze een one‑stop‑shop zijn voor complexe operaties.
+Grainger zit diep verweven in B2B‑toeleveringsketens en het onderhoud van bedrijfsfaciliteiten.
+Fysieke bedrijven hebben altijd gereedschap, reserveonderdelen en veiligheidsmateriaal nodig om hun faciliteiten draaiende te houden.
+9. Sherwin-Williams ($SHW)
+Hoe verdient het bedrijf geld?
+Sherwin‑Williams produceert en distribueert verf, coatings en aanverwante benodigdheden.
+Dat doen ze vooral via hun enorme, lokaal verankerde netwerk van eigen winkels, volledig afgestemd op professionele aannemers.
+Waarom is het over 20 jaar nog steeds relevant?
+Verf en beschermende coatings blijven altijd nodig om de wereldwijde infrastructuur en woningen te onderhouden.
+Net als bij Grainger is hun distributienetwerk bijna onmogelijk voor nieuwe concurrenten om te kopiëren.
+Voor professionele schilders en aannemers is tijd en  geld belangrijk. Eén van de 5.400 winkels van Sherwin-Williams is altijd dichtbij. Dat houdt vakmensen zeer loyaal aan de producten van het bedrijf.
+8. Cintas ($CTS)
+Hoe verdient het bedrijf geld?
+Cintas verdient geld door bedrijfsuniformen en vloermatten te verhuren en te reinigen.
+Daarnaast vullen ze sanitaire voorzieningen en EHBO‑kits voor bedrijven opnieuw aan.
+Waarom is het over 20 jaar nog steeds relevant?
+Dit is opnieuw een bedrijf met een enorme lokale schaal. Cintas runt meer dan 12.000 routes.
+Zodra een bedrijf klant wordt, blijft het bijna altijd. Cintas maakt het leven van facility managers makkelijk en de schaal ervan houdt de kosten laag.
+Zolang er werkplekken bestaan, hebben ze schone uniformen, veiligheidsmateriaal en sanitaire en schoonmaakproducten nodig.
+7. Rollins ($ROL)
+Hoe verdient het bedrijf geld?
+Rollins (het moederbedrijf van Orkin) levert ongediertebestrijding aan zowel particuliere als commerciële klanten.
+Ze doen dat via een terugkerend abonnementsmodel.
+Waarom is het over 20 jaar nog steeds relevant?
+Plagen zoals termieten, knaagdieren en insecten verdwijnen niet. Ze hebben telkens opnieuw 
 
 *[Volledige tekst beschikbaar via Substack]*
