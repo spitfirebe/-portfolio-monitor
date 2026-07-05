@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 05/07/2026 | ✈️ HEICO: Deep Dive van 186 pagina's | Slegers newsletter |
 | 02/07/2026 | 10 Aandelen voor de komende 20 jaar | Slegers newsletter |
 | 01/07/2026 | Waarom ik naar Seattle ging | Slegers newsletter |
 | 30/06/2026 | Wie is Peter Lynch? | Slegers newsletter |
@@ -1795,5 +1796,64 @@ Rollins (het moederbedrijf van Orkin) levert ongediertebestrijding aan zowel par
 Ze doen dat via een terugkerend abonnementsmodel.
 Waarom is het over 20 jaar nog steeds relevant?
 Plagen zoals termieten, knaagdieren en insecten verdwijnen niet. Ze hebben telkens opnieuw 
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## ✈️ HEICO: Deep Dive van 186 pagina's
+**Datum:** 05/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Vandaag krijg je een volledige analyse van Heico op je bord.
+De analyse telt maar liefst 186 (!) pagina’s.
+Dat is exact wat we doen bij De Kwaliteitsbelegger: stevig analysewerk.
+Heico is een schitterend bedrijf dat zeker jouw aandacht verdient.
+Slow Compounding
+Deze beleggingscase werd gemaakt in samenwerking met mijn beleggingsvriend Alexander van Slow Compounding.
+Als je dat wilt, kan je zijn werk hier bekijken: 
+HEICO - Algemene informatie
+👔 Bedrijfsnaam: HEICO Corporation
+✍️ ISIN: US4228061093
+🔎 Ticker: HEI 
+📚 Type: Seriële Overnemer
+📈 Beurskoers: $359,7
+💵 Marktkapitalisatie: $50,2 miljard
+📊 Gemiddeld dagelijks volume: $244,8 miljoen
+Hoe verdient HEICO geld?
+Heico maakt en verkoopt onderdelen voor vliegtuigen. Denk aan reserve-onderdelen, elektronica en andere technische spullen. Die gebruiken ze in de luchtvaart, defensie, medische sector en industrie.
+Maar dat is niet alles.
+HEICO koopt ook graag andere bedrijven op. Denk aan kleine, sterke nichespelers die perfect passen bij wat ze al doen. Zo wordt hun aanbod jaar na jaar sterker.
+Heb je geen tijd of zin om de volledige 186 pagina’s te lezen?
+Laten we dan eens starten met de belangrijkste inzichten uit onze analyse.
+Drie belangrijkste inzichten
+Hier zijn de 3 belangrijkste inzichten:
+1. Marktleider
+HEICO is ’s werelds grootste onafhankelijke leverancier van goedgekeurde vervangingsonderdelen voor vliegtuigen.
+2. Een winstgevende overnamemachine
+HEICO heeft sinds 1990 meer dan 112 overnames (!) succesvol afgerond.
+3. Sterke compounder
+HEICO deed het fantastisch op de beurs de afgelopen jaren.
+Als je in 1990 €10.000 in het aandeel had belegd, zou je vandaag €13,9 miljoen hebben.
+Conclusie analyse
+HEICO is één van de beste bedrijven ter wereld in de luchtvaartsector.
+Het bedrijf ontwerpt en produceert vervangingsonderdelen voor vliegtuigen en gespecialiseerde elektronische componenten.
+Het bedrijf draait een kapitaallicht model met voorspelbare, terugkerende inkomsten.
+Elke keer een vliegtuig vliegt, slijten onderdelen en moeten ze uiteindelijk worden vervangen.
+Daardoor is HEICO eigenlijk een tolpoort op de wereldwijde luchtvaartindustrie.
+Het bedrijf profiteert van:
+FAA‑goedgekeurde producten die moeilijk na te maken zijn.
+Decennialange reputatie voor kwaliteit en betrouwbaarheid.
+Hoge overstapkosten en langdurige klantrelaties.
+HEICO geniet ook van een uitstekende overnamestrategie.
+Het bedrijf rondde al meer dan 112 overnames succesvol af, terwijl elke dochter zelfstandig blijft opereren.
+Vandaag is hun productportefeuille uitgegroeid tot meer dan 20.000 goedgekeurde vervangingsonderdelen.
+Hoewel de kansen aantrekkelijk zijn, zijn er ook risico’s:
+Sommige luchtvaartmaatschappijen mogen geen goedkope PMA-onderdelen gebruiken. Dat staat soms zo in hun contract.
+De grote fabrikanten (OEM’s) geven hun onderdelenmarkt niet zomaar op. Ze vechten hard terug.
+Als het slecht gaat met de wereldeconomie, vliegen mensen minder. Dan verdient de hele secto
 
 *[Volledige tekst beschikbaar via Substack]*
