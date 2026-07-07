@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 07/07/2026 | Zo analyseren we een aandeel | Slegers newsletter |
 | 05/07/2026 | ✈️ HEICO: Deep Dive van 186 pagina's | Slegers newsletter |
 | 02/07/2026 | 10 Aandelen voor de komende 20 jaar | Slegers newsletter |
 | 01/07/2026 | Waarom ik naar Seattle ging | Slegers newsletter |
@@ -1855,5 +1856,50 @@ Hoewel de kansen aantrekkelijk zijn, zijn er ook risico’s:
 Sommige luchtvaartmaatschappijen mogen geen goedkope PMA-onderdelen gebruiken. Dat staat soms zo in hun contract.
 De grote fabrikanten (OEM’s) geven hun onderdelenmarkt niet zomaar op. Ze vechten hard terug.
 Als het slecht gaat met de wereldeconomie, vliegen mensen minder. Dan verdient de hele secto
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Zo analyseren we een aandeel
+**Datum:** 07/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Kwaliteitsaandelen heb je in alle geuren en kleuren.
+Maar welke kwaliteitsaandelen passen bij jouw profiel en beleggingshorizon?
+Laten we eens kijken.
+Er zijn wereldwijd zo’n 60.000 beursgenoteerde bedrijven. 
+Je kan die nooit allemaal een voor een onder de loep nemen. 
+Dat hoeft ook niet. Honderd is genoeg. Met een goede aandelenscreener zoals Fiscal.ai wied je het verlieslatende onkruid er snel uit. 
+Wat overblijft, zijn de renderende bloemen. Je zult merken dat slechts 250 van de 60.000 (!) beursgenoteerde bedrijven voldoen aan onze strenge criteria. 
+Critici zeggen dan vaak: ‘Maar dan gooi je toch vaak het kind met het badwater weg? Zo mis je toch toppers die nét buiten de filter vallen?’ 
+Het antwoord is eenvoudig: klopt. 
+Maar dat is geen probleem. Zolang je maar eindigt met een lijst vol toppers, is je doel bereikt. 
+De Indiase belegger Pulak Prasad legt het goed uit in zijn boek What I learned about investing from Darwin. 
+Hij beschrijft twee fouten die je als belegger kunt maken: 
+Eén: je koopt een slecht aandeel. Twee: je koopt een goed aandeel niet. 
+Fout nummer één is dodelijk. Die moet je vermijden. 
+Fout nummer twee? Die is minder erg. 
+Zolang de aandelen die je wél koopt uitblinken, komt alles goed. 
+Aandelen screenen doe je zoals water door een trechter gieten. Begin bij het breedst mogelijke aanbod. 
+En filter dan stelselmatig tot enkel het neusje van de zalm overblijft. 
+Neem er de aandelenscreener van Fiscal.ai bij. Die vind je op deze [  ] website.
+Zonder filters krijg je alle beursgenoteerde bedrijven ter wereld voorgeschoteld. 
+Maar dat willen we niet. We beginnen met de markten. Duid aan waar je wilt beleggen. 
+In ons geval: de ontwikkelde markten. Ik beschouw de ontwikkelde markten binnen mijn circle of competence. 
+Het gaat dan specifiek om Noord-Amerika, (West-)Europa en landen zoals Australië. 
+Vervolgens selecteer je de juiste sectoren. Beleg enkel in bedrijven waarvan je begrijpt hoe ze geld verdienen. 
+En beperk je tot industrieën waarin je gelooft. 
+Een van de basisregels van kwaliteitsbeleggen: vermijd cyclische sectoren, waarbij prestaties sterk meebewegen met de economische conjunctuur. 
+Olie, gas en mijnbouw? Uitsluiten. Banken sluit je ook uit. 
+Ze hebben een heel andere balans- en inkomstenstructuur dan een klassiek product- of dienstenbedrijf.
+En dan komt de laatste stap: de kwantitatieve criteria. 
+De cijfers die wij eisen van een aandeel. We gebruiken hiervoor de zeven stappen die we in hier [  ] besproken hebben.  
+Tussen haakjes zet ik voor elke parameter op welke maatstaf het betrekking heeft. 
+Merk op dat een hoge en stabiele brutowinstmarge in combinatie met een hoge en stabiele ROIC vaak een sterke indicatie is dat het bedrijf een competitief voordeel heeft. 
+Daarom worden deze twee parameters zowel bij het competitief voordeel als respectievelijk de hoge winstgevendheid en goede kapitaalallocatie gebruikt. 
+We gaan op zoek naar goede bedrijven die aan deze criteria vold
 
 *[Volledige tekst beschikbaar via Substack]*
