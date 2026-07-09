@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 09/07/2026 | 🛍️ Ons boodschappenlijstje | Slegers newsletter |
 | 07/07/2026 | Zo analyseren we een aandeel | Slegers newsletter |
 | 05/07/2026 | ✈️ HEICO: Deep Dive van 186 pagina's | Slegers newsletter |
 | 02/07/2026 | 10 Aandelen voor de komende 20 jaar | Slegers newsletter |
@@ -1901,5 +1902,67 @@ Tussen haakjes zet ik voor elke parameter op welke maatstaf het betrekking heeft
 Merk op dat een hoge en stabiele brutowinstmarge in combinatie met een hoge en stabiele ROIC vaak een sterke indicatie is dat het bedrijf een competitief voordeel heeft. 
 Daarom worden deze twee parameters zowel bij het competitief voordeel als respectievelijk de hoge winstgevendheid en goede kapitaalallocatie gebruikt. 
 We gaan op zoek naar goede bedrijven die aan deze criteria vold
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 🛍️ Ons boodschappenlijstje
+**Datum:** 09/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Hoe bouw je vermogen op?  
+Eigenlijk is het heel eenvoudig: je koopt geweldige bedrijven tegen een faire prijs.
+En precies dat zien we vandaag bij een aantal bedrijven in ons boodschappenlijstje.
+Tweede Wereldoorlog
+In september 1939 viel de wereld uit elkaar.
+De Tweede Wereldoorlog begon.  
+Kranten voorspelden een economische crash en de beurzen doken omlaag.
+De meeste beleggers waren verlamd door angst.
+Maar John Templeton pakte de telefoon en deed één van de meest gedurfde trades uit de beleggingsgeschiedenis.
+Hij leende $10.000 en kocht 100 aandelen van élk bedrijf dat op de New York Stock Exchange onder $1 noteerde.
+In totaal kocht hij 104 bedrijven. 
+34 daarvan zaten in het midden van een faillissement.
+Zijn vrienden dachten dat hij zijn verstand had verloren.
+Vier jaar later had Templeton die $10.000 omgezet in $40.000.
+Hij verviervoudigde zijn geld terwijl de wereld letterlijk in oorlog was.
+Hij belegde niet in hot stocks. Hij jaagde geen krantenkoppen na.
+Hij kocht saaie, afgetakelde bedrijven op het moment dat iedereen aan het verkopen was.
+Dat is het lastige aan saai lijken in een bullmarkt.
+Het voelt gênant. Het voelt alsof je iets mist.
+Maar de beleggers die vandaag het saaiste lijken, zijn vaak degenen die morgen geschiedenis schrijven.
+Zoals het beroemde citaat van Warren Buffett luidt:
+Kwaliteitsaandelen zijn spotgoedkoop
+De meest volatiele, speculatieve aandelen bereiken vandaag nieuwe all‑time highs.  
+En terwijl heel wat topbedrijven tegen grote kortingen noteren.
+Mr. Market beloont op dit moment momentum en straft geduld.
+Maar de geschiedenis vertelt een glashelder verhaal: elke periode waarin kwaliteit achterblijft, wordt uiteindelijk gevolgd door een scherpe ommekeer.  
+En wanneer die rotatie komt, kan het snel gaan.
+Dat hebben we de voorbije weken al gezien.
+In de voorbije maand:
+Interparfums: +35,1%
+Brown & Brown: +26,9%
+Medpace: +23,7%
+…
+Templeton zei ooit: “Het moment van maximaal pessimisme is het beste moment om te kopen.”
+We zitten vandaag niet op maximaal pessimisme.
+Maar we zitten wel op maximale discrepantie (het grootste verschil tussen kwaliteit en momentum in jaren).
+En dat is bijna even goed.
+Neem Dino Polska als voorbeeld
+Dino Polska kun je zien als ‘de Costco van Polen’.
+Dino Polska runt een netwerk van middelgrote supermarkten in Polen.
+Een simpel, moeilijk te ontwrichten model dat al jaren uitzonderlijk goed werkt.
+Het aandeel ging het afgelopen jaar meer dan 40% lager:
+En dit is wat het bedrijf heeft gepresteerd in exact dezelfde periode:
+Omzet: +15%.
+Nieuwe winkels geopend: 345 (ongeveer één per dag)
+In de afgelopen 10 jaar is de EPS met 19,3% per jaar gestegen. De ROIC ligt ruim boven de 15%. 
+Vandaag noteert het bedrijf aan zijn laagste waarderingsniveau ooit:
+Mr. Market straft Dino Polska.  
+Niemand wil vandaag een saaie Poolse supermarktketen bezitten wanneer je SpaceX aan 90× de omzet kan kopen.
+Maar ondertussen blijft Dino Polska stilletjes doorgroeien.
+Dus wat kunnen 
 
 *[Volledige tekst beschikbaar via Substack]*
