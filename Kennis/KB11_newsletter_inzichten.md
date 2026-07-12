@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 12/07/2026 | Een update van onze portefeuille | Slegers newsletter |
 | 09/07/2026 | 🛍️ Ons boodschappenlijstje | Slegers newsletter |
 | 07/07/2026 | Zo analyseren we een aandeel | Slegers newsletter |
 | 05/07/2026 | ✈️ HEICO: Deep Dive van 186 pagina's | Slegers newsletter |
@@ -1964,5 +1965,67 @@ Mr. Market straft Dino Polska.
 Niemand wil vandaag een saaie Poolse supermarktketen bezitten wanneer je SpaceX aan 90× de omzet kan kopen.
 Maar ondertussen blijft Dino Polska stilletjes doorgroeien.
 Dus wat kunnen 
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Een update van onze portefeuille
+**Datum:** 12/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Ik hoop dat je van een heerlijke zomer(vakantie) aan het genieten bent.
+Vandaag gaan we in onze portefeuille duiken.
+Wat gebeurt er momenteel op de beurs? En hoe doen onze aandelen het?
+De jacht op momentum
+Veel beleggers blijven zich richten op de korte termijn en lopen momentum achterna.
+Weet je nog toen de Magnificent 7 de spannendste aandelen van de hele markt waren?
+Beleggers zijn alweer verdergegaan.
+Bill Ackman zegt dat de markt zich laat afleiden door momentum en hype.
+Volgens hem zien veel mensen bedrijven zoals Microsoft en Meta ondertussen als ouderwets.
+De markt laat zich afleiden door grote beursintroducties.
+Hier zijn een paar voorbeelden:
+SpaceX
+OpenAI
+Anthropic
+Stripe
+Naast beursintroducties richt de markt zich ook op ‘memory stocks’ (producenten van geheugenchips).
+Hier zijn enkele voorbeeldjes:
+Micron
+Western Digital
+Sandisk
+Ze zijn dit jaar allemaal tussen de +200% en +600% gestegen.
+Kijk maar eens naar deze grafiek:
+Een ander soort probleem
+Bedrijven zoals SpaceX en OpenAI hebben vandaag een heel ander probleem dan de memory‑bedrijven.
+OpenAI, SpaceX en Anthropic verliezen elke maand geld.
+Memory‑bedrijven zoals Micron en SanDisk verdienen nu juist te veel geld.
+Ik weet dat het vreemd klinkt dat een bedrijf “te veel verdient”.
+Het is een probleem dat we allemaal zouden willen hebben, toch?
+Maar waarom kan dat eigenlijk een probleem zijn?
+Historisch gezien is de geheugenmarkt extreem cyclisch.
+Kijk maar naar de omzet en nettowinst van Micron:
+Periodes van hoge omzet en hoge winsten worden bijna altijd gevolgd door periodes van lage omzet en lage winsten.
+Waarom?
+Omdat memory een commodity‑business is.
+Deze bedrijven hebben geen prijszettingsmacht.
+Hun winsten worden volledig bepaald door vraag en aanbod.
+Kan je je voorstellen dat een bedrijf zoals Coca‑Cola of Moody’s geld zou verliezen omdat klanten lagere prijzen eisen?
+Ik niet.
+Maar dat is precies wat er bij Micron gebeurde in 2023 en 2024.
+Micron‑CEO Sumit Sadana zei dat een paar klanten agressief lagere prijzen eisten.
+“We vertelden een paar klanten dat hun extreme prijsdruk op dat moment niet constructief was. Door die agressieve houding vielen in 2023 heel wat investeringen in de sector stil. De prijzen waren zo slecht en de marges zo laag dat bedrijven hun plannen moesten schrappen.”
+De verliezen (en de lage vraag naar geheugen) zorgden ervoor dat Micron geen nieuwe fabrieken kon bouwen.
+Nu AI de vraag naar memory omhoog duwt en het aanbod laag is, schieten de prijzen door het dak.
+In het verleden leidde dat altijd tot meer concurrentie en uiteindelijk tot lagere prijzen.
+Kijk maar naar de brutomarges van Micron in 2018: ze waren veel hoger dan normaal.
+Maar daarna zakten ze gewoon weer terug.
+Micron daalde toen ook fors op de beurs:
+Vandaag liggen de marges zelfs hoger dan in 2018.
+De hoge winsten van Micron zullen waarschijnlijk nog even aanhouden, maar luister eens naar wat Jeremy Grantham zegt:
+“Reversion to the mean is e
 
 *[Volledige tekst beschikbaar via Substack]*
