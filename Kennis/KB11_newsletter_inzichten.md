@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 14/07/2026 | 10 Zomerboeken voor Beleggers | Slegers newsletter |
 | 12/07/2026 | Een update van onze portefeuille | Slegers newsletter |
 | 09/07/2026 | 🛍️ Ons boodschappenlijstje | Slegers newsletter |
 | 07/07/2026 | Zo analyseren we een aandeel | Slegers newsletter |
@@ -2027,5 +2028,59 @@ Micron daalde toen ook fors op de beurs:
 Vandaag liggen de marges zelfs hoger dan in 2018.
 De hoge winsten van Micron zullen waarschijnlijk nog even aanhouden, maar luister eens naar wat Jeremy Grantham zegt:
 “Reversion to the mean is e
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 10 Zomerboeken voor Beleggers
+**Datum:** 14/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+We zitten in het midden van de zomervakantie.
+Een ideaal moment om te ontspannen met vrienden en familie.
+Maar ook om een geweldig boek te lezen.
+Laat je inspireren dankzij deze 10 boeken die écht de moeite waard zijn. 
+Donderdag geven we opnieuw een gratis lezing.
+Benieuwd?
+Je kan je hier gratis inschrijven:
+Het belang van lezen
+Denk er eens even over na…
+… Heb je ooit een écht slimme persoon ontmoet die niet veel leest?
+Het doel is eenvoudig: elke dag een beetje slimmer gaan slapen dan je wakker werd.
+Je moet een levenslange leerling zijn.
+Sinds ik mijn leesgedrag in 2024 begon te tracken, heb ik 241 boeken gelezen.
+Zin om de volledige lijst te ontdekken? Stuur een e-mail naar: pieter@compoundingquality.net [ mailto:pieter@compoundingquality.net ].
+Laten we meteen duiken in onze 10 favoriete zomerboeken.
+1. De Kwaliteitsbelegger (Pieter Slegers)
+Benieuwd naar onze beleggingsfilosofie?
+In ons boek De Kwaliteitsbelegger ontdek je het van A tot Z voor slecht €25.
+In het boek worden ook meer dan honderd (!) praktijkvoorbeelden gegeven.
+Je kan het boek hier bestellen: 
+2.The Complete Financial History of Berkshire Hathaway (Adam Mead)
+Als je fan bent van Berkshire Hathaway, is dit boek een goudmijn.
+Adam Mead neemt je mee door de volledige reis van Berkshire Hathaway.
+Hij legt uit hoe het bedrijf evolueerde van een noodlijdende textielfabriek tot een wereldwijd conglomeraat.
+Je leest diepgaande analyses van beleggingen zoals See’s Candies, GEICO en Apple.
+Een absolute aanrader voor elke serieuze belegger.
+3. The Art of Playing Defense (Whitney Tilson)
+De meeste boeken over beleggen focussen op het vinden van de volgende grote winnaar.
+Maar dit boek leert je hoe je fouten vermijdt die je portefeuille (en je leven) blijvend kunnen beschadigen.
+Aan de hand van voorbeelden van fraude, slecht management en te veel schulden legt Tilson uit waarom het beschermen van je kapitaal altijd op de eerste plaats moet komen.
+4. Lesson from the Titans (Scott Davis)
+Wat denk je dat Warren Buffett, Peter Lynch, Charlie Munger en John Templeton gemeen hebben?
+Het zijn enkele van de meest succesvolle beleggers ter wereld.
+Scott Davis kijkt van dichtbij naar hun carrières om te begrijpen wat hen zo uitzonderlijk maakte.
+Dit boek laat je écht binnenkijken in hun brein.
+5. Hoe je een paar miljard extra verdient (Brad Jacobs)
+Brad Jacobs is één van de meest succesvolle ondernemers waar je waarschijnlijk nog nooit van hebt gehoord.
+Hij stopte vroeg met zijn studies en deed daarna meer dan 100 overnames.
+Daardoor kreeg hij de reputatie van één van de beste dealmakers ter wereld.
+In zijn carrière bouwde en schaalde hij acht bedrijven die elk miljarden euro’s waard zijn.
+In dit boek deelt Jacobs de onbetaalbare lessen die hij onderweg leerde.
+Hij gaat in op alles: van het aannemen van geweldige mensen en het bouwen van een sterke cultuur tot het laten groeien van de omzet, het doen van slimme overnames en het verstandig aan het werk 
 
 *[Volledige tekst beschikbaar via Substack]*
