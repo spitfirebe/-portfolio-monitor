@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 19/07/2026 | Onze 5 Favoriete aandelen (Juli 2026) | Slegers newsletter |
 | 14/07/2026 | 10 Zomerboeken voor Beleggers | Slegers newsletter |
 | 12/07/2026 | Een update van onze portefeuille | Slegers newsletter |
 | 09/07/2026 | 🛍️ Ons boodschappenlijstje | Slegers newsletter |
@@ -2082,5 +2083,66 @@ Daardoor kreeg hij de reputatie van één van de beste dealmakers ter wereld.
 In zijn carrière bouwde en schaalde hij acht bedrijven die elk miljarden euro’s waard zijn.
 In dit boek deelt Jacobs de onbetaalbare lessen die hij onderweg leerde.
 Hij gaat in op alles: van het aannemen van geweldige mensen en het bouwen van een sterke cultuur tot het laten groeien van de omzet, het doen van slimme overnames en het verstandig aan het werk 
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Onze 5 Favoriete aandelen (Juli 2026)
+**Datum:** 19/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Elke maand krijg je een update over onze Best Buys van de maand.
+Waar staan de markten vandaag? En wat zijn onze favoriete aandelen?
+Laten we dat vandaag allemaal ontdekken.
+Juni 2026
+Vorige maand daalde de S&P 500 met 1,5%:
+Beleggers zijn vandaag ‘Neutraal’ volgens de Fear & Greed Index [  ]:
+Beste en slechtste presteerders
+Dit overzicht toont de beste en slechtste presteerders binnen ons belegbaar universum.
+Slechtste presteerders
+Hoe goedkoper we geweldige bedrijven kunnen kopen, hoe beter.
+Hier zijn de slechtste presteerders van de voorbije maand:
+Beste presteerders
+Deze aandelen presteerden goed in de voorbije maand:
+🏦 In de Spotlights: Paychex ($PAYX)
+Hoe verdient het bedrijf geld?
+Paychex biedt cloud‑gebaseerde oplossingen voor human capital management. Daaronder vallen payroll, compliance, personeelsbeheer en het beheren van extralegale voordelen.
+Daarnaast runt het een grote HR‑outsourcingtak en een Professional Employer Organization (PEO). Daarmee nemen ze HR en voordelen volledig over voor kleine en middelgrote bedrijven.
+Waarom verdient het een plekje in de spotlights?
+Paychex is een gevestigde speler:
+Ze hebben 800.000 klanten.
+Ze doen de payroll voor 1 op de 11 werknemers (!) in de Verenigde Staten.
+Ze zijn de op één na grootste aanbieder in de VS (2,5 miljoen werknemers onder beheer).
+Maar omdat het een softwarebedrijf is, vreest de markt sterk dat AI hun business zal ontwrichten. 
+Het management ziet dat anders:
+Paychex heeft een bijzonder ‘sticky’ businessmodel. 
+Het bedrijfsmodel steunt op twee kernfactoren:
+Hoge overstapkosten:
+Payroll en fiscale compliance zijn van levensbelang voor elk bedrijf.
+Van aanbieder veranderen brengt grote risico’s mee: operationele verstoringen, dataverlies en juridische of regelgevende problemen.
+Daardoor verlaten klanten Paychex bijna nooit.
+Brede dienstverlening:
+Paychex biedt outsourcing van HR, pensioenplannen en verzekeringen, …
+Veel concurrenten bieden die extra diensten niet.
+De fundamentals zien er ook sterk uit:
+✅ Nettowinstmarge: 25-30%.
+✅ ROIC: 15-20%.
+✅ FCF consistent > 100% van de nettowinst.
+Een grote overname
+In 2025 kocht Paychex Paycor voor €4,1 miljard. 
+Met die deal wil Paychex zich sterker richten op grotere bedrijven met meer dan 100 werknemers.
+De deals brachten enkele duidelijke voordelen voor Paychex:
+Marktuitbreiding: De overname vergroot de bereikbare markt doordat Paychex nu sterker kan inzetten op het mid‑marketsegment.
+Cross‑selling: Paychex kan zijn diensten met hogere marges aanbieden aan bestaande Paycor‑klanten.
+Prijszettingskracht: Grotere, ‘loyale’ klanten geven meer ruimte om prijzen te verhogen en marges te laten groeien.
+Best Buys Juli 2026
+Laten we nu duiken in onze vijf favoriete aandelen van de maand.
+Let op: de bedrijven in onze portefeuille worden hier niet vermeld.
+We zijn enthousiast over alle bedrijven in onze portefeuille.
+De Best Buys zijn de aandelen met de grootste kans om aan de portefeuille toegevoegd te worden.
+5. A
 
 *[Volledige tekst beschikbaar via Substack]*
