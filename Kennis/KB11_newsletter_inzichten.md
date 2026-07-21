@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 21/07/2026 | Heeft Terry Smith zijn verstand verloren?! | Slegers newsletter |
 | 19/07/2026 | Onze 5 Favoriete aandelen (Juli 2026) | Slegers newsletter |
 | 14/07/2026 | 10 Zomerboeken voor Beleggers | Slegers newsletter |
 | 12/07/2026 | Een update van onze portefeuille | Slegers newsletter |
@@ -2144,5 +2145,64 @@ Let op: de bedrijven in onze portefeuille worden hier niet vermeld.
 We zijn enthousiast over alle bedrijven in onze portefeuille.
 De Best Buys zijn de aandelen met de grootste kans om aan de portefeuille toegevoegd te worden.
 5. A
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Heeft Terry Smith zijn verstand verloren?!
+**Datum:** 21/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Is Terry Smith gek geworden?!
+Meestal doet hij bijna geen transacties.
+Maar in de eerste zes maanden van 2026 deed hij belachelijk veel transacties.
+Hij kondigde zelfs een grote wijziging in zijn beleggingsstrategie aan.
+Laten we eens kijken wat er aan de hand is.
+Donderdag geven we opnieuw een gratis lezing.
+Benieuwd?
+Je kan je hier gratis inschrijven:
+Wie is Terry Smith?
+Terry Smith wordt vaak “de Engelse Warren Buffett” genoemd.
+Hij geldt als één van de beste kwaliteitsbeleggers ter wereld.
+Terry is meestal recht voor de raap en een onafhankelijke belegger.
+Hier is een korte achtergrondschets van Terry:
+Hij groeide op in Oost‑Londen, was de beste van zijn jaar op de universiteit van Cardiff en stapte in de jaren ’70 bij Barclays de bankwereld binnen.
+In 1992 schreef hij Accounting for Growth, een boek dat creatieve boekhoudtrucs blootlegde. Het was zo controversieel dat hij er zijn baan door verloor.
+Fundsmith ging van start in 2010. Vandaag beheert het £12 miljard. Het haalde sinds de start een indrukwekkende rendement van 13,1% per jaar na kosten.
+Ik kreeg vorig jaar zelfs de kans om te gaan eten met Team Fundsmith in Omaha, bij Gorat’s (het favoriete steakhouse van Warren Buffett).
+Zijn beleggingsstijl
+De filosofie van Terry Smith is eenvoudig.
+Hij vat ze samen in drie stappen:
+Koop goede bedrijven
+Betaal er niet te veel voor
+Doe niks
+1. Koop goede bedrijven
+Terry Smith zoekt bedrijven van hoge kwaliteit die hun markt domineren.
+Hoge ROCE: Zoek een rendement op geïnvesteerd kapitaal van meer dan 15% 
+Brede Moat: Focus op bedrijven met prijszettingsmacht en hoge brutomarges. 
+Cash is King: Geef voorrang aan sterke organische groei en bedrijven die een groot deel van hun nettowinst omzetten in free cash flow.
+“Ik sta altijd weer versteld van hoeveel mensen over beleggen praten en bijna al hun tijd besteden aan zaken als assetallocatie, sectorwegingen en economische voorspellingen… maar nooit iets zeggen over de noodzaak om gewoon in goede bedrijven te investeren.” — Terry Smith
+2. Betaal niet te veel
+Hoewel kwaliteit altijd op de eerste plaats komt, blijft waardering belangrijk.
+Hij is bereid een redelijke premie te betalen voor een uitzonderlijk bedrijf, maar vermijdt overbetalen.
+3. Handel niet impulsief
+Minder handelen houdt de kosten laag en laat het rendement op lange termijn zijn werk doen.
+Geduld is een van Terry’s grootste troeven geweest.
+Fundamentals
+Fundsmith heeft een portefeuille met bedrijven die sterke fundamentals hebben:
+Rendement
+Op de lange termijn heeft het fonds het zeker goed gedaan.
+Fundsmith haalde sinds 2010 een jaarlijks rendement van 13,1% na kosten.
+Maar raad eens?
+Terry Smith deed het de afgelopen 5 jaar élk jaar slechter dan de index: 
+Wat ons brengt bij de brief die Terry Smith onlangs aan zijn beleggers schreef. 
+Je kan hem hier lezen:
+Aandeelhoudersbrief Terry Smith
+Er zijn twee dingen waarop ik wil focussen in Terry’s brief:
+Waarom hij denkt dat hij het nu moeilijk heeft.
+Hoe hi
 
 *[Volledige tekst beschikbaar via Substack]*
