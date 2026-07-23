@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 23/07/2026 | 📈 Verdient Eli Lilly een plekje in je portefeuille? | Slegers newsletter |
 | 21/07/2026 | Heeft Terry Smith zijn verstand verloren?! | Slegers newsletter |
 | 19/07/2026 | Onze 5 Favoriete aandelen (Juli 2026) | Slegers newsletter |
 | 14/07/2026 | 10 Zomerboeken voor Beleggers | Slegers newsletter |
@@ -2204,5 +2205,69 @@ Aandeelhoudersbrief Terry Smith
 Er zijn twee dingen waarop ik wil focussen in Terry’s brief:
 Waarom hij denkt dat hij het nu moeilijk heeft.
 Hoe hi
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 📈 Verdient Eli Lilly een plekje in je portefeuille?
+**Datum:** 23/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Eén van de meest waardevolle farmabedrijven ter wereld? Eli Lilly.
+Samen met Novo Nordisk [  ] beheersen ze vrijwel de hele markt voor diabetes- en obesitaszorg.
+Dit is wat een belegging van €10.000 sinds 1990 had opgeleverd:
+S&P 500: €0,3 miljoen.
+Eli Lilly: €66,5 miljoen.
+Eli Lilly – Algemene informatie
+👔 Bedrijfsnaam: Eli Lilly and Company
+✍️ ISIN: US5324571083
+🔎 Ticker: LLY
+📚 Type: Oligopoly
+📈 Aandelenkoers: $1,163
+💵 Marktkapitalisatie: $669,8 miljard
+📊 Gemiddeld dagelijkse volume: $2,9 miljard
+15-stappenmodel
+Laten we ons 15‑stappenmodel gebruiken om het bedrijf te analyseren.
+Aan het einde van dit artikel geven we Eli Lilly een score op elk van deze 15 criteria.
+Samen vormen die een Totale Kwaliteitsscore.
+1. Begrijp ik het bedrijfsmodel?
+Eli Lilly ontwikkelt en commercialiseert innovatieve medicijnen. 
+Ze richten zich op enkele van de meest urgente chronische aandoeningen ter wereld.
+Ze zijn marktleider in behandelingen voor diabetes, kanker, Alzheimer en obesitas.
+Eli Lilly volgt de klassieke Big Pharma‑formule:
+Zware R&D-uitgaven (~23% van de omzet).
+Langdurige patentbescherming op blockbuster‑medicijnen.
+Wereldwijde regulatoire strategie.
+Hoge-margemerkmedicatie.
+Maar wat Eli Lilly écht onderscheidt, is hun leiderschap in twee van de grootste groeimarkten in de geneeskunde:
+Obesitas
+Alzheimer
+Met Mounjaro en Zepbound heeft Eli Lilly de snelst groeiende obesitasfranchise ter wereld opgebouwd.
+Analisten verwachten dat de obesitasmarkt tegen 2030 meer dan €50 miljard waard zal zijn.
+Last but not least, zet Eli Lilly ook zwaar in op Donanemab.  
+Het is één van de meest veelbelovende Alzheimer‑medicijnen ter wereld.
+Als het wordt goedgekeurd, kan Donanemab uitgroeien tot het kroonjuweel van hun neurowetenschappelijke portefeuille.
+2. Is het management capabel?
+CEO David Ricks nam het roer over in 2017. 
+Sindsdien is het aandeel meer dan 700% gestegen. 
+Maar wat nog indrukwekkender is? 
+Hij verschoof Eli Lilly’s focus richting innovatie, breidde R&D fors uit en superviseerde de ontwikkeling van baanbrekende medicijnen zoals Mounjaro.
+Onder Ricks’ leiding:
+R&D‑efficiëntie verbeterde merkbaar.
+De pijplijn met medicijnen is sterker dan ooit.
+Biotechpartnerschappen namen explosief toe.
+Het management bezit slechts 0,2% van de aandelen, maar de verloning is sterk prestatiegebonden.  
+Daardoor denkt het management onverbiddelijk op de lange termijn.
+Het resultaat?  
+Eli Lilly domineert de diabetesmarkt, bouwt een snelgroeiende obesitasfranchise uit en heeft doorbraakpotentieel in Alzheimer.
+3. Heeft het bedrijf een duurzaam concurrentievoordeel?
+Eli Lilly heeft een brede en duurzame moat.  
+Die is gebouwd op vijf stevige pijlers:
+Patenten: Patentbescherming op blockbusters zoals Mounjaro, Trulicity en mogelijk Donanemab geeft jarenlang exclusiviteit en extreem hoge marges.
+Regelgevende barrières: Een medicijn door de FDA loodsen kost 10-12 jaar en miljarden euro. 
+Merkenvertrouwen & artsenvoorkeur: Artsen vertrouwen E
 
 *[Volledige tekst beschikbaar via Substack]*
