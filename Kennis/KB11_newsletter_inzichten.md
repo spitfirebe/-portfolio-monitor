@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 24/07/2026 | We kopen deze holding | Slegers newsletter |
 | 23/07/2026 | 📈 Verdient Eli Lilly een plekje in je portefeuille? | Slegers newsletter |
 | 21/07/2026 | Heeft Terry Smith zijn verstand verloren?! | Slegers newsletter |
 | 19/07/2026 | Onze 5 Favoriete aandelen (Juli 2026) | Slegers newsletter |
@@ -2271,3 +2272,36 @@ Regelgevende barrières: Een medicijn door de FDA loodsen kost 10-12 jaar en mil
 Merkenvertrouwen & artsenvoorkeur: Artsen vertrouwen E
 
 *[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## We kopen deze holding
+**Datum:** 24/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Hiep hiep hoera! 🎉
+Onze beursnieuwsbrief wordt deze week maar liefst 4 (!) jaar oud.
+En om dat te vieren, doen we iets speciaals: we gaan een nieuwe holding aan onze portefeuille toevoegen 🏛️
+Waarom een holding? 
+Holdings doen het beter dan hangmatbeleggen (passief beleggen).
+En toch beleg je meteen goed gespreid.
+Welke holding het wordt, maken we deze week bekend in de nieuwsbrief.
+Om ons 4-jarig bestaan extra te vieren, geven we je ook nog:
+🎁 Een korting van 100 euro
+💸 Eén jaar gratis toegang tot onze dividendnieuwsbrief
+🛡️ Niet-tevreden-geld-terug-garantie van 90 dagen
+Als je nu niet investeert in jezelf terwijl je het risicoloos kan doen (via de geld-terug-garantie), zul je het waarschijnlijk nooit doen.
+Waar wacht je nog op?
+Deze korting is alleen beschikbaar voor de eerste 50 personen.
+Zo werkt het:
+Neem een jaarabonnement via deze link. [  ]
+Je krijgt meteen toegang tot alles — inclusief onze analyse van de nieuwe holding
+Niet tevreden? Laat het ons binnen 90 dagen weten via support@compoundingquality.net [ mailto:support@compoundingquality.net ] en je krijgt je geld volledig terug.
+Beleggen in de beste bedrijven ter wereld,
+Pieter
+PS Vier jaar, één nieuwe holding, en nog veel meer moois op komst. Test De Kwaliteitsbelegger en krijg meteen toegang tot de Portefeuille. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
