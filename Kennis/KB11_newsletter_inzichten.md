@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 25/07/2026 | Een zeldzame koopkans | Slegers newsletter |
 | 24/07/2026 | We kopen deze holding | Slegers newsletter |
 | 23/07/2026 | 📈 Verdient Eli Lilly een plekje in je portefeuille? | Slegers newsletter |
 | 21/07/2026 | Heeft Terry Smith zijn verstand verloren?! | Slegers newsletter |
@@ -2303,5 +2304,49 @@ Niet tevreden? Laat het ons binnen 90 dagen weten via support@compoundingquality
 Beleggen in de beste bedrijven ter wereld,
 Pieter
 PS Vier jaar, één nieuwe holding, en nog veel meer moois op komst. Test De Kwaliteitsbelegger en krijg meteen toegang tot de Portefeuille. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Een zeldzame koopkans
+**Datum:** 25/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Gisteren lieten we je weten dat we een nieuwe holding kopen voor onze portefeuille.
+Ik beleg zelf écht geld in dit bedrijf.
+Vandaag vertel ik je graag waarom we zo enthousiast zijn.
+1. Het wordt geleid door de familie
+Dit is voor ons altijd een van de belangrijkste criteria. 
+Wanneer een familie nog steeds een groot deel van de aandelen bezit én het bedrijf leidt, denken ze in decennia, niet in kwartalen.
+Hun belangen zijn perfect afgestemd op die van jou als aandeelhouder. 
+Ze bouwen liever langzaam en duurzaam waarde op dan dat ze op korte termijn de winst opdrijven om analisten tevreden te houden.
+2. Het kan nog fors groeien
+We houden van bedrijven met een lange groei-horizon voor zich. 
+Bij deze holding zien we volop opportuniteiten om:
+Uit te breiden naar nieuwe markten
+Bij te kopen (dankzij een sterke balans)
+Marktaandeel te winnen binnen hun bestaande activiteiten
+Kortom: dit voelt niet aan als een bedrijf dat piekt, maar als een bedrijf dat nog een lange weg voor zich heeft.
+3. Het is ondergewaardeerd
+En misschien wel het belangrijkste: de huidige waardering biedt een aantrekkelijk instapmoment.
+Het bedrijf is beduidend meer waard dan de huidige beurskoers.
+Voor ons is dat exact het type situatie waar we naar op zoek zijn: een kwaliteitsvol bedrijf, aan een prijs die de kwaliteit nog niet volledig weerspiegelt.
+Benieuwd om welke holding het gaat?
+Je ontvangt dankzij het gratis proefabonnement meteen de analyse van deze holding.
+Je krijgt het gewoon gratis.
+Hoe?
+Omdat er vandaag een niet-tevreden-geld-teruggarantie van kracht is bij De Kwaliteitsbelegger.
+Hier is hoe je kan profiteren:
+Neem een jaarabonnement via deze link [  ]
+Je ontvangt meteen toegang tot onze portefeuille en het rapport
+Niet tevreden? Laat het binnen de 90 dagen weten via support@compoundingquality.net [ mailto:support@compoundingquality.net ] en je ontvangt jouw abonnementsgeld volledig terug
+Verzeker je hier van je plekje:
+Ik hoop je snel te mogen verwelkomen!
+Beleggen in de beste bedrijven ter wereld
+Pieter
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
