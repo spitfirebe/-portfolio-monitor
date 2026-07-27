@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 27/07/2026 | Een buitenkansje | Slegers newsletter |
 | 25/07/2026 | Een zeldzame koopkans | Slegers newsletter |
 | 24/07/2026 | We kopen deze holding | Slegers newsletter |
 | 23/07/2026 | 📈 Verdient Eli Lilly een plekje in je portefeuille? | Slegers newsletter |
@@ -2348,5 +2349,49 @@ Verzeker je hier van je plekje:
 Ik hoop je snel te mogen verwelkomen!
 Beleggen in de beste bedrijven ter wereld
 Pieter
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Een buitenkansje
+**Datum:** 27/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Je las deze week al dat we een holding aan onze portefeuille gaan toevoegen.
+Vandaag wil ik het met je hebben over waarom holdings sowieso al jaren tot onze favoriete type bedrijven behoren. 
+En waarom deze ene er in het bijzonder uitspringt.
+Waarom holdings vaak outperformen
+Een goed geleide holding heeft een aantal structurele voordelen:
+Kapitaalallocatie als kernactiviteit. Het management van een holding doet niets anders dan kapitaal zo goed mogelijk alloceren. Dat is precies de vaardigheid die op lange termijn het verschil maakt tussen een gemiddeld en een uitstekend rendement.
+Diversificatie zonder controle te verliezen. Je krijgt spreiding over meerdere activiteiten, zonder in te boeten aan focus. De holding zelf blijft scherp sturen op waar het kapitaal naartoe gaat.
+Vaak een korting op de intrinsieke waarde. Holdings noteren regelmatig onder hun NAV (Net Asset Value). Koop je op het juiste moment, dan koop je onderliggende activa voor minder dan ze werkelijk waard zijn.
+En deze holding combineert alle drie!
+Zonder de naam al te verklappen, alvast enkele cijfers uit onze analyse:
+📈 Sinds de huidige CEO aantrad, steeg de intrinsieke waarde (NAV) van het bedrijf met meer dan 1.000%
+🚀 De grootste participatie binnen de holding groeide de voorbije jaren met een indrukwekkende 25% per jaar
+💰 Het bedrijf noteert momenteel aan de grootste korting op zijn NAV in 20 jaar
+🔄 Management is zelf overtuigd dat het aandeel te goedkoop is. Vandaar een aangekondigd inkoopprogramma van eigen aandelen
+Kortom? 
+Een kwaliteitsvolle holding, met een bewezen trackrecord, die momenteel aan een uitzonderlijke korting noteert.
+Wanneer maken we de naam bekend?
+Deze week, in onze nieuwsbrief. 
+Samen met de volledige analyse, de waardering, en waarom net nu het juiste instapmoment is.
+Wil je erbij zijn wanneer we deze holding effectief kopen? Inclusief de exacte prijs en het aantal aandelen dat we aankopen?
+Normaal betaal je €399 om Partner van De Kwaliteitsbelegger te worden.
+Vandaag kan je Partner worden voor €299.
+Je krijgt 90 dagen om het uit te proberen. Niet tevreden? Dan krijg je elke cent terug.
+Ben je er klaar voor?
+Ik kijk ernaar uit om je te verwelkomen!
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Ik ga zelf écht geld in deze holding beleggen. Neem hier je risicoloos proefabonnement. [  ]
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
+Fiscal.ai [  ]: Financiële data
+Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
