@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 29/07/2026 | “Het Achtste Wereldwonder” – Einstein | Slegers newsletter |
 | 27/07/2026 | Een buitenkansje | Slegers newsletter |
 | 25/07/2026 | Een zeldzame koopkans | Slegers newsletter |
 | 24/07/2026 | We kopen deze holding | Slegers newsletter |
@@ -2395,3 +2396,53 @@ Fiscal.ai [  ]: Financiële data
 Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## “Het Achtste Wereldwonder” – Einstein
+**Datum:** 29/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Als je het krachtigste concept van de beurs begrijpt, sta je er beter voor dan 99% van alle andere mensen.
+Dit concept is zó belangrijk dat het in de naam van onze Engelstalige nieuwsbrief zit…
+… Compounding.
+Sommigen noemen Compounding ook wel eens het sneeuwbaleffect.
+Einstein noemde het eenvoudigweg…
+Het achtste wereldwonder
+Compounding is zo krachtig omdat het gebaseerd is op de wet van exponentiële groei.
+De meeste mensen begrijpen de kracht van exponentiële groei niet.
+En dat is niet vreemd.
+Exponentiële groei komt zelden voor in het dagelijks leven.
+Bomen groeien langzaam, baby’s worden stap voor stap tieners, en we bewegen ons in een constant tempo voort.
+We begrijpen van nature niet goed hoe dingen exponentieel groeien.
+Maar in de financiële wereld...
+... is exponentiële groei de reden waarom sommigen comfortabel met pensioen kunnen gaan, terwijl anderen amper rondkomen.
+Stel dat Bart €1.000 per maand spaart en gemiddeld 4% per jaar verdient over een periode van 20 jaar.
+Naast het geld dat hij aan het einde van die periode heeft gespaard (€ 240.000)...
+... zorgt compounding ervoor dat Bart nog eens over €126.774 extra beschikt.
+Een maatstaf die bekend staat als CAGR (samengestelde jaarlijkse groei) meet de exponentiële kracht van een investering.
+❓❓ Wat is een goede CAGR?
+Een CAGR van ongeveer 9% wordt als sterk beschouwd.
+Dat is vergelijkbaar met de prestaties van de S&P 500 in de afgelopen dertig jaar.
+Maar bij De Kwaliteitsbelegger willen we het graag nog beter doen.
+Natuurlijk biedt succes in het verleden geen garantie voor de toekomst, en de periode is te kort om conclusies te trekken.
+Het doel is om het op lange termijn een beetje beter te doen dan de beurzen in het algemeen.
+Laten we aannemen dat Bart elke maand €1.000 investeert tegen een CAGR van 15%.
+Hij zou na 20 jaar nog eens €1,26 miljoen extra verdienen bovenop het geld dat hij gespaard heeft.
+Het belangrijkste is…
+Neem goede, doordachte risico’s
+Dat is precies waar onze portefeuille om draait.
+Alle aandelen in mijn portfolio zijn beoordeeld aan de hand van mijn 7-stappenmodel
+Een sterk competitief voordeel: Alle bedrijven in mijn portefeuille zijn duidelijke marktleiders met sterke prijszettingskracht.
+Uitstekend management: Het management zit zelf met zijn eigen centen in het bedrijf. Hun belangen zijn afgestemd op die van jou als belegger.
+Lage kapitaalintensiteit: Onze bedrijven hebben weinig kapitaal nodig om te opereren.
+Uitstekende kapitaalallocatie: Een groot deel van de winst die wordt gemaakt wordt geherinvesteerd in organische groei.
+Hoge winstgevendheid: De winstmarge van onze bedrijven is minimaal 15%.
+Aantrekkelijke historische groei: Mijn aandelen deden het de afgelopen jaren, soms zelfs tientallen jaren, beduidend beter dan de beurs.
+Seculaire trends: Onze aandelen profiteren van krachtige trends, zoals cybersecurity, AI, datacenters, of obesitas. Deze sectoren zullen alleen maar blijven groeien.
+Ik geloof zo ste
+
+*[Volledige tekst beschikbaar via Substack]*
