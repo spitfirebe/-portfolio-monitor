@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 30/07/2026 | 🎁 5 Exclusieve cadeautjes voor jou | Slegers newsletter |
 | 29/07/2026 | “Het Achtste Wereldwonder” – Einstein | Slegers newsletter |
 | 27/07/2026 | Een buitenkansje | Slegers newsletter |
 | 25/07/2026 | Een zeldzame koopkans | Slegers newsletter |
@@ -2446,3 +2447,45 @@ Seculaire trends: Onze aandelen profiteren van krachtige trends, zoals cybersecu
 Ik geloof zo ste
 
 *[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 🎁 5 Exclusieve cadeautjes voor jou
+**Datum:** 30/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Vandaag wordt onze beursnieuwsbrief 4 jaar oud! 
+In plaats van cadeautjes te vragen, geef ik graag iets aan jou.
+Sinds de start vorige jaar groeide De Kwaliteitsbelegger uit tot iets bijzonders.
+Dat heb ik aan jou te danken.
+Daarom doe ik deze week iets unieks.
+Je ontvangt deze week vijf cadeaus
+Dit is alles wat je zal krijgen:
+Ik overloop ze even.
+📘 Alle bedrijfsanalyses
+Je ontvangt 555 pagina’s met elke bedrijfsanalyse die we ooit hebben gemaakt.
+Perfect als je zoekt naar nieuwe beleggingsideeën.
+📙 Het Beste van De Kwaliteitsbelegger
+Het Beste van De Kwaliteitsbelegger is een e-boek met mijn beste inzichten.
+Om eerlijk te zijn is dit waarschijnlijk het meest waardevolle cadeau.
+📊 Ik koop dit aandeel
+Ik heb een volledige analyse gemaakt van een bedrijf dat ik aankoop.
+Je ziet precies wat ik koop én waarom.
+🚀 Hoe vind je 100-Baggers
+Deze gids toont de belangrijkste kenmerken van aandelen die 100x kunnen gaan.
+Je krijgt de éxacte criteria waar ik op let.
+💡 Deep Dive over 2 High-Conviction Aandelen
+100 pagina’s aan research over twee bedrijven die we willen kopen.
+Beide bedrijven zouden elke vijf jaar kunnen verdubbelen.
+Je kan lid worden van De Kwaliteitsbelegger voor €399.
+Maar om mijn verjaardag te vieren, krijg je een korting van €100.
+Je betaalt vandaag slechts €299 per jaar.
+Deze korting is geldig tot morgen: 
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Je verjaart maar één keer per jaar. Als je de €100 korting en de vijf verjaardagscadeaus wilt, dan is dit het moment. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
