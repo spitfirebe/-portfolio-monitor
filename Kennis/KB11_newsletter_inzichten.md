@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 31/07/2026 | 💣 Unieke verjaardagsdeal | Slegers newsletter |
 | 30/07/2026 | 🎁 5 Exclusieve cadeautjes voor jou | Slegers newsletter |
 | 29/07/2026 | “Het Achtste Wereldwonder” – Einstein | Slegers newsletter |
 | 27/07/2026 | Een buitenkansje | Slegers newsletter |
@@ -2487,5 +2488,49 @@ Deze korting is geldig tot morgen:
 Beleggen in de beste bedrijven ter wereld
 Pieter
 PS Je verjaart maar één keer per jaar. Als je de €100 korting en de vijf verjaardagscadeaus wilt, dan is dit het moment. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## 💣 Unieke verjaardagsdeal
+**Datum:** 31/07/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+De tijd tikt…
+Vandaag kan je nog steeds Partner van De Kwaliteitsbelegger worden tegen een fameuze korting.
+Als Partner krijg je toegang tot mijn persoonlijke aandelenportefeuille.
+Al mijn belegbaar vermogen zit belegd in die portefeuille
+En maandag koop ik een nieuw bedrijf aan (een holding).
+Met andere woorden, we zitten hier samen in.
+Als jij het goed doet, doe ik het goed. En andersom.
+De twee beste aandelen in onze portefeuille tot dusver?
+Medpace: +114.8%
+Games Workshop: +124.2%
+📈 Maar je krijgt veel meer dan alleen toegang tot mijn Portefeuille…
+✍️ Drie artikels per week (op maandag, woensdag en zaterdag)
+🔎 Volledige analyses over interessante bedrijven
+📊 Toegang tot de ETF Portefeuille
+🎥 En nog veel meer!
+Hoeveel kost dit allemaal?
+De normale prijs is €399.
+Maar tot eind deze week kan je instappen voor slechts €299.
+Daarnaast krijg je ook één jaar gratis toegang tot onze dividendnieuwsbrief.
+Je kan je abonneren via deze stappen:
+Ga naar deze pagina [  ]
+Abonneer je op het Jaarplan
+Het is heel eenvoudig.
+Ik kan niet wachten om je te verwelkomen [  ]!
+Beleggen in de beste bedrijven ter wereld
+Pieter
+Beleggen in de beste bedrijven ter wereld
+Pieter
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
+Fiscal.ai [  ]: Financiële data
+Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
