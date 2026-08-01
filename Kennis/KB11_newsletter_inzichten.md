@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 01/08/2026 | Maandag koop ik dit aandeel | Slegers newsletter |
 | 31/07/2026 | 💣 Unieke verjaardagsdeal | Slegers newsletter |
 | 30/07/2026 | 🎁 5 Exclusieve cadeautjes voor jou | Slegers newsletter |
 | 29/07/2026 | “Het Achtste Wereldwonder” – Einstein | Slegers newsletter |
@@ -2532,5 +2533,43 @@ Gebruikte bronnen
 Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
 Fiscal.ai [  ]: Financiële data
 Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Maandag koop ik dit aandeel
+**Datum:** 01/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Beleggen voelt vaak als een rommelige zoektocht.
+Je springt van hype naar hype. Van dure aandelen naar nog duurdere.
+Altijd in de hoop dat je nét op tijd instapt, voor de crash komt.
+En tóch zijn de resultaten er niet. Je voelt je overweldigd.
+Het probleem?
+Zonder strategie is beleggen een hopeloze zaak.
+De Kwaliteitsbelegger kiest voor een totaal andere aanpak… 
+Enkel het beste van het beste kopen, en dat lang genoeg vasthouden om te profiteren van compounding.
+En morgen laten we je exact zien hoe dat er in de praktijk uitziet.
+Morgen voegen we de volgende “Berkshire Hathaway” toe aan onze Portefeuille
+Dit bedrijf:
+✅ Is nog steeds in handen van de oprichtersfamilie
+✅ Zag zijn intrinsieke waarde met meer dan 1.000% stijgen
+✅ Groeide met meer dan 25% (!) per jaar
+✅ Noteert aan de grootste korting op zijn intrinsieke waarde in 20 jaar
+✅ Het management koopt zelf aandelen omdat het te goedkoop is
+Kortom: een echte compounding machine, aan een prijs die we al jaren niet meer gezien hebben.
+We gaan dit aandeel maandag kop.
+Wil je erbij zijn?
+Word vandaag nog Partner en je krijgt morgen niet alleen de volledige investment case, maar ook de exacte transactie te zien, op het moment dat wij ze uitvoeren.
+Dus… waar wacht je nog op?
+Dit zou het keerpunt voor jou als belegger kunnen zijn.
+De plaatsen zijn beperkt. Claim hier je korting van €100: [  ]
+Beleggen in de beste bedrijven ter wereld
+Pieter
+P.S. Waar wacht je nog op? Word lid en proef voor 90 dagen van De Kwaliteitsbelegger met €100 korting. [  ]
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
