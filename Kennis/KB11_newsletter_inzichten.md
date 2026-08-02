@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 02/08/2026 | Je hebt het gemist... | Slegers newsletter |
 | 01/08/2026 | Maandag koop ik dit aandeel | Slegers newsletter |
 | 31/07/2026 | 💣 Unieke verjaardagsdeal | Slegers newsletter |
 | 30/07/2026 | 🎁 5 Exclusieve cadeautjes voor jou | Slegers newsletter |
@@ -2571,5 +2572,53 @@ De plaatsen zijn beperkt. Claim hier je korting van €100: [  ]
 Beleggen in de beste bedrijven ter wereld
 Pieter
 P.S. Waar wacht je nog op? Word lid en proef voor 90 dagen van De Kwaliteitsbelegger met €100 korting. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Je hebt het gemist...
+**Datum:** 02/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger👋
+Ik ben momenteel op Kreta (Griekenland).
+Dit is de plek van waaruit ik deze e-mail schrijf:
+Waarom ik in Griekenland ben?
+Eerlijk? Om een ​​weekje te ontspannen.
+Mijn beste ideeën komen altijd als ik niet aan het werk ben.
+Morgen voegen we de volgende “Berkshire Hathaway” toe aan onze Portefeuille.
+Dit bedrijf:
+✅ Is nog steeds in handen van de oprichter en CEO
+✅ Groeit met meer dan 15% per jaar
+✅ Is een echte compounding machine
+Gisteren was je laatste kans om De Kwaliteitsbelegger risicoloos uit te testen.
+Hoe zat dat precies?
+Je neemt een jaarabonnement
+Je krijgt een korting van 800 euro
+En je betaalt slechts 299 euro
+Niet tevreden? Laat het weten binnen de 90 dagen en je ontvangt je volledig abonnementsgeld terug
+Deze aanbieding is gisteren verlopen.
+Maar hier is het goede nieuws…
+… Ik ben goedgezind. Ik ben namelijk op vakantie.
+Daarom krijg je nog één dag extra.
+Waar wacht jij nog op?
+Warren Buffett zei ooit het volgende:
+Voor één keer ben ik het eens niet eens met Warren Buffett.
+De beste belegging is namelijk een risicovrij belegging in jezelf!
+Dit is alles wat je krijgt:
+📈 Mijn persoonlijke portfolio met kwaliteitsvolle compoundingenvol met kwaliteitsvolle aandelen
+✍️ Drie artikelen per week(Dinsdag, donderdag en zondag)
+📚 Volledige toegang tot onze hele bibliotheekvan datagestuurde artikelen
+🔎 Complete investeringscasesover interessante bedrijven
+📊 Toegang tot de besloten gemeenschap
+🎥 Privé Zoom-vergaderingenmet de CEO’s van de bedrijven die we bezitten
+🚀Een exclusief rapport met AL mijn investeringscases tot nu toe.
+Je kunt hier profiteren van een korting van 800 euro, inclusief een 90-dagen geld-terug-garantie:
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Het is altijd leuk om dingen in de solden te kopen. Benieuwd welk aandeel ik morgen koop? Test  [  ]De Kwaliteitsbelegger [  ] en krijg meteen toegang tot de Portefeuille. [  ]
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
