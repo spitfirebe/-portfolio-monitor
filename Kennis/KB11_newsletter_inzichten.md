@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 04/08/2026 | Wie is Chris Hohn? | Slegers newsletter |
 | 02/08/2026 | Je hebt het gemist... | Slegers newsletter |
 | 01/08/2026 | Maandag koop ik dit aandeel | Slegers newsletter |
 | 31/07/2026 | 💣 Unieke verjaardagsdeal | Slegers newsletter |
@@ -2622,3 +2623,58 @@ Pieter
 PS Het is altijd leuk om dingen in de solden te kopen. Benieuwd welk aandeel ik morgen koop? Test  [  ]De Kwaliteitsbelegger [  ] en krijg meteen toegang tot de Portefeuille. [  ]
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Wie is Chris Hohn?
+**Datum:** 04/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Chris Hohn is één van de beste beleggers ter wereld.
+Zijn hedgefonds TCI verdiende vorig jaar bijna 20 miljard (!) euro.
+Laten we een paar belangrijke lessen leren van deze uitzonderlijke belegger.
+Wie is Chris Hohn?
+Mensen noemen Chris Hohn ‘De Tollkeeper‑belegger’.
+Waarom?
+Hij belegt alleen in bedrijven die essentiële onderdelen van de economie controleren.
+Denk aan cruciale infrastructuur zoals luchthavens, spoorwegen, …
+Chris Hohn werd geboren in 1966 in Engeland, in een arbeidersgezin.
+Zijn moeder was secretaresse en zijn vader was automonteur.
+Hij studeerde accounting aan de Universiteit van Southampton en behaalde daarna een MBA aan Harvard Business School.
+Een interessant verhaal?
+In zijn derde jaar bij een hedgefonds in New York kreeg Chris een bonuscheque van 10 miljoen euro.
+De meeste mensen zouden denken dat ze het gemaakt hebben in het leven.
+Maar Chris dacht daar anders over.
+Hij richtte meteen een stichting op en stortte het volledige bedrag daarin.
+Hij zei: “Ik wilde het geld niet… Dit is eigenlijk niets wat ik zou moeten hebben.”
+In 2003 richtte Chris The Children’s Investment Fund op.
+De meeste mensen kennen het fonds als TCI.
+Zoals de naam al aangeeft, schenkt het fonds een deel van zijn winst aan goede doelen voor kinderen.
+Tot nu toe heeft de Children’s Investment Fund Foundation (CIFF) meer dan 2 miljard euro gedoneerd aan kinderprojecten, vooral in ontwikkelingslanden.
+Alleen al in 2025 gaf het hedgefonds TCI 797 miljoen euro aan goede doelen.
+Zo’n doelgerichte aanpak is zeldzaam in de hedgefondswereld.
+In 2014 kreeg Hohn een ridderorde als erkenning voor zijn liefdadigheidswerk.
+Beleggingsfilosofie
+De aanpak van Chris Hohn kan je als volgt samenvatten:
+Managen van risico’s eerst, rendement daarna: Verlies geen geld.
+Beleg in tollkeeper‑bedrijven: Bedrijven die essentiële infrastructuur controleren.
+Koop bedrijven met hoge toetredingsdrempels: Zoek aandelen met meerdere moats.
+Zet in op concentratie: Beleg alleen in je beste ideeën.
+Hou lang vast: Chris Hohn houdt een aandeel gemiddeld 8 jaar.
+1. Managen van risico’s eerst, rendement daarna
+De meeste beleggers vragen: “Hoeveel kan ik verdienen?”
+Chris Hohn vraagt: “Hoeveel kan ik verliezen?”
+“Beleggen draait om risico en rendement. De overgrote meerderheid van beleggers focust op rendement. Maar ik heb mijn hele carrière gebouwd op het managen van risico’s.”
+Daarom vermijdt Hohn ingewikkelde bedrijven die hij niet begrijpt.
+Hij vertelde ooit aan de CEO van Credit Suisse dat hij het balanstotaal van meerdere biljoenen euro niet begreep.
+Toen hij de CEO vroeg om het uit te leggen, zou die hebben geantwoord: “Ik ook niet.”
+Kort daarna verkocht Chris al zijn bankaandelen.
+Daarom noemt hij TCI graag een stay‑rich‑fonds, geen get‑rich‑fonds.
+2. Beleg in tollkeeper‑bedrijven
+Chris belegt alleen in tollkeeper‑bedrijven.
+Wat zijn tollkeeper-bedrijven?
+Tollkeeper‑bedrijven zijn ondernemingen die stabiele winsten verdienen doordat ze essentiële infrastru
+
+*[Volledige tekst beschikbaar via Substack]*
