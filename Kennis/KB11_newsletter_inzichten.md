@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 06/08/2026 | 20 Aandelen voor het Leven | Slegers newsletter |
 | 04/08/2026 | Wie is Chris Hohn? | Slegers newsletter |
 | 02/08/2026 | Je hebt het gemist... | Slegers newsletter |
 | 01/08/2026 | Maandag koop ik dit aandeel | Slegers newsletter |
@@ -2676,5 +2677,63 @@ Daarom noemt hij TCI graag een stay‑rich‑fonds, geen get‑rich‑fonds.
 Chris belegt alleen in tollkeeper‑bedrijven.
 Wat zijn tollkeeper-bedrijven?
 Tollkeeper‑bedrijven zijn ondernemingen die stabiele winsten verdienen doordat ze essentiële infrastru
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 20 Aandelen voor het Leven
+**Datum:** 06/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Heb je al eens gehoord van het Lindy Effect?
+Het is een heel krachtig concept.
+Hoe langer iets bestaat, hoe groter de kans dat het nog lang zal blijven bestaan.
+Je kan het Lindy Effect zeker en vast ook gebruiken om een betere belegger te worden.
+Het Lindy-effect
+Heb je toevallig ooit al eens gehoord van Lindy’s Delicatessen in New York? 
+Het was een restaurant aan Broadway waar artiesten vaak gingen eten.
+Het verhaal gaat dat komieken grapten dat als een Broadway‑show twee weken liep, hij waarschijnlijk nog twee weken zou blijven lopen.
+En als een show al twee jaar draaide, zou hij waarschijnlijk nog twee jaar blijven bestaan.
+Je kan ermee lachen… Maar ze bleken gelijk te hebben.
+Hoe het Lindy‑effect werkt
+Als je 80 jaar bent, betekent het Lindy‑effect niet dat je tot 160 zal leven.
+Helaas, pindakaas.
+Het geldt alleen voor dingen die lang blijven bestaan:
+Ideeën
+Technologieën
+Kunst
+…
+Deze dingen verouderen niet zoals mensen.
+Elke dag dat iets blijft bestaan, bewijst het dat het nuttig en robuust is.
+Dat maakt de kans groter dat het morgen ook nog zal bestaan.
+Denk aan deze voorbeelden:
+Boeken: Denk aan Meditations van Marcus Aurelius. Dat boek lezen mensen binnen 100 jaar nog altijd. En dat nieuwe businessboek van vorige week, hoog in de New York Times-bestsellerlijst? Dat lees je dan waarschijnlijk niet meer.
+Technologie: Kijk naar de fiets. Die verandert al sinds de jaren 1800 amper. Segways, hoverboards en e-steps? Die komen en gaan.
+Voeding: Om de paar jaar is er weer een nieuw hypedieet of supplement. Maar mensen eten al duizenden jaren olijfolie, brood en vis. Dat blijft binnen 100 jaar waarschijnlijk nog altijd zo. Die nieuwste dieetproducten van vandaag? Die ben je dan allang vergeten.
+Onthoud dit: wat tijdloos is, wint altijd van wat trendy is.
+Het leuke? Het Lindy‑effect kan je ook helpen op de beurs.
+Het Lindy-effect bij beleggen
+Kapitalisme kan hard zijn.
+50% van alle bedrijven verdwijnt binnen de 5 jaar.  
+80% is na 10 jaar verdwenen.
+Maar een klein aantal uitzonderlijke bedrijven bestaan al meer dan 100 jaar. 
+In Japan bestaan sommige bedrijven zelfs al meer dan 1.000 jaar.
+Lindybedrijven
+Deze zeer oude bedrijven kun je zien als echte Lindybedrijven.
+Je kent Deere & Company waarschijnlijk als John Deere.
+Het is een Lindy‑bedrijf dat al bestaat sinds 1837 (!).
+Het begon allemaal toen een smid, John Deere, een gepolijste stalen ploeg maakte uit een kapot zaagblad.
+De basis van de landbouw is al duizenden jaren hetzelfde gebleven.
+Dat betekent dat de expertise, het merk en de reputatie van Deere al bijna 200 jaar hebben kunnen groeien.
+Vandaag is het een wereldspeler die GPS‑gestuurde, autonome tractoren bouwt.
+En ze maken nog steeds ploegen.
+Als een bedrijf al 189 jaar bestaat… 
+Oorlogen, recessies, technologische revoluties, noem maar op… 
+Dan zegt het Lindy-effect iets straf: dat bedrijf blijft waarschijnlijk nog eens 189 jaar bestaan.
+En waarom is dat zo belangrijk voor jou als belegger?
+Omdat de waa
 
 *[Volledige tekst beschikbaar via Substack]*
