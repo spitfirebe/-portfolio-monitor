@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 09/08/2026 | 10 Aandelen voor Altijd | Slegers newsletter |
 | 06/08/2026 | 20 Aandelen voor het Leven | Slegers newsletter |
 | 04/08/2026 | Wie is Chris Hohn? | Slegers newsletter |
 | 02/08/2026 | Je hebt het gemist... | Slegers newsletter |
@@ -2735,5 +2736,73 @@ Oorlogen, recessies, technologische revoluties, noem maar op…
 Dan zegt het Lindy-effect iets straf: dat bedrijf blijft waarschijnlijk nog eens 189 jaar bestaan.
 En waarom is dat zo belangrijk voor jou als belegger?
 Omdat de waa
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 10 Aandelen voor Altijd
+**Datum:** 09/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Afgelopen donderdag hadden we het over het Lindy-effect.
+Vandaag duiken we in ‘10 Aandelen voor Altijd.’
+Het oudste aandeel in dit lijstje bestaat al meer dan 200 (!) jaar.
+Voordat we beginnen, eerst een korte herinnering aan het Lindy-effect:
+Hoe langer iets heeft overleefd, hoe langer het waarschijnlijk zal blijven bestaan.
+Bedrijven die zich al decennialang weten aan te passen, hebben hun duurzaamheid al bewezen.
+Niets is gegarandeerd, maar een lange levensduur is vaak een teken van een uitzonderlijk bedrijf.
+Laten we nu kijken naar de tien oudste bedrijven op ons lijstje.
+10. Coca-Cola ($KO)
+Oprichting: 1886
+Beursgang: 1919
+Geschiedenis: Apotheker John Pemberton maakte siroop in Atlanta. Dit groeide uit tot Coca-Cola.
+Het Lindy-effect
+Mensen zullen altijd zoete dranken willen.
+Coca‑Cola is één van de sterkste merken ter wereld.
+Zijn wereldwijde distributienetwerk is bijna onmogelijk te kopiëren.
+Hoe heeft Coca-Cola gepresteerd?
+Coca‑Cola heeft sinds 1990 meer dan 10% per jaar opgeleverd.
+ In totaal leverde het aandeel sinds toen bijna +4.000% op voor aandeelhouders.
+9. Eli Lilly ($LLY)
+Oprichting: 1876
+Beursgang: 1952
+Geschiedenis: Burgeroorlogsveteraan en apotheker kolonel Eli Lilly opende een farmaceutisch laboratorium in Indianapolis.
+Het Lindy-effect
+Mensen zullen altijd ziek worden en ze zullen altijd medicijnen willen die hen helpen.
+Lilly heeft decennialange ervaring in het ontwikkelen van nieuwe geneesmiddelen.
+Sterke patenten beschermen hun beste producten.
+Hoe heeft Eli Lilly gepresteerd?
+Lilly heeft sinds 1990 meer dan +17.000% opgeleverd.
+8. Brown-Forman ($BF.B)
+Oprichting: 1870
+Beursgang: 1929
+Geschiedenis: George Garvin Brown begon met het verkopen van gebottelde whisky (Old Forester) in Louisville.
+Het Lindy-effect
+Mensen drinken al eeuwen alcohol.
+Merken zoals Jack Daniel’s hebben trouwe klanten over de hele wereld.
+Sterke merken geven het bedrijf prijszettingsmacht.
+Hoe heeft Brown-Forman gepresteerd?
+Sinds 1990 heeft Brown‑Forman ongeveer 1.800% opgeleverd, goed voor een jaarlijkse rendement van 8,5%.
+7. Sherwin-Williams ($SHW)
+Oprichting: 1866
+Beursgang: 1964
+Geschiedenis: Henry Sherwin en Edward Williams richtten een verfbedrijf op in Cleveland.
+Het Lindy-effect
+Huizen en gebouwen zullen altijd verf nodig hebben.
+Sherwin‑Williams heeft een van de grootste verfdistributienetwerken in de VS.
+Dankzij het enorme winkelnetwerk kiezen aannemers vaak voor Sherwin‑Williams. Er is altijd een winkel in de buurt om snel nieuwe voorraad te halen.
+Hoe heeft Sherwin-Williams gepresteerd?
+Het aandeel leverde sinds 1990 maar liefst 15,5% per jaar op (!):
+6. Union Pacific ($UNP)
+Oprichting: 1862
+Beursgang: 1897
+Geschiedenis: Het bedrijf kreeg een charter onder de Pacific Railway Act om de oostelijke helft van de eerste transcontinentale spoorlijn te bouwen.
+Het Lindy-effect
+De economie is afhankelijk van het verplaatsen van zware goederen.
+Spoorvervoer is één van de goedkoopste manieren om vrac
 
 *[Volledige tekst beschikbaar via Substack]*
