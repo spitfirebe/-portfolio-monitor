@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 11/08/2026 | 🎙️ Hoe je 100‑baggers vindt | Slegers newsletter |
 | 09/08/2026 | 10 Aandelen voor Altijd | Slegers newsletter |
 | 06/08/2026 | 20 Aandelen voor het Leven | Slegers newsletter |
 | 04/08/2026 | Wie is Chris Hohn? | Slegers newsletter |
@@ -2804,5 +2805,41 @@ Geschiedenis: Het bedrijf kreeg een charter onder de Pacific Railway Act om de o
 Het Lindy-effect
 De economie is afhankelijk van het verplaatsen van zware goederen.
 Spoorvervoer is één van de goedkoopste manieren om vrac
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 🎙️ Hoe je 100‑baggers vindt
+**Datum:** 11/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋,
+Ik hoop dat het goed met je gaat.
+Vandaag duiken we in groeibeleggen.
+In het interview van vandaag ontdek je hoe Kris een +8.720% (!) rendement op Nvidia behaalde en +2.668% op Shopify.
+Wil je meer leren over groeibeleggen?
+Via deze link ontvang je gratis een van de favoriete aandelen van Kris op dit moment.
+Daarbovenop ontvang je later deze week zijn top 5 aandelen van Kris.
+Wie is Kris Heyndrikx?
+Kris Heyndrikx is één van mijn beste vrienden.  
+We praten elke dag over business, het leven en beleggen.
+Kris is vooral bekend van zijn Twitter‑account From Growth To Value [  ] (120.000 volgers) en zijn beleggingsnieuwsbrief Potential Multibaggers [  ].
+Zijn nieuwsbrief focust volledig op groeibeleggen.
+Kris kocht onder andere:
+Shopify ($SHOP) voor $5,6 (huidige koers: $155).
+Cloudflare ($NET) voor $39 (huidige koers: $310).
+CrowdStrike ($CWRD) voor $24,53 (huidige koers: $225).
+En daarbovenop belegde hij al in 2017 in Nvidia ($NVDA) aan $2,5 (huidige koers $217).
+Laten we nu in het interview duiken!
+Hoe zou je jouw beleggingsstrategie definiëren?
+Kris: Ik zoek hoogwaardige, disruptieve bedrijven die het potentieel hebben om in tien jaar 10x of meer te gaan. Natuurlijk zijn die niet makkelijk te vinden. Maar als ik ze vind, doe ik het moeilijkste in beleggen: ik hou ze vast zolang ze het goed blijven doen.
+Trouwens, ik ben ook heel blij met een 5x‑rendement. Een 5x betekent dat je gemiddeld 17% per jaar haalt over tien jaar. Een 10x betekent 26% per jaar over tien jaar. Die simpele rekensom toont dat je niet hoeft te gokken of te traden om fantastische resultaten te behalen. Je moet een echt geweldig bedrijf vroeg vinden en het vervolgens de tijd geven om te blijven groeien. Soms word je positief verrast. Ik had nooit verwacht dat Shopify meer dan 20x zou stijgen in de negen jaar sinds ik het kocht.
+Je Twitter‑handle is ‘From Growth To Value’. Kan je dat toelichten?
+Kris: Mijn Twitter/X‑naam vat eigenlijk mijn hele filosofie samen in vier woorden.
+Ik probeer groeiaandelen te kopen en ze zo lang vast te houden dat ze uiteindelijk waardeaandelen worden. Toen ik in februari 2016 begon te schrijven over aandelen, werden Amazon ($AMZN) en Netflix ($NFLX) nog gezien als pure groeiaandelen. Ze waren veel te duur. Vandaag zijn ze “groei tegen een redelijke prijs”. De volgende stap is een waardeaandeel, zoals Google ($GOOG) was, toen iedereen dacht dat AI het bedrijf zou vernietigen. Omdat ik AI nauw volg, heb ik toen een positie in Google genomen.
+Die reis, van groei naar waarde, is precies waar je levensveranderende rendementen kan genereren. Als je een geweldig bedrijf 30 jaar kan vasthouden, worden de rendementen bijna absurd. Ik ken iemand die na zijn studies ongeveer $1.500 in Netflix investeerde. Hij was dolblij toen hij een jaar later met 40% winst kon verkopen. Dat is waar de meeste beleggers tevreden mee zijn. Maar als hij zijn Netflix‑aandelen gewoon had gehouden, was die kleine positie vandaag ongevee
 
 *[Volledige tekst beschikbaar via Substack]*
