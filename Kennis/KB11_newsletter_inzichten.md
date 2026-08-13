@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 13/08/2026 | 10 Aandelen om Nooit Verkopen | Slegers newsletter |
 | 11/08/2026 | 🎙️ Hoe je 100‑baggers vindt | Slegers newsletter |
 | 09/08/2026 | 10 Aandelen voor Altijd | Slegers newsletter |
 | 06/08/2026 | 20 Aandelen voor het Leven | Slegers newsletter |
@@ -2841,5 +2842,78 @@ Je Twitter‑handle is ‘From Growth To Value’. Kan je dat toelichten?
 Kris: Mijn Twitter/X‑naam vat eigenlijk mijn hele filosofie samen in vier woorden.
 Ik probeer groeiaandelen te kopen en ze zo lang vast te houden dat ze uiteindelijk waardeaandelen worden. Toen ik in februari 2016 begon te schrijven over aandelen, werden Amazon ($AMZN) en Netflix ($NFLX) nog gezien als pure groeiaandelen. Ze waren veel te duur. Vandaag zijn ze “groei tegen een redelijke prijs”. De volgende stap is een waardeaandeel, zoals Google ($GOOG) was, toen iedereen dacht dat AI het bedrijf zou vernietigen. Omdat ik AI nauw volg, heb ik toen een positie in Google genomen.
 Die reis, van groei naar waarde, is precies waar je levensveranderende rendementen kan genereren. Als je een geweldig bedrijf 30 jaar kan vasthouden, worden de rendementen bijna absurd. Ik ken iemand die na zijn studies ongeveer $1.500 in Netflix investeerde. Hij was dolblij toen hij een jaar later met 40% winst kon verkopen. Dat is waar de meeste beleggers tevreden mee zijn. Maar als hij zijn Netflix‑aandelen gewoon had gehouden, was die kleine positie vandaag ongevee
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 10 Aandelen om Nooit Verkopen
+**Datum:** 13/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Welkom bij de derde editie van onze reeks ‘10 Aandelen voor de komende 20 jaar’.
+Je ontving eerder al twee delen:
+Pieter’s selectie [  ]
+TJ’s selectie [  ]
+Vandaag is het tijd voor de selectie van Arka.
+Laten we er meteen induiken!
+Vanavond om 20u00 geven we een Masterclass Succesvol beleggen.
+Meevolgen? Je kan je hier inschrijven:
+Wie blijft er over?
+Op het eerste gezicht lijkt deze oefening heel simpel.
+Je zoekt gewoon 10 geweldige bedrijven en houdt ze 20 jaar lang vast.
+Maar de geschiedenis vertelt een ander verhaal.
+Herinner je je de 20 grootste bedrijven van 20 jaar geleden nog?
+Hier staan ze:
+Veel van deze namen klinken je vast heel bekend.
+Maar… hoeveel daarvan staan vandaag nog steeds in de top 20?
+Hier is het huidige lijstje:
+Het aantal bedrijven dat op beide lijstjes staat?
+Slechts zes (!):
+Microsoft
+Walmart
+Intel
+Exxon Mobil
+Johnson & Johnson
+Cisco Systems
+Bedrijven zoals Coca‑Cola en Home Depot zijn vandaag nog altijd uitzonderlijke ondernemingen.
+Maar ze halen de lijst niet meer.
+Er is iets dat deze zes blijvers uniek maakt.
+Ze hebben de veerkracht getoond om de uitdagingen van de voorbije twintig jaar te doorstaan.
+Wat hebben deze bedrijven gemeen?
+Het is niet één factor. Het is de combinatie van:
+Een sterke moat 
+Sterk management 
+Gezonde balans 
+Uitstekende kapitaalallocatie 
+Continue aanpassing aan veranderende omgevingen
+Dit brengt ons terug naar de basis van onze aandelenselectie.
+Een aandeel kiezen voor de komende 20 jaar gaat niet over het kopen van een goed bedrijf vandaag.
+Het gaat over het vinden van een onderneming die zich blijft aanpassen, blijft winnen en decennialang relevant blijft.
+Onze taak? Die paar uitzonderlijke bedrijven vinden, ze kopen… en ze met rust laten zodat ze hun ding kunnen blijven doen.
+Laten we meteen naar de top 10 aandelen gaan.
+10. Ferrari ($RACE)
+Hoe verdient Ferrari geld?
+Ferrari bouwt exclusieve sportwagens en verkoopt er bewust minder dan mensen willen kopen.
+Waarom is dit bedrijf over 20 jaar nog relevant?
+Ferrari is geen autobedrijf. Het is een luxebedrijf.
+Rijke mensen worden steeds rijker. Ze willen dingen die anderen niet kunnen krijgen.
+Ferrari bouwt bewust minder auto’s dan de vraag (aanbod < vraag).
+9. Old Dominion Freight Line ($ODFL)
+Hoe verdient ODFL geld?
+Old Dominion is een toonaangevend Amerikaans transportbedrijf dat gespecialiseerd is in less‑than‑truckload (LTL)‑vervoer. 
+Daarbij combineren ze vracht van verschillende klanten in één truck.
+Dat zorgt voor efficiënte routes en hoge bezettingsgraden. 
+Het bedrijf runt meer dan 260 servicecentra verspreid over heel Noord‑Amerika.
+Waarom is dit bedrijf over 20 jaar nog relevant?
+Het verplaatsen van fysieke goederen blijft altijd nodig.
+Nieuwe concurrenten kunnen hun miljarden­netwerk vrijwel niet kopiëren.
+Ze zijn de beste in wat ze doen.
+8. Thermo Fisher Scientific ($TMO)
+Hoe verdient Thermo Fisher geld?
+Thermo Fisher Scientific is ’s werelds toonaangevende speler in wetenschap en gez
 
 *[Volledige tekst beschikbaar via Substack]*
