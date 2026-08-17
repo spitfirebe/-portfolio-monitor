@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 16/08/2026 | Koop de volgende Berkshire Hathaway | Slegers newsletter |
 | 13/08/2026 | 10 Aandelen om Nooit Verkopen | Slegers newsletter |
 | 11/08/2026 | 🎙️ Hoe je 100‑baggers vindt | Slegers newsletter |
 | 09/08/2026 | 10 Aandelen voor Altijd | Slegers newsletter |
@@ -2917,3 +2918,48 @@ Hoe verdient Thermo Fisher geld?
 Thermo Fisher Scientific is ’s werelds toonaangevende speler in wetenschap en gez
 
 *[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Koop de volgende Berkshire Hathaway
+**Datum:** 16/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋,
+Vandaag kopen we een nieuw aandeel voor onze portefeuille.
+Wat je moet weten over dit bedrijf: 
+🏛️ Het presteerde sinds 1985 ruim beter dan Berkshire Hathaway.
+🇮🇳   Je krijgt meteen toegang tot de snelgroeiende Indiase markt
+🔄 Net als Berkshire Hathaway gebruiken ze hun float om in aandelen te investeren.
+💰 Het management denkt dat ze jaarlijks met 15% kunnen groeien (een verdubbeling om de 5 jaar).
+Conclusie analyse
+De CEO nam de lessen van vier uitzonderlijk getalenteerde investeerders/ondernemers en paste ze toe bij dit bedrijf:
+Warren Buffett: Hij zet verzekeringsactiviteiten in om goedkope float te creëren en die te beleggen.
+Ben Graham: Hij dacht als een value‑investeerder.
+Sir John Templeton: Hij dacht contrair, investeerde wereldwijd en benaderde business als een kracht voor het goede.
+Henry Singleton: Hij besefte dat zijn eigen aandeel de beste investering was in een aantal gevallen, en als dat zo was, handelde hij doortastend.
+En dan voegde hij er nog zijn eigen principe aan toe: 
+Zie business als een kracht voor het goede. Wees zo gul mogelijk en leef het motto: “Goed doen door succesvol te zijn”.
+Die filosofie maakte dit bedrijf tot één van de best presterende aandelen in Noord‑Amerika.
+Het aandeel steeg gemiddeld 19,5% (!) per jaar sinds 1985.
+Maar nu de vraag van één miljoen: 
+“Is dit bedrijf echt zoals Berkshire Hathaway 30 jaar geleden kopen?”
+Wij denken van wel.
+Het opwaartse potentieel is nog altijd enorm.
+Je krijgt blootstelling aan India, een markt die hen in staat zou moeten stellen om zijn intrinsieke waarde elke vijf jaar te verdubbelen.
+Wat dit bedrijf onderscheidt van de vele Berkshire‑kopieën, is zijn uitzonderlijke trackrecord.
+Sterke rendementen over een paar jaar kunnen toeval zijn.
+Maar meer dan 40 jaar de markt verslaan is zeer uitzonderlijk.
+Benieuwd?
+Partners krijgen toegang tot mijn persoonlijke portefeuille met 100% transparantie.
+Neem een kijkje op onze lezerspagina om meer te ontdekken:
+Beleggen in de beste bedrijven ter wereld
+Pieter
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
+Fiscal.ai [  ]: Financiële data
+Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
