@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 18/08/2026 | 🎙️ Groeibeleggen zoals het hoort | Slegers newsletter |
 | 16/08/2026 | Koop de volgende Berkshire Hathaway | Slegers newsletter |
 | 13/08/2026 | 10 Aandelen om Nooit Verkopen | Slegers newsletter |
 | 11/08/2026 | 🎙️ Hoe je 100‑baggers vindt | Slegers newsletter |
@@ -2963,3 +2964,35 @@ Fiscal.ai [  ]: Financiële data
 Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## 🎙️ Groeibeleggen zoals het hoort
+**Datum:** 18/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋,
+Vorige week kon je al Deel I [  ] lezen van ons interview met Kris Heyndrikx.
+Kris is de beste groeibelegger die ik ken.
+Hij ging zelfs een weddenschap met me aan dat Nvidia ondergewaardeerd was… drie jaar geleden.
+Iedereen was er van overtuigd dat Nvidia erg overgewaardeerd was. Behalve Kris…
+Sindsdien is Nvidia nog eens +400% gestegen.
+Laten we meteen in Deel II van dit interview duiken.
+Kris heeft net zijn nieuwe top 5 aandelen bekend gemaakt.
+Benieuwd?
+Wat zijn de belangrijkste cijfers of ratio’s voor groeibeleggers?
+Kris: Het is eigenlijk heel simpel: omzetgroei. Kijk naar de langetermijnstatistieken en je ziet dat omzetgroei veruit de belangrijkste motor is achter aandelenrendementen op lange termijn. 
+Op korte termijn (bv. één jaar) speelt waardering de grootste rol. Maar over tien jaar? Waardering verklaart maar zo’n 5% van het totale rendement.  
+Groei alleen is natuurlijk niet genoeg. Je kan heel snel groeien als je €1 verkoopt voor €0,90, dus moet de winstgevendheid wel de juiste kant op gaan. Dat betekent niet dat ik verlieslatende bedrijven automatisch vermijd, want er bestaan duidelijke tests om te zien of een onrendabel bedrijf toch kwalitatief sterk is. 
+Mijn favoriet is de regel van 40 uit de wereld van durfkapitaal: de omzetgroei plus free‑cashflowmarge moet boven de 40 liggen. Stel dat een bedrijf 60% groeit en een FCF‑marge van –10% heeft. Dat is een regel van 50 en dat is bijzonder sterk. Zo’n bedrijf zou ik zeker interessant vinden, zelfs als het nog geld verliest.
+Wat zou een reden zijn om een positie te verkopen?
+Kris: De belangrijkste reden om te verkopen is simpel: het bedrijf voert niet uit zoals ik wil dat het uitvoert. Dat betekent niet dat ik bij elke fout verkoop, want elk bedrijf maakt fouten en je moet een beetje tolerant zijn. Maar blind tolerant zijn is gewoon hopen en hoop is geen strategie, zoals we allen weten.
+Daarom werk ik met mijn eigen verkoopregels, die heel bedrijfsspecifiek zijn. Vooraf bepaal ik wanneer ik zal afbouwen of verkopen. Natuurlijk volg ik die regels niet blind, want soms moet je ervan afwijken. Als een regel bijvoorbeeld minstens 15% omzetgroei vereist en het bedrijf groeit maar 8%, maar geeft aan dat het volgende kwartaal 25% zal groeien, dan zou verkopen dom zijn. 
+Naast de verkoopregels heb ik ook een kwaliteitsscore ontwikkeld. Elk kwartaal duik ik in de cijfers en beoordeel ik het bedrijf op 17 criteria, van managementkwaliteit en omzetgroei tot eigen metrics zoals sales efficiency. Als de kwaliteitsscore te laag wordt of de verkoopregels worden gebroken, overweeg ik te verkopen. Maar ik probeer bedrijven lang vast te houden en niet te vroeg te verkopen. Een multibagger te vroeg verkopen kost je vaak veel meer dan een verliezer te lang vasthouden.
+Wie is de belegger die je het meest bewondert?
+Kris: Potential Multibaggers is sterk beïnvloed door drie beleggers. 
+De grootste invloed is Phil Fisher, bekend van Common Stocks and Uncommon Pr
+
+*[Volledige tekst beschikbaar via Substack]*
