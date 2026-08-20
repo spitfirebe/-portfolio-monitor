@@ -129,6 +129,8 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 20/08/2026 | We kopen een nieuwe ETF | Slegers newsletter |
+| 19/08/2026 | De kracht van tijd | Slegers newsletter |
 | 18/08/2026 | 🎙️ Groeibeleggen zoals het hoort | Slegers newsletter |
 | 16/08/2026 | Koop de volgende Berkshire Hathaway | Slegers newsletter |
 | 13/08/2026 | 10 Aandelen om Nooit Verkopen | Slegers newsletter |
@@ -2994,5 +2996,93 @@ Naast de verkoopregels heb ik ook een kwaliteitsscore ontwikkeld. Elk kwartaal d
 Wie is de belegger die je het meest bewondert?
 Kris: Potential Multibaggers is sterk beïnvloed door drie beleggers. 
 De grootste invloed is Phil Fisher, bekend van Common Stocks and Uncommon Pr
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## De kracht van tijd
+**Datum:** 19/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+In beleggingskringen wordt weleens gekscherend gezegd: als Warren Buffett op zijn 65ste met pensioen was gegaan, had niemand ooit van hem gehoord.
+Dat is natuurlijk overdreven, maar er schuilt wel een belangrijke waarheid in die woorden. Betrouwbare schattingen geven aan dat Buffett ongeveer 95% van zijn miljardenvermogen pas na zijn 65ste heeft opgebouwd.
+Vandaag wordt het vermogen van Warren Buffett geschat op $135 miljard. Op zijn 65ste, 30 jaar geleden, was dat nog “maar” $7 miljard.
+Hoe kan dat? Werd hij na zijn 65ste plots een betere belegger? Nam hij vanaf dan slimmere beslissingen? Helemaal niet. De echte verklaring is veel eenvoudiger: Buffett kocht zijn eerste aandeel toen hij amper elf jaar oud was. Daardoor kreeg rente op rente meer dan zeventig jaar de tijd om haar werk te doen.
+En precies daarin schuilt het geheim. Denk nog eens terug aan de sneeuwbal: in het begin groeit hij heel langzaam, maar hoe langer hij blijft rollen, hoe groter hij wordt, en hoe groter hij wordt, hoe meer sneeuw eraan blijft kleven. De sneeuwbal groeit dus niet alleen omdat er sneeuw aan blijft kleven, maar ook omdat hij een lange afdaling krijgt.
+Met een lange afdaling kan zelfs een kleine sneeuwbal gigantisch worden. Omgekeerd zal een grote sneeuwbal niet veel groter worden als de afdaling kort is. Op de beurs werkt het precies hetzelfde:
+De sneeuwbal is je vermogen.
+De sneeuw die onderweg blijft kleven, is rente op rente.
+De afdaling is de tijd.
+Hoe langer je geld de tijd krijgt om te groeien, hoe krachtiger rente op rente wordt. Tijd en rente op rente vormen samen een gouden duo. Vergelijk rente op rente met een motor: tijd is de brandstof. Zonder brandstof komt zelfs de beste motor niet vooruit. Hoe langer de motor blijft draaien, hoe verder je raakt.
+Daarom is tijd misschien wel het waardevolste bezit van een belegger.
+Een voorbeeld maakt dit duidelijker.
+We kloppen aan bij Nathalie en Peter, het koppel van 50 jaar. Ze beleggen een startbedrag van €100.000. Hun huis is afbetaald en de kinderen zijn het huis uit, dus storten ze elke maand nog eens €1.000 bij op hun beursrekening.
+Maak kennis met Jonas en Tim. Ze zijn allebei 35 jaar en hebben net een huis gekocht. Ze beschikken over €10.000 startkapitaal en investeren maandelijks €500 extra.
+Tot slot is er Chadi. Chadi is 21 jaar en net afgestudeerd. Sinds zijn zestiende werkte hij tijdens de vakanties en slaagde hij erin om €1.000 te sparen. Dat bedrag belegt hij nu, met daarnaast €200 per maand. Met zijn startersloon vraagt dat vandaag een inspanning, maar hij weet dat zijn loon zal stijgen, terwijl die €200 hetzelfde blijft.
+Alle drie hebben exact hetzelfde doel: een extra vermogen opbouwen tegen hun pensioen op 67-jarige leeftijd.
+De vraag is: wie zal op zijn 67ste het grootste vermogen hebben?
+Peter en Nathalie, met hun ruime startkapitaal van €100.000 en een flinke maandelijkse inleg van €1.000?
+Aantal jaren tot hun pensioen: 17 jaar
+Totale inleg: €304
+
+*[Volledige tekst beschikbaar via Substack]*
+
+
+---
+
+## We kopen een nieuwe ETF
+**Datum:** 20/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+De aanbeveling van Warren Buffett?
+De meeste beleggers kopen best gewoon de S&P 500.
+Maar niet elk bedrijf in de S&P 500 is een goede beleggen.
+Laten we bekijken hoe je de goede van de slechte bedrijven kan onderscheiden.
+Slechts een paar aandelen tellen
+De S&P 500 leverde in het verleden ongeveer 10% per jaar op:
+Weet je wat interessant is?
+Hendrick Bessembinder onderzocht bijna 100 jaar aan aandelenrendementen.
+Dit is wat hij ontdekte:
+Het gemiddelde cumulatief rendement was +22.840%.
+Het mediane cumulatief rendement was –7,41%.
+Hoe kan dat?
+Omdat een heel klein aantal aandelen het grootste deel van alle beurswinsten oplevert:
+Een standaardindex die op marktkapitalisatie weegt, zoals de S&P 500, betekent dat je alles koopt.
+Je krijgt de sterk winstgevende compounders, maar je koopt óók de bedrijven die waarde vernietigen.
+Als kwaliteitsbeleggers willen we alleen het allerbeste.
+Wat is kwaliteit?
+Verschillende beleggers definiëren kwaliteit op een andere manier.
+Maar er zijn een paar algemene ideeën die bijna iedereen deelt.
+Hoge herinvestering
+Op de lange termijn volgt een aandeel altijd het bedrijf.
+Niet het sentiment. Niet de macro. Niet de nieuwscyclus.
+Uiteindelijk beweegt een aandeel altijd mee met de fundamenten van het bedrijf.
+Daarom wil je bedrijven kopen die hun eigen kapitaal tegen hoge rendementen kunnen herinvesteren.
+Dit is wat Charlie Munger hierover zegt:
+“Op de lange termijn kan een aandeel nauwelijks beter presteren dan het bedrijf zelf. Haalt een bedrijf 6% rendement op kapitaal en hou jij het aandeel 40 jaar vast, dan eindig je ook rond die 6%, zelfs als je het ooit spotgoedkoop kocht.
+Maar als een bedrijf 18% rendement op kapitaal haalt, 20 tot 30 jaar lang, dan behaal je uiteindelijk een uitstekend resultaat… zelfs wanneer de aankoopprijs duur lijkt.”
+Zoals je in deze grafiek ziet, leveren de bedrijven met de hoogste Return on Equity (ROE) ook de hoogste rendementen op:
+Weinig schulden
+Je wil bedrijven lang in je portefeuille houden.
+Laat compounding het zware werk doen.
+Daarom wil je investeren in bedrijven die heel lang kunnen overleven.
+En één ding dat een bedrijf sneller kan beschadigen dan bijna alles?
+Te veel schulden.
+Laten we opnieuw luisteren naar de wijsheid van Charlie Munger:
+“Er zijn maar drie manieren waarop een slim persoon blut kan gaan: vrouwen, drank en schulden.”
+Wanneer tijden goed zijn, knabbelt de schulden aan je winst, omdat je veel rente moet betalen.
+Maar tijdens een recessie, wanneer rentes stijgen of krediet strakker wordt, kan te veel schuld een bedrijf zelfs kapotmaken (en daarmee ook de aandeelhouders).
+Zoals je in deze grafiek ziet: weinig schuld verhoogt je rendement niet. Maar te veel schuld kan het wel hard onderuit halen.
+Echte winst
+Boekhoudregels laten ruimte voor oordeel, aanpassingen en aannames.
+Soms gebruiken managementteams dat om een worstelend bedrijf veel winstgevender te laten lijken dan het is.
+Maar één ding kun je niet faken: cash op de bank.
+On
 
 *[Volledige tekst beschikbaar via Substack]*
