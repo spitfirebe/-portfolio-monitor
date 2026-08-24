@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 23/08/2026 | 🛒 Ons boodschappenlijstje: Augustus 2026 | Slegers newsletter |
 | 20/08/2026 | We kopen een nieuwe ETF | Slegers newsletter |
 | 19/08/2026 | De kracht van tijd | Slegers newsletter |
 | 18/08/2026 | 🎙️ Groeibeleggen zoals het hoort | Slegers newsletter |
@@ -3084,5 +3085,60 @@ Boekhoudregels laten ruimte voor oordeel, aanpassingen en aannames.
 Soms gebruiken managementteams dat om een worstelend bedrijf veel winstgevender te laten lijken dan het is.
 Maar één ding kun je niet faken: cash op de bank.
 On
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 🛒 Ons boodschappenlijstje: Augustus 2026
+**Datum:** 23/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Het is tijd om ons boodschappenlijstje bij te werken.
+Met ons boodschappenlijstje ontdek je welke aandelen volgens ons het meest interessant zijn vandaag.
+Laten we er meteen induiken.
+Van technologie tot grondstoffen
+Chris Hohn is één van de beste beleggers ter wereld. 
+Zijn hedgefonds TCI verdiende vorig jaar bijna 20 miljard euro (!). 
+Hij belegt alleen in bedrijven die cruciale delen van de economie controleren (echte tolwegbedrijven). 
+Hier [  ] ontdek je alles wat je over hem moet weten.
+TCI heeft net zijn posities voor het tweede kwartaal geüpdatet.
+Sir Chris Hohn zette een opvallende stap:
+Hij verkocht zijn volledige positie in Microsoft.
+Hij bouwde grote posities op in Martin Marietta ($MLM) en Vulcan Materials ($VMC).
+Aan het einde van 2025 was Microsoft nog de derde grootste positie van TCI:
+Als je nog nooit van Martin Marietta of Vulcan Materials hebt gehoord, dan zou me dat helemaal niet verbazen. 
+Het zijn de twee grootste producenten van bouwmaterialen in de VS (denk aan grind en zand).
+Waarom verkoopt één van ’s werelds beste beleggers een gigantisch techbedrijf om stenen en grind te kopen?
+Het antwoord is verrassend eenvoudig: de moat.
+Hohn waarschuwde dat Artificiële Intelligentie producten als Office en Azure sneller kan verstoren dan de markt denkt.
+Maar gaat AI steen- en grindgroeves verstoren? Ik denk het niet.
+Hoe saaier, hoe beter?
+Heb je ooit One Up On Wall Street gelezen? 
+Peter Lynch legt daar perfect uit waarom grindgroeves zo’n sterke moat hebben:
+Rotsen, zand en grind zijn op zichzelf spotgoedkope grondstoffen.
+Ze verkopen soms voor maar een paar dollar per ton.
+De echte moat van een bouwmaterialenbedrijf zit in de locatie.
+Deze bedrijven werken eigenlijk als lokale tolpoorten.  
+En dat is precies het soort bedrijven waar Chris Hohn van houdt.
+Hier is nog een voorbeeld van hoe saaie bedrijven toch spannende rendementen kunnen opleveren.
+Weet je welk aandeel tussen 1925 en 2023 het hoogste rendement behaalde?
+Als je gokte op Martin Marietta of Vulcan Materials, moet ik je teleurstellen.
+Het was Altria, het bedrijf achter Marlboro‑sigaretten.
+Ze behaalden een gemiddeld rendement van meer dan 16% per jaar.
+Als je 98 jaar geleden Altria had gekocht, dan was €1 uitgegroeid tot maar liefst €2,7 miljoen. 
+En nummer 2? Vlak na Altria?
+Dat is Vulcan.
+Als je 98 jaar geleden Vulcan Materials had gekocht, dan was €1 uitgegroeid tot bijna €400.000. 
+Compounding is de sterkste kracht ter wereld. Maar het heeft tijd nodig.  
+Dat betekent dat de bedrijven waarin je investeert decennialang moeten kunnen overleven en groeien.
+Voor kwaliteitsbeleggers zoals wij is de moat daarom extreem belangrijk.
+Ons boodschappenlijstje: augustus 2026
+Ons boodschappenlijstje zit vol duurzame, kwalitatieve bedrijven.
+Terwijl Mr. Market afgeleid is door AI‑hype en momentumaandelen, noteren sommige van deze kwaliteitsbedrijven aan soldenprijzen.
+Laten we het lijstje overlopen en kijken welke kansen Mr. Market
 
 *[Volledige tekst beschikbaar via Substack]*
