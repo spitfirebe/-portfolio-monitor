@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 25/08/2026 | Ik stap er even uit | Slegers newsletter |
 | 23/08/2026 | 🛒 Ons boodschappenlijstje: Augustus 2026 | Slegers newsletter |
 | 20/08/2026 | We kopen een nieuwe ETF | Slegers newsletter |
 | 19/08/2026 | De kracht van tijd | Slegers newsletter |
@@ -3140,5 +3141,65 @@ Ons boodschappenlijstje: augustus 2026
 Ons boodschappenlijstje zit vol duurzame, kwalitatieve bedrijven.
 Terwijl Mr. Market afgeleid is door AI‑hype en momentumaandelen, noteren sommige van deze kwaliteitsbedrijven aan soldenprijzen.
 Laten we het lijstje overlopen en kijken welke kansen Mr. Market
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Ik stap er even uit
+**Datum:** 25/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Ik hoop dat het goed met je gaat.
+Onlangs deed ik iets wat ik in mijn hele volwassen leven nog nooit had gedaan.
+Ik nam twee (!) weken vakantie.
+Eerst bracht ik een paar dagen door met mijn vriendin in Nederland en België. Daarna gingen we een week naar Griekenland (Kreta).
+Naast veel plezier gaf deze reis me ook een paar sterke lessen over beleggen.
+Die deel ik vandaag graag met je.
+Deze donderdag om 20u00 geven we nog eens een gratis lezing.
+Wil je erbij zijn? Je zal heel wat exclusieve cadeautjes ontvangen.
+Schrijf je hier gratis in:
+Ons verblijf in Kreta
+In die twee weken werkte ik bijna niet (hooguit 2 uur per dag).
+We bezochten Heraklion, gingen naar Santorini en genoten van een paar heerlijk luie dagen aan het zwembad.
+Voor ik op vakantie vertrok, was ik een beetje bang:
+Wat zou er gebeuren met De Kwaliteitsbelegger? Zouden Partners boos worden omdat ik vakantie nam?
+Wat zou er gebeuren met onze portefeuille? Zeker omdat we midden in het resultatenseizoen zaten.
+Achteraf gezien had ik me nergens zorgen over moeten maken.
+Partners waren heel begripvol. Sommigen moedigden me zelfs aan om vakantie te nemen.
+Tijdens mijn vakantie deed de portefeuille het net bijzonder goed.
+Ik voel echt dat we vandaag heel goed gepositioneerd zijn met onze portefeuille.
+Je ziet vandaag een duidelijke trend:
+Wanneer AI en semiconductors het goed doen, presteert onze portefeuille meestal minder.
+Wanneer AI en semiconductors minder presteren, doet onze portefeuille het juist heel goed.
+Ik denk dat de markt AI en semiconductors op dit moment te hoog waardeert.
+Kijk maar naar deze grafiek:
+De voorbije weken begon onze portefeuille het opnieuw beter te doen dan de markt. 
+Ik denk dat deze trend zich de komende maanden zal doorzetten.
+Maar let op: wij doen helemaal geen poging om de markt te timen.
+Marktsentiment? Daar hecht ik weinig belang aan.
+Waarom niet? Omdat aandelenkoersen uiteindelijk altijd de evolutie van de intrinsieke waarde volgen.
+Waar jij wel naar moet kijken?
+De Free Cash Flow die jouw portefeuille voor jou genereert.
+Zo ziet die evolutie er voor ons uit:
+Zoals je ziet, genereren onze bedrijven steeds meer Free Cash Flow voor ons.
+Mijn persoonlijke doel? €1 aan Free Cash Flow per minuut met onze portefeuille genereren.
+Waarom?
+Je moet een manier vinden om geld te verdienen terwijl je slaapt.
+Want als je dat niet doet, werk je tot je sterft.
+Als we €1 per minuut kunnen genereren, dan betekent dat het volgende:
+€1 per minuut
+€60 per uur
+€1.440 per dag
+€43.200 per maand
+€518.400 per jaar
+Als de bedrijven die je bezit €43.200 aan Free Cash Flow per maand genereren, dan mag je écht wel zeggen dat je financieel onafhankelijk bent.
+Financiële onafhankelijkheid betekent: kunnen doen wat je wil, wanneer je wil, met wie je wil.
+Het zal even duren om dat doel te bereiken, maar uiteindelijk komen we er wel.
+Persoonlijk deel ik de echte euro‑bedragen die ik in de portefeuille beleg niet.
+Maar ik gebruik exact dezelfde 
 
 *[Volledige tekst beschikbaar via Substack]*
