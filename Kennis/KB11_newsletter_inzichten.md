@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 26/08/2026 | Jouw financieel plan: van kennis naar actie | Slegers newsletter |
 | 25/08/2026 | Ik stap er even uit | Slegers newsletter |
 | 23/08/2026 | 🛒 Ons boodschappenlijstje: Augustus 2026 | Slegers newsletter |
 | 20/08/2026 | We kopen een nieuwe ETF | Slegers newsletter |
@@ -3201,5 +3202,48 @@ Financiële onafhankelijkheid betekent: kunnen doen wat je wil, wanneer je wil, 
 Het zal even duren om dat doel te bereiken, maar uiteindelijk komen we er wel.
 Persoonlijk deel ik de echte euro‑bedragen die ik in de portefeuille beleg niet.
 Maar ik gebruik exact dezelfde 
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Jouw financieel plan: van kennis naar actie
+**Datum:** 26/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Deze donderdag geven we een lezing over beleggen. Wil je er bij zijn? Schrijf je dan hier gratis in en ontvang heel wat exclusieve cadeautjes. [  ]
+Dag belegger 👋
+Je weet al waarom beleggen belangrijk is, hoe rente op rente werkt en waarom tijd je grootste bondgenoot is. Nu is het tijd om die kennis om te zetten in een eenvoudig financieel plan.
+Maak het niet te ingewikkeld. Een goed financieel plan hoeft niet perfect te zijn. Het moet vooral concreet en haalbaar zijn. Een eenvoudig plan dat je jarenlang consequent volhoudt, levert meer op dan een ambitieus plan dat je na enkele maanden alweer moet bijstellen of opgeven.
+Stel jezelf eerst deze vragen:
+Wat wil jij met je beleggingen bereiken?
+Tegen wanneer wil je dat doel bereiken?
+Waarom is dat doel belangrijk voor jou?
+Nu kun je daar een concreet plan aan koppelen. Vraag jezelf af:
+Hoeveel spaargeld kan ik vandaag beleggen?
+Heb ik voldoende spaargeld achter de hand voor onverwachte uitgaven?
+Hoe vaak wil ik beleggen: maandelijks, per kwartaal of jaarlijks?
+Hoeveel kan ik elke maand, elk kwartaal of jaarlijks missen zonder dat het mijn levensstijl onder druk zet?
+Is mijn inleg realistisch om jarenlang vol te houden?
+Hoeveel jaren krijgt mijn geld om te groeien?
+Is mijn doel realistisch met het bedrag dat ik wil beleggen?
+Kan ik dit plan volhouden als de beurs tijdelijk 20% of 30% daalt? Hoe zou ik mij daarbij voelen? Ben ik daarop voorbereid?
+Welke afspraak maak ik vandaag met mezelf om dit plan jarenlang vol te houden?
+Als ik dit plan jarenlang volhoud, waarvoor zal mijn toekomstige ik mij dan bedanken?
+Nadat je deze vragen hebt beantwoord, kan je gebruikmaken van een rente-op-rentecalculator [  ].
+Vul je startbedrag, je maandelijkse inleg, het aantal jaren en het verwachte rendement in. Experimenteer gerust met verschillende scenario’s tot je een plan vindt dat bij jouw situatie past.
+Maar vergeet niet: je financiële plan hoeft niet spectaculair te zijn. Het moet vooral haalbaar zijn, zodat je het ook over tien of twintig jaar nog volgt.
+Dat betekent niet dat je je financieel plan één keer opstelt om daarna in de ladekast te leggen. Je plan is een kompas om op koers te blijven.
+Evalueer je plan één keer per jaar. Niet om voortdurend van strategie te veranderen of je blind te staren op het rendement, maar om na te gaan of je plan nog bij je leven past. Is je doel nog hetzelfde? Kun je nog hetzelfde bedrag beleggen? Of kun je door een hoger inkomen misschien wat meer opzijzetten?
+Pas je plan alleen aan wanneer jouw leven of je doel verandert, niet omdat de beurs tijdelijk stijgt of daalt.
+Met een duidelijk plan, voldoende geduld en de kracht van rente op rente leg je vandaag de belangrijkste basis voor een succesvolle belegger.
+Geldgeneratie
+Dit was een stukje uit onze gloednieuwe cursus.
+De cursus zal in september dit jaar uitrollen.
+Ik heb ook een vraagje voor jou? 
+Als we een nieuwe lezing geven binnenkort? Waarover zou je dan graag hebben dat we spreken?
+Donderd
 
 *[Volledige tekst beschikbaar via Substack]*
