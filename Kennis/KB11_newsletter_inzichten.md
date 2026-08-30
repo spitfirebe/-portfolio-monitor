@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 30/08/2026 | Best Buys: Augustus 2026 | Slegers newsletter |
 | 26/08/2026 | Jouw financieel plan: van kennis naar actie | Slegers newsletter |
 | 25/08/2026 | Ik stap er even uit | Slegers newsletter |
 | 23/08/2026 | 🛒 Ons boodschappenlijstje: Augustus 2026 | Slegers newsletter |
@@ -3245,5 +3246,63 @@ De cursus zal in september dit jaar uitrollen.
 Ik heb ook een vraagje voor jou? 
 Als we een nieuwe lezing geven binnenkort? Waarover zou je dan graag hebben dat we spreken?
 Donderd
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Best Buys: Augustus 2026
+**Datum:** 30/08/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Donderdag om 20u00 geven we een lezing over beleggen. Wil je er bij zijn? Schrijf je dan hier gratis in en ontvang heel wat exclusieve cadeautjes. [  ]
+Dag belegger 👋
+Het is tijd voor de Best Best Buys van deze maand.
+Dit zijn onze favoriete aandelen die vandaag nog niet in onze portefeuille zitten.
+Met andere woorden: deze aandelen maken op dit moment de grootste kans om gekocht te worden. 
+Afgelopen maand
+Afgelopen maand steeg de S&P 500 met +3,6%.
+Beleggers zijn vandaag ‘Neutraal’ volgens de Fear & Greed Index [  ]:
+Beste en slechtste presteerders
+Dit overzicht toont de beste en slechtste presteerders binnen ons boodschappenlijstje.
+Slechtste presteerders
+Hoe goedkoper we geweldige bedrijven kunnen kopen, hoe beter.
+Hier zijn de slechtste presteerders van de voorbije maand:
+Beste presteerders
+Deze aandelen presteerden goed in de voorbije maand:
+❄️ In de Spotlight: Watsco ($WSO)
+Hoe verdient het bedrijf geld?
+Watsco is de grootste distributeur van airco en onderdelen in Noord‑Amerika.
+Het vormt de distributieschakel tussen grote producenten en meer dan 120.000 onafhankelijke aannemers en techniekers.
+Watsco is actief in drie segmenten.
+HVAC‑apparatuur: Centrale airco’s voor woningen, warmtepompen, verwarmingsketels en commerciële verwarmings‑ en koelsystemen.
+Andere HVAC‑producten: Alles wat een aannemer nodig heeft om een systeem te installeren, onderhouden of herstellen. Het gaat van vervangingsonderdelen (zoals motoren, coils en compressoren) tot thermostaten, luchtkanalen, koperen leidingen, koelmiddelen, isolatie, tape en gereedschap.
+Commerciële koeling: Wandelkoelers, diepvriezers, ijsmachines en koelsystemen voor supermarkten, vooral gebruikt door restaurants, kruideniers en de food‑ & drankenindustrie.
+De omzetverdeling ziet er als volgt uit:
+Wat is interessant?
+70%–80% van de verkoop gaat naar noodvervangingen en herstellingen.  
+Dat maakt deze omzet min of meer recurrent.
+Wanneer iets stukgaat, telt voor aannemers vooral hoe snel en makkelijk ze de onderdelen kunnen krijgen, niet wat ze kosten.
+Eén van Watsco’s grootste troeven? Hun digitale platforms.
+Ze ondersteunen aannemers om:
+De juiste onderdelen te vinden en te bestellen.
+Offertes te maken voor klanten.
+Meer jobs af te ronden.
+Dit helpt aannemers hun winst te verhogen.
+Vandaag komt een derde van hun totale omzet uit e‑commerce:
+Meer ruimte om te groeien
+Naast zijn e‑commerceplatformen heeft Watsco nog verschillende andere troeven.
+Watsco is een grote serial acquirer in een sterk gefragmenteerde sector:
+Watsco verkoopt ongeveer 1 op 5 residentiële systemen.
+In Noord‑Amerika zijn er meer dan 2.000 regionale distributeurs.
+Watsco is nog niet eens actief in alle 50 staten.
+Het management ziet Watsco als een bedrijf dat nog volop wordt opgebouwd.
+Ik denk dat ze gelijk hebben.
+Fundamentals
+De fundamentals van Watsco zien er heel sterk uit.
+✅ Asset-Light: Watsco heeft bijna geen kapitaal nodig om te draaien.
+✅ Sterke balans: Watsco heeft heel weinig sch
 
 *[Volledige tekst beschikbaar via Substack]*
