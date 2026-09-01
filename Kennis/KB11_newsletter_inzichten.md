@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 01/09/2026 | Naar een hoger niveau | Slegers newsletter |
 | 30/08/2026 | Best Buys: Augustus 2026 | Slegers newsletter |
 | 26/08/2026 | Jouw financieel plan: van kennis naar actie | Slegers newsletter |
 | 25/08/2026 | Ik stap er even uit | Slegers newsletter |
@@ -3304,5 +3305,76 @@ Fundamentals
 De fundamentals van Watsco zien er heel sterk uit.
 ✅ Asset-Light: Watsco heeft bijna geen kapitaal nodig om te draaien.
 ✅ Sterke balans: Watsco heeft heel weinig sch
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Naar een hoger niveau
+**Datum:** 01/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Ik hoop dat alles goed gaat met je.
+Deze week kijken we kritisch naar onze portefeuille.
+Wat loopt goed?
+Wat loopt minder goed?
+Moeten we iets aanpassen?
+Het doel? Een portefeuille waar je trots op kunt zijn.
+Misschien moeten we daarvoor een paar gerichte aanpassingen doen.
+Dit wordt een open en eerlijk artikel.
+Het helpt je precies te begrijpen wat je mag verwachten van De Kwaliteitsbelegger.
+Onze portefeuille
+We beleggen momenteel in 21 bedrijven.
+Er zijn drie verschillende mandjes:
+Owner‑Operators (65,7% van de portefeuille):
+Wat? Bedrijven die nog steeds geleid worden door hun oprichter of hun familie.
+Waarom? Founder‑led bedrijven presteren gemiddeld 3,9% per jaar beter.
+Monopolies & oligopolies (27,8%):
+Wat? Slechts één of een paar bedrijven domineren de hele sector.
+Waarom? De beste compounders ter wereld zijn monopolies en oligopolies.
+Kannibaalaandelen (6,5%): 
+Wat? Kwaliteitsaandelen die massaal eigen aandelen inkopen.
+Waarom? Goedkope kannibaalaandelen kunnen heel veel waarde creëren voor aandeelhouders.
+Ons doel is om de S&P 500 op lange termijn met 3% per jaar te verslaan.
+Ik geloof dat we dit kunnen bereiken:
+We beleggen in betere bedrijven dan de index.
+Onze bedrijven zijn goedkoper dan de index.
+Kwaliteitsbeleggen is een strategie die in het verleden heeft bewezen te werken. En dat zal in de toekomst niet anders zijn.
+Zoals Mark Twain zei:
+“History doesn’t repeat itself. But it often rhymes.” - Mark Twain
+Free Cash Flow
+Ons doel?  
+Onze portefeuille moet elk jaar meer en meer Free Cash Flow voor ons genereren.
+Het einddoel? €1 aan Free Cash Flow per minuut.
+Dat zijn echte passieve inkomsten!
+Hier zie je hoe de evolutie er de afgelopen jaren uitziet:
+Ik ben heel blij met deze trend.
+Onder de aanname dat we elke maand bijkopen voor €50.000 en dat de intrinsieke waarde van onze bedrijven met 12% per jaar groeit…
+… Dan ziet de toekomstige evolutie er zo uit:
+Dit betekent dat we ons doel, €1 aan Free Cash Flow per minuut, in 2032 zouden bereiken.
+In onze vorige portefeuille-update (juli 2026) vertelden we dat onze portefeuille €96.156 aan Free Cash Flow voor ons genereerde.
+Vandaag genereert onze portefeuille €106.000 aan Free Cash Flow.
+De trend is duidelijk: opwaarts.
+(Elke maand blijven bijkopen in onze portefeuille helpt natuurlijk)
+Dit is wat onze portefeuille vandaag voor ons oplevert:
+Per jaar: €106.119
+Per maand: €8.843
+Per week: €2.035
+Per dag: €290,70
+Per uur: €12,10
+Per minuut: €0,20
+De fundamentals
+Als we naar de portefeuille fundamentals kijken, krijgen we het volgende beeld:
+Zoals je ziet, verkeert onze portefeuille in een bijzonder gezonde staat.
+Owner’s Earnings
+Trouwe lezers hebben waarschijnlijk al gelezen over de term ‘Owner’s Earnings’.
+Owner’s Earnings = EPS‑groei + dividendrendement
+Waarom is dit zo belangrijk?
+Het geeft de evolutie van de intrinsieke waarde weer.
+Het is eigenlijk heel eenvoudig om je toekomstige jaarlijkse rendement te berekenen.
+Je rendement = EPS‑gro
 
 *[Volledige tekst beschikbaar via Substack]*
