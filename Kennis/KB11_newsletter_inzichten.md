@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 02/09/2026 | Is dit de volgende Berkshire? | Slegers newsletter |
 | 01/09/2026 | Naar een hoger niveau | Slegers newsletter |
 | 30/08/2026 | Best Buys: Augustus 2026 | Slegers newsletter |
 | 26/08/2026 | Jouw financieel plan: van kennis naar actie | Slegers newsletter |
@@ -3378,3 +3379,57 @@ Het is eigenlijk heel eenvoudig om je toekomstige jaarlijkse rendement te bereke
 Je rendement = EPS‑gro
 
 *[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Is dit de volgende Berkshire?
+**Datum:** 02/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋,
+Dit jaar ontmoette ik Lauren Templeton in Omaha.
+Ze is de achternicht van Sir John Templeton.
+Tussen 1954 en 1990 toverde John Templeton €10.000 om in meer dan €2 miljoen (!).
+Lauren heeft ook een goede band met Warren Buffett.
+Dat betekent…
+Ze ziet meestal dingen die de meeste beleggers missen.
+Toen ik in Omaha met haar sprak, vertelde ze me over ‘De Volgende Berkshire Hathaway’.
+Nu beweren veel bedrijven dat ze de nieuwe Berkshire zijn.
+Maar dit is het enige bedrijf dat het consistent beter heeft gedaan dan Warren Buffett.
+Het huidige gemiddelde rendement over 5 jaar? 34,2% per jaar.
+Dat is ongeveer 3x zoveel als Berkshire.
+En 7x meer dan wat je kreeg van de S&P 500‑index.
+Het doel van het bedrijf?  
+Minstens elke 5 jaar verdubbelen.
+Dit is wat €5.000 je oplevert in dat scenario:
+€10.000 (na 5 jaar)
+€20.000 (na 10 jaar)
+€80.000 (na 20 jaar)
+€320.000 (na 30 jaar)
+€1,28 miljoen (na 40 jaar)
+Dit bedrijf kopen voelt alsof je je geld aan Warren Buffett geeft….
+Maar dan 40 jaar geleden.
+Beleggers die Berkshire in 1985 kochten, zijn vandaag stinkend rijk.
+Maar Berkshire is te groot geworden om die rendementen te herhalen.
+Daarom is het slimmer om te kijken naar de volgende Berkshire.
+Het heeft een vergelijkbaar businessmodel als het bedrijf van Warren Buffett.
+Maar het is nog 30x kleiner (precies waar Berkshire 30 jaar geleden stond).
+Dat geeft het een enorme runway om vermogen te laten groeien.
+En aan slechts 8x de winst is het één van de beste koopjes in deze markt.
+En vandaag zou weleens exact het goede moment kunnen zijn.
+Waarom? De markt is aan het shiften.
+De verzekeringsmarkt wordt interessanter en hier zal dit bedrijf optimaal van profiteren.
+Ben je geïnteresseerd, dan kan je nu meer ontdekken.
+Als je De Kwaliteitsbelegger risicoloos uittest met onze niet-tevreden-geld-teruggarantie van 90 dagen ontvang je meteen het rapport.
+Dat kan je hier doen: 
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Test hier De Kwaliteitsbelegger 90 dagen risicoloos uit.  [  ]Niet tevreden? Je ontvangt je abonnementsgeld volledig terug.
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
+Fiscal.ai [  ]: Financiële data
+Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
