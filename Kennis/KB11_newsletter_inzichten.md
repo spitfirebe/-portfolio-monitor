@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 03/09/2026 | Een inkijk in onze portefeuille | Slegers newsletter |
 | 02/09/2026 | Is dit de volgende Berkshire? | Slegers newsletter |
 | 01/09/2026 | Naar een hoger niveau | Slegers newsletter |
 | 30/08/2026 | Best Buys: Augustus 2026 | Slegers newsletter |
@@ -3433,3 +3434,55 @@ Fiscal.ai [  ]: Financiële data
 Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Een inkijk in onze portefeuille
+**Datum:** 03/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Partners van De Kwaliteitsbelegger ontvangen vandaag een update over elk aandeel in onze portefeuille. Ik geef er vanavond om 20u00 een gratis lezing over. Je kan je hier inschrijven.  [  ]
+Dag Partner 👋
+Afgelopen dinsdag doken we al even de portefeuille. 
+Je leerde dit:
+De verwachte return voor onze portefeuille ligt op 17-18% per jaar, afhankelijk van je assumpties
+We gaan enkele wijzigingen in onze portefeuille doen.
+Laten we er vandaag even wat dieper induiken.
+Nieuwe kandidaten
+Investeren is een prachtig intellectueel spel.  
+Je blijft altijd bijleren.
+Wij zoeken ook voortdurend naar nieuwe aandelenideeën.
+En die kunnen we mooi structureren in een paar duidelijke thema’s:
+Ultraluxe bedrijven
+Financiële bedrijven
+Spoorwegbedrijven
+Luchtvaart & Defensie
+1. Ultraluxe bedrijven
+We nemen Hermès ($HMS) momenteel grondig onder de loep.  
+Dit Franse bedrijf is een ultraluxebedrijf. Het enige minpunt blijft de hoge waardering (FWD PE 32,6x).
+We zullen Hermès nauw opvolgen en serieus overwegen om de switch te maken van LVMH naar Hermès.
+Financiële bedrijven
+We kijken momenteel naar twee financiële kwaliteitsbedrijven: Mastercard ($MA) en Moody’s ($MCO). 
+Beide kun je zien als echte tolwegbedrijven. Ze domineren hun niche:
+Mastercard beheerst samen met Visa het wereldwijde betalingsnetwerk
+Moody’s, samen met S&P Global en Fitch, domineert de creditratingmarkt. 
+Belangrijk hierbij is dat we Visa en S&P Global al in onze portefeuille hebben. 
+Daardoor is Mastercard, van de twee opties, het meest logische bedrijf om eventueel toe te voegen. 
+Ook Bill Ackman kocht recent Mastercard. Hier is wat hij over het bedrijf zei:
+“Visa en Mastercard behoren tot de allerbeste bedrijven ter wereld. Beide zijn kapitaal‑lichte toll‑takers: ze verdienen een minieme vergoeding op elke transactie, zonder zelf materieel risico te dragen, en profiteren automatisch van hogere inflatie, omdat hun inkomsten meestijgen met de nominale transactiewaarden. Hun netwerken, opgebouwd over decennia, verbinden miljarden consumenten met honderden miljoenen handelaars en duizenden financiële instellingen. Elke nieuwe gebruiker en elke extra transactie versterkt die netwerken verder en verdiept hun datavoordeel.”
+Hoe kijk je naar het verschil tussen Visa en Mastercard?
+Visa is het goedkopere, meer gevestigde bedrijf met een lager groeitempo.
+Mastercard is het jongere groeibedrijf met meer toekomstig groeipotentieel.
+Spoorwegbedrijven
+Spoorwegen zijn ook een heel interessante sector. 
+Het zijn de ultieme tolwegbedrijven.
+De infrastructuur ervan is heel moeilijk (bijna onmogelijk) te vervangen. 
+Je kan het zien als onvervangbare, gereguleerde infrastructuur. 
+Bestaande spelers hebben daardoor een duidelijke prijszettingsmacht binnen een vast kader. 
+In de VS heb je een bedrijf als Union Pacific ($UNP). 
+In Canada heb je Canadian National Railway ($CNI) en Canadian Pacific Kansas City ($CP). 
+Een spoorwegbedrijf toevoegen aan onze portefeuille zou best interessa
+
+*[Volledige tekst beschikbaar via Substack]*
