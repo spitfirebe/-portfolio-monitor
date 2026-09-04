@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 04/09/2026 | Een kleine Warren Buffett | Slegers newsletter |
 | 03/09/2026 | Een inkijk in onze portefeuille | Slegers newsletter |
 | 02/09/2026 | Is dit de volgende Berkshire? | Slegers newsletter |
 | 01/09/2026 | Naar een hoger niveau | Slegers newsletter |
@@ -3486,3 +3487,47 @@ In Canada heb je Canadian National Railway ($CNI) en Canadian Pacific Kansas Cit
 Een spoorwegbedrijf toevoegen aan onze portefeuille zou best interessa
 
 *[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Een kleine Warren Buffett
+**Datum:** 04/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Wat als je had belegd met Warren Buffett net voor zijn beste jaren?
+Net vóór hij elke €5.000 omtoverde in €8 miljoen?
+Wel… We hebben de volgende Berkshire Hathaway gevonden.
+Stel je eens voor dat je op deze golf kan meeliften:
+Als belegger mag je gerust weten dat het bedrijf dat we nu kopen:
+✅ Miljarden euro’s aan kapitaal heeft om te investeren en dat kapitaal jaar na jaar met 20%+ laat groeien.
+✅ De afgelopen tien jaar 99% van alle Amerikaanse aandelen heeft verslagen.
+✅ Volgens het management zwaar ondergewaardeerd is.
+✅ Agressief eigen aandelen terugkoopt.
+✅ Waar insiders zelf ook bijkopen.
+✅ In elke marktcyclus winstgevend is gebleven.
+✅ Het bedrijf kopieert Warren Buffett
+✅ Massaal meeprofiteert van de groeiende markt in India
+Hier is hoe dit aandeel het de afgelopen 5 jaar deed: 
+Het aandeel dat we kopen (paarse lijn): +363,7%
+Warren Buffett (oranje lijn): +74,9%
+Ik verwacht dat deze trend zich voortzet.
+Zoals een wijze belegger ooit zei: Tweede kansen zijn zeldzaam op de beurs.
+Maar precies dat is wat je hier ziet.
+Ik ga een diepgaande analyse publiceren van het groeiverhaal achter deze onderneming.
+Het is een verhaal van 1.600x groei.
+Daarin ontdek je waarom dit aandeel net vandaag zo interessant is.
+Je ontdekt ook welk rendement je mag verwachten van dit aandeel.
+Vandaag krijg jij de kans om hier meer over te leren.
+Hoe?
+Klik hier voor alle details. [  ]
+Beleggen in de beste bedrijven ter wereld
+Pieter
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
+Fiscal.ai [  ]: Financiële data
+Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
