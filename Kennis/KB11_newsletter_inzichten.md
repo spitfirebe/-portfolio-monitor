@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 05/09/2026 | De rijkste, meest scherpzinnige belegger ooit | Slegers newsletter |
 | 04/09/2026 | Een kleine Warren Buffett | Slegers newsletter |
 | 03/09/2026 | Een inkijk in onze portefeuille | Slegers newsletter |
 | 02/09/2026 | Is dit de volgende Berkshire? | Slegers newsletter |
@@ -3525,6 +3526,61 @@ Hoe?
 Klik hier voor alle details. [  ]
 Beleggen in de beste bedrijven ter wereld
 Pieter
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
+Fiscal.ai [  ]: Financiële data
+Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## De rijkste, meest scherpzinnige belegger ooit
+**Datum:** 05/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Ik ga je vertellen over de beste belegger waar je nog nooit van hebt gehoord.
+Deze CEO heeft nog nooit op de cover van Time Magazine gestaan.
+Maar op zijn 35ste maakte hij de analisten van Wall Street compleet belachelijk. 
+Hij bouwde een verlieslatende vrachtverzekeraar om tot een miljardenbedrijf.
+En hij maakte vroege beleggers en medewerkers rijker dan ze ooit hadden durven dromen.
+Een voorbeeld? Zijn secretaresse.
+Ze kreeg ooit een bonus van 100 aandelen. Vandaag is ze multimiljonair.
+Vandaag doet deze CEO opnieuw exact hetzelfde: 
+Koop noodlijdende verzekeraars tegen spotprijzen.
+Verbeter de operationele activiteiten
+Bouw een enorme bron van ultragoedkoop geld op (float)
+Investeer die float in extreem winstgevende bedrijven.
+Zolang je maar weet…
+Float is het geld dat verzekeraars vooraf ontvangen van klanten,
+maar pas later hoeven uit te betalen.
+En wanneer je dat geld slim belegt?
+Dan zijn de rendementen verbluffend.
+Het is de geheime saus achter het succes van deze CEO.
+En het is precies dezelfde strategie waarmee Warren Buffett zijn imperium heeft opgebouwd.
+Over de afgelopen vijf jaar heeft zijn bedrijf een gemiddeld rendement van 34,2% per jaar opgeleverd.
+Dat is genoeg om je geld elke 2,5 jaar te verdubbelen.
+Het is een schoolvoorbeeld van een uitzonderlijk bedrijf met enorm groeipotentieel.
+€50 biljoen
+Dat is de omvang van de buitenlandse markt waarin dit bedrijf een enorme positie heeft.
+Het controleert één van de grootste luchthavens van India.
+Het bezit dominante verzekeringsnetwerken in Europa, het Midden-Oosten en de Verenigde Staten.
+En het blijft marktaandeel winnen in de snelst groeiende opkomende economieën ter wereld.
+Het lijkt op Berkshire Hathaway in de beginjaren.
+Maar dit bedrijf is vandaag nog 30 keer kleiner.
+Dat geeft hen de ruimte om jarenlang vermogen explosief te laten groeien.
+En aan slechts 8 keer de winst behoort het tot de meest buitengewone kansen op de beurs vandaag.
+Zelfs mensen uit de naaste kring van Warren Buffett kopen dit bedrijf.
+Wil je hier meer over ontdekken? 
+Neem een proefabonnement op De Kwaliteitsbelegger en krijg meteen toegang.
+Er is een niet-tevreden-geld-teruggarantie van 90 dagen en je ontvangt meteen het rapport.
+Je kan hier het nodige doen: 
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Test hier De Kwaliteitsbelegger 90 dagen risicoloos uit en ontdek welk bedrijf we nu kopen.  [  ]Niet tevreden? Je ontvangt je abonnementsgeld volledig terug.
 Gebruikte bronnen
 Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
 Fiscal.ai [  ]: Financiële data
