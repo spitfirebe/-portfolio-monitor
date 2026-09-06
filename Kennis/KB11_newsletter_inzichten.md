@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 06/09/2026 | Bouw je droomleven | Slegers newsletter |
 | 05/09/2026 | De rijkste, meest scherpzinnige belegger ooit | Slegers newsletter |
 | 04/09/2026 | Een kleine Warren Buffett | Slegers newsletter |
 | 03/09/2026 | Een inkijk in onze portefeuille | Slegers newsletter |
@@ -3578,6 +3579,56 @@ Wil je hier meer over ontdekken?
 Neem een proefabonnement op De Kwaliteitsbelegger en krijg meteen toegang.
 Er is een niet-tevreden-geld-teruggarantie van 90 dagen en je ontvangt meteen het rapport.
 Je kan hier het nodige doen: 
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Test hier De Kwaliteitsbelegger 90 dagen risicoloos uit en ontdek welk bedrijf we nu kopen.  [  ]Niet tevreden? Je ontvangt je abonnementsgeld volledig terug.
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
+Fiscal.ai [  ]: Financiële data
+Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Bouw je droomleven
+**Datum:** 06/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋,
+Dit is één van mijn favoriete lessen van Peter Lynch.
+Veel jaren geleden interviewde hij een groep gepensioneerden in Boca Raton.
+Dat is één van de meest luxueuze en rijkste seniorenwijken in heel Florida.
+Hij vroeg hen of ze de markt hadden verslagen tijdens hun hele beleggersleven.
+Sommigen zeiden JA.
+Sommigen zeiden NEE.
+Sommigen zeiden IK BEN NIET ZEKER.
+En de rijkste van allemaal? Een man van in de zeventig…?
+Hij zei het volgende:
+“Het enige wat ik weet, is dat mijn beleggingen genoeg hebben opgebracht om mij uiteindelijk in Boca te laten belanden.”
+Dat is eigenlijk best grappig.
+Met andere woorden: wat is nu écht het doel van beleggen?
+Het is niet bedoeld om elk jaar opnieuw de markt te verslaan.
+Het gaat erom genoeg rendement te behalen om het leven te kunnen leiden waar je altijd van hebt gedroomd.
+Ben je daar nog niet? Dan heb ik een suggestie voor je.
+Overweeg om te kijken naar een bedrijf dat vaak wordt gezien als de ‘volgende Berkshire Hathaway’.
+Het is al één van de grootste verzekeraars in Noord‑Amerika.
+Maar in tegenstelling tot Berkshire heeft het een enorme internationale voetafdruk.
+Het beheert één van de grootste luchthavens in India.
+Het bezit dominante verzekeringsnetwerken in het Midden‑Oosten en Europa.
+En het blijft marktaandeel winnen in ’s werelds snelst groeiende opkomende markten.
+In de afgelopen vijf jaar leverde het een gemiddeld jaarlijks rendement van 34% op.
+Het bedrijf presteerde daarmee ruimschoots beter dan de S&P 500.
+De S&P 500 lijkt bijna vlak in vergelijking met dit bedrijf:
+Een belegging van €10.000 bij de beursgang zou zijn uitgegroeid tot meer dan een miljoen.
+Dit is een ongelooflijk rendement, maar weet je wat het mooiste is?
+Het is nog maar het begin.
+Wil je hier meer over ontdekken? 
+Neem een proefabonnement op De Kwaliteitsbelegger en krijg meteen toegang.
+Er is een niet-tevreden-geld-teruggarantie van 90 dagen en je ontvangt meteen het rapport.
+Je kan hier het nodige doen:
 Beleggen in de beste bedrijven ter wereld
 Pieter
 PS Test hier De Kwaliteitsbelegger 90 dagen risicoloos uit en ontdek welk bedrijf we nu kopen.  [  ]Niet tevreden? Je ontvangt je abonnementsgeld volledig terug.
