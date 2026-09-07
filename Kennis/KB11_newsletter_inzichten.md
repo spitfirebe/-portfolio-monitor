@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 07/09/2026 | Het verschil van €1 miljoen | Slegers newsletter |
 | 06/09/2026 | Bouw je droomleven | Slegers newsletter |
 | 05/09/2026 | De rijkste, meest scherpzinnige belegger ooit | Slegers newsletter |
 | 04/09/2026 | Een kleine Warren Buffett | Slegers newsletter |
@@ -3632,6 +3633,52 @@ Je kan hier het nodige doen:
 Beleggen in de beste bedrijven ter wereld
 Pieter
 PS Test hier De Kwaliteitsbelegger 90 dagen risicoloos uit en ontdek welk bedrijf we nu kopen.  [  ]Niet tevreden? Je ontvangt je abonnementsgeld volledig terug.
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
+Fiscal.ai [  ]: Financiële data
+Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Het verschil van €1 miljoen
+**Datum:** 07/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋,
+Begrijp me niet verkeerd.
+Je lokale markt domineren is altijd een goed begin.
+Het zorgt voor de eerste golf van levensveranderende rijkdom voor beleggers.
+Maar bezit je een bedrijf dat gigantische internationale inkomstenstromen ontgrendelt?
+Dan worden je rendementen wilder dan je grootste dromen.
+Neem Netflix.
+Hoeveel zou je vandaag hebben als je €1.000 had belegd, negen jaar geleden?
+Dan had je vandaag ongeveer €21.000.
+Een ongelooflijk rendement.
+Maar wat als je nog eerder was geweest?
+Wat als je Netflix had gekocht vóór het uitbreidde naar 190 landen?
+Dan was een belegging van €1.000 uitgegroeid tot meer dan €1 miljoen.
+Dat is een aanzienlijk verschil van €969.000.
+Het lijkt bijna op een typfout van je driejarige nichtje.
+Maar dat getal bevestigt iets wat je allang weet:
+Succesvolle wereldwijde expansie creëert meer vermogen voor beleggers.
+Het voelt als een tweede kans om grotere rendementen binnen te halen dan de eerste keer.
+Daarom ben ik zo enthousiast over het bedrijf dat we gaan bekijken.
+De afgelopen 5 jaar leverde het een jaarlijks rendement van 34% op.
+Genoeg om je geld elke 2,5 jaar te verdubbelen.
+Niet slecht.
+Maar het groeiverhaal van dit bedrijf staat nog maar aan het begin.
+Waarom?
+Het heeft een belangrijke positie in India. 
+Een internationale markt van €50 biljoen:
+Dit bedrijf voelt alsof je Berkshire Hathaway 30 jaar geleden zou hebben gekocht.
+Het heeft een gigantische groeimotor om het vermogen van aandeelhouders jarenlang verder te laten compounden.
+Wil je hier meer over ontdekken? Klik dan hier. [  ]
+Beleggen in de beste bedrijven ter wereld
+Pieter
 Gebruikte bronnen
 Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
 Fiscal.ai [  ]: Financiële data
