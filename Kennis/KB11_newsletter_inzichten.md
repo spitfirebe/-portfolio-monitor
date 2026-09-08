@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 08/09/2026 | Insiders zijn aan het kopen | Slegers newsletter |
 | 07/09/2026 | Het verschil van €1 miljoen | Slegers newsletter |
 | 06/09/2026 | Bouw je droomleven | Slegers newsletter |
 | 05/09/2026 | De rijkste, meest scherpzinnige belegger ooit | Slegers newsletter |
@@ -3679,6 +3680,52 @@ Het heeft een gigantische groeimotor om het vermogen van aandeelhouders jarenlan
 Wil je hier meer over ontdekken? Klik dan hier. [  ]
 Beleggen in de beste bedrijven ter wereld
 Pieter
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
+Fiscal.ai [  ]: Financiële data
+Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Insiders zijn aan het kopen
+**Datum:** 08/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Er bestaat geen gratis lunch op de beurs.
+Maar weet je wat?
+Er zijn wel een paar dingen waar je zeker van kan zijn:
+Founder‑led bedrijven presteren historisch gezien beter dan de markt
+Als insiders bijkopen is dit een heel goed signaal
+Kwaliteitsaandelen doen het op lange termijn beter
+Het grootste geheim van succes?
+De juiste informatie hebben en die slim in je voordeel gebruiken.
+En weet je wat?
+Ik wilde er zeker van zijn dat je dit nieuwe SEC‑document hebt gezien.
+Wat laat dit document zien?
+Insiders kopen massaal aandelen bij in het bedrijf dat we gaan kopen voor De Kwaliteitsbelegger.
+Ze hebben zelfs meer dan 1% van alle uitstaande aandelen teruggekocht in minder dan een maand (!).
+Sinds 1986 leverde dit aandeel een gemiddeld jaarlijks rendement van 18,7% op:
+Ik verwacht niet dat dit snel zal stoppen.
+Het doel van het management? De intrinsieke waarde elke 5 jaar verdubbelen.
+Maar daarbovenop vindt het management dat het bedrijf op dit moment veel te goedkoop is.
+Je kan dus profiteren van twee dingen:
+De intrinsieke waarde die elke 5 jaar verdubbelt.
+Een stijgende waardering, waardoor je rendement nóg sterker wordt.
+Precies daarom kopen insiders vandaag zo agressief bij.
+Het bedrijf heeft al 26% (!) van alle uitstaande aandelen teruggekocht.
+Zelfs de vrienden van Warren Buffett investeren zwaar in dit aandeel.
+Dat zijn dezelfde beleggers die geloofden in Buffett tijdens zijn absolute topjaren.
+Vlak voordat hij elke €5.000 omzette tot meer dan €8.000.000.
+Dus wat weten zij over ‘de volgende Berkshire’ dat jij nog niet weet?
+Wil je hier meer over ontdekken? Klik dan hier [  ].
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Ontdek hier meer informatie over het rapportje. [  ]
 Gebruikte bronnen
 Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
 Fiscal.ai [  ]: Financiële data
