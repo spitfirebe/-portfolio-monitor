@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 09/09/2026 | Gebouwd voor altijd | Slegers newsletter |
 | 08/09/2026 | Insiders zijn aan het kopen | Slegers newsletter |
 | 07/09/2026 | Het verschil van €1 miljoen | Slegers newsletter |
 | 06/09/2026 | Bouw je droomleven | Slegers newsletter |
@@ -3726,6 +3727,66 @@ Wil je hier meer over ontdekken? Klik dan hier [  ].
 Beleggen in de beste bedrijven ter wereld
 Pieter
 PS Ontdek hier meer informatie over het rapportje. [  ]
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
+Fiscal.ai [  ]: Financiële data
+Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Gebouwd voor altijd
+**Datum:** 09/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Iedereen kan af en toe geluk hebben.
+Maar 20% rendement per jaar, meer dan 40 jaar lang?  
+Dat is geen geluk.
+Dat is vakmanschap.
+Je komt daar alleen als je bedrijf beschikt over:
+✅ Een sterke moat
+✅ Hoge winstgevendheid
+✅ Lage kapitaalintensiteit
+✅ Uitstekende kapitaalallocatie
+✅ Hoge managementintegriteit
+✅ Aantrekkelijke groei
+✅ Een historische economische verschuiving
+De meeste CEO’s kunnen twee of drie van deze vakjes aanvinken.
+Maar bij de CEO van onze volgende ‘Buy’ krijg je ze alle zeven.
+Op zijn 35ste deed hij wat onmogelijk leek voor anderen.
+Hij bouwde een wankelende verzekeraar om tot een miljardenimperium.
+Hij maakte vroege investeerders en medewerkers rijker dan ze ooit hadden durven dromen.
+En vandaag?
+Zijn bedrijf ligt op koers om de beste compounding machine van onze tijd te worden.
+Kijk maar naar het trackrecord:
+Alle details vind je in mijn nieuwe rapport:
+📘 De volgende Berkshire Hathaway
+⚠️ Maar er is één addertje onder het gras:
+Dit rapport is enkel beschikbaar voor nieuwe leden van De Kwaliteitsbelegger die voor morgenavond instappen.
+Daarna gaat de deur dicht.
+Ga naar deze site om jouw toegang veilig te stellen [  ].
+Niet-tevreden-geld-terug-garantie
+Je krijgt 90 dagen de tijd om De Kwaliteitsbelegger uit te testen.
+Ben je niet helemaal tevreden, om welke reden dan ook? Laat het mij weten.
+Ik betaal je elke cent terug die je aan het abonnement uitgeeft. Zonder vragen te stellen.
+Al het onderzoek dat je ontvangt, mag je natuurlijk gewoon houden.
+Op dit moment sta je op een kruispunt.
+Loop je weg van wat The Next Berkshire Hathaway kan worden?
+Een bedrijf dat vanaf hier maal vijf kan gaan?
+Vergeet niet: er ligt een markt van $3,9 biljoen voor het grijpen.
+En deze Compounding Machine zit perfect gepositioneerd om een gigantisch stuk van die rijkdom door te sluizen naar de vroege beleggers.
+Of grijp je dit moment en zet je een beslissende stap op jouw weg naar blijvende rijkdom?
+De keuze is aan jou.
+Wil je vóór de rest van de markt zitten… voordat iedereen het doorheeft? 
+Word dan nu lid van De Kwalitetisbelegger en ontdek alle details.
+Ik kijk ernaar uit om je te verwelkomen als Partner!
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Test hier De Kwaliteitsbelegger risicoloos uit voor 90 dagen. [  ]
 Gebruikte bronnen
 Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
 Fiscal.ai [  ]: Financiële data
