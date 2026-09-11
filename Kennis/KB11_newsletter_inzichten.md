@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 10/09/2026 | ⏳Je gaat het missen... | Slegers newsletter |
 | 09/09/2026 | Gebouwd voor altijd | Slegers newsletter |
 | 08/09/2026 | Insiders zijn aan het kopen | Slegers newsletter |
 | 07/09/2026 | Het verschil van €1 miljoen | Slegers newsletter |
@@ -3791,5 +3792,49 @@ Gebruikte bronnen
 Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed.
 Fiscal.ai [  ]: Financiële data
 Volkswagen [  ]: Pieter als ambassadeur van Volkswagen
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## ⏳Je gaat het missen...
+**Datum:** 10/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Vorige week was ik in Dublin.
+Ik sprak er onder andere samen met het hoofd van een Amerikaanse universiteit en de CEO van een vermogensbeheerbedrijf.
+Ik pitchte er onder andere het aandeel dat we nu gaan kopen bij De Kwaliteitsbelegger.
+Dit aandeel heeft tot doel om elke 5 jaar te verdubbelen.
+Ik denk dat dit aandeel vandaag heel interessant kan zijn.
+Iedereen zou moeten beleggen. Het is de beste manier om een vermogen voor jou en je familie op te bouwen.
+Hier kan je de evolutie van mijn vermogen zien de afgelopen jaren:
+Je ziet ook dat het exponentieel groeit, dankzij de magie van Compounding.
+Dit is wat anderen zeggen over De Kwaliteitsbelegger:
+Maar nu even iets minder leuk...
+Je staat op het punt om een mooie kans te missen.
+De speciale actie waarbij je De Kwaliteitsbelegger risicoloos kon uitproberen, met €100 korting, verloopt om middernacht.
+En ja, daar zat een 90 dagen geld-terug-garantie bij.
+Maar goed...
+Dit is je allerlaatste kans.
+Je kan je plekje alsnog verzilveren voor middernacht.
+🚀 €100 korting
+💰 Een gratis jaarabonnement op Compounding Dividends
+🎁 150 euro transactietegoed bij Lynx
+🧠 90 dagen om alles uit te proberen
+Je krijgt meteen toegang tot mijn persoonlijke portefeuille en het aandeel dat ik nu ga kopen.
+En volledige toegang tot alles wat we opgebouwd hebben:
+📈 Mijn persoonlijke Portefeuille vol kwaliteitsbedrijven
+✍️ Drie artikels per week (dinsdag, donderdag en zondag)
+📚 Volledige toegang tot de hele bibliotheek van artikels
+🔎 Investment cases over interessante bedrijven
+🚀 Een exclusief rapport met álle bedrijfsanalyses tot nu toe
+Je hebt niets te verliezen, en veel te winnen.
+Claim de deal hier:
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Word Partner van De Kwaliteitsbelegger en krijg meteen toegang tot mijn persoonlijke portefeuille. [  ]
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
