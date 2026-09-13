@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 13/09/2026 | De ultieme aandelenscreener | Slegers newsletter |
 | 10/09/2026 | ⏳Je gaat het missen... | Slegers newsletter |
 | 09/09/2026 | Gebouwd voor altijd | Slegers newsletter |
 | 08/09/2026 | Insiders zijn aan het kopen | Slegers newsletter |
@@ -3838,3 +3839,76 @@ Pieter
 PS Word Partner van De Kwaliteitsbelegger en krijg meteen toegang tot mijn persoonlijke portefeuille. [  ]
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## De ultieme aandelenscreener
+**Datum:** 13/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+In de hele wereld zijn er meer dan 50.000 beursgenoteerde bedrijven.
+Dat geeft je twee problemen:
+Je kan ze nooit allemaal analyseren.
+Je wil alleen de allerbeste bedrijven bezitten.
+Laten we vandaag eens in de ultieme aandelenscreener duiken.
+Eentje die je kan gebruiken om zelf interessante aandelen te vinden.
+Een aandelenscreener?
+Je kan een aandelenscreener zien als een set filters.
+Je start met een grote lijst aandelen.
+Elke criteria is een filter dat een deel van de slechte bedrijven wegschrapt.
+Elke stap maakt de lijst met mogelijke beleggingen kleiner.
+Maar een paar bedrijven komen door alle filters heen.
+Safal Niveshak heeft dit prachtig gevisualiseerd:
+Laten we vandaag samen een aandelenscreener bouwen die je helpt om goede bedrijven te vinden.
+Jouw screeningscriteria
+Hier zijn de criteria die we gebruiken: 
+De resultaten
+Nu zetten we al deze criteria samen in één screener op Fiscal.ai [  ].
+De kracht van Fiscal?
+Je kan landen en sectoren uitsluiten.
+In ons voorbeeld hebben we China uitgesloten. 
+We hebben ook bepaalde sectoren uitgesloten, zoals banken.
+China ligt ver buiten onze circle of competence.
+En banken zijn een zeer gespecialiseerde sector die totaal andere maatstaven gebruiken dan de metrics die we hier bekijken.
+Uit meer dan 50.000 bedrijven vond deze screener minder dan 100 bedrijven die aan al onze criteria voldoen.
+Omzetgroei
+Hier zijn enkele bedrijven die aan alle criteria voldoen en een sterke omzetgroei laten zien:
+Nvidia: +69,1%
+DLocal: +52,4%
+Arista Networks: +32,0%
+EPS-groei
+Enkele bedrijven die aan alle criteria voldoen en hun EPS sterk doen groeien?
+Die zie je hier: 
+AppLovin: +98,3%
+PDD Holdings: +95,1%
+Exelixis: +61,2%
+Hoge ROIC
+Hier zijn enkele bedrijven uit de screener met een hoge ROIC:
+Rightmove: 363,5%
+Games Workshop: 84,9%
+Deckers Outdoors: 76%
+Download de resultaten van de screener
+Wil je alle bedrijven zien die door onze volledige kwaliteitsscreener zijn geraakt?
+Je vindt ze hier:
+Onze vijf favorieten
+Laten we nu enkele van de meest interessante bedrijven op deze lijst van dichterbij bekijken.
+5. ASML Holding ($ASML)
+Hoe verdient het bedrijf geld?
+ASML bouwt enorme, extreem complexe machines die computerchips printen.
+Ze hebben een monopolie. ASML is het enige bedrijf ter wereld dat de meest geavanceerde versie van deze machines kan bouwen
+Metrics:
+5-jarige omzetgroei (CAGR): +16,3%
+5-jarige Diluted EPS (CAGR): +19,1%
+Brutowinstmarge (gemiddelde 5 jaar): 51,7%
+ROIC (gemiddelde 3 jaar): 24,7%
+Elke moderne smartphone, elke AI‑server en elke computer draait op chips die gemaakt worden met de machines van ASML.
+Naarmate de vraag naar geavanceerde chips blijft stijgen, zullen de verkopen van ASML gewoon meestijgen.
+4. Fastenal (FAST)
+Hoe verdient het bedrijf geld?
+Fastenal verkoopt schroeven, gereedschap en veiligheidsmateriaal aan fabrieken. Ze plaatsen hun eigen automaten, gevuld met materialen, rechtstreeks in de gebouwen van andere bedrijven.
+Metrics:
+5-jarige omzetgroei (CAG
+
+*[Volledige tekst beschikbaar via Substack]*
