@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 15/09/2026 | Ik koop het hele bedrijf | Slegers newsletter |
 | 13/09/2026 | De ultieme aandelenscreener | Slegers newsletter |
 | 10/09/2026 | ⏳Je gaat het missen... | Slegers newsletter |
 | 09/09/2026 | Gebouwd voor altijd | Slegers newsletter |
@@ -3910,5 +3911,65 @@ Hoe verdient het bedrijf geld?
 Fastenal verkoopt schroeven, gereedschap en veiligheidsmateriaal aan fabrieken. Ze plaatsen hun eigen automaten, gevuld met materialen, rechtstreeks in de gebouwen van andere bedrijven.
 Metrics:
 5-jarige omzetgroei (CAG
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Ik koop het hele bedrijf
+**Datum:** 15/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Benieuwd hoe je succesvol kan beleggen in ETF’s?
+Volgende week dinsdag geven we een gratis lezing hangmatbeleggen.
+Je kan je hier gratis inschrijven: Schrijf je in [  ].
+Dag belegger 👋
+De meesten weten dat ik een fervente lezer ben.
+Sinds ik terug ben van de Berkshire‑vergadering in mei zit ik in een enorme leesflow.
+Waarom? Tijdens dat hele Berkshire‑weekend dacht ik maar aan één ding:
+Wat als je zelf een meerderheidsbelang zou kopen in een (klein) beursgenoteerd bedrijf, net zoals Warren Buffett deed met Berkshire? En van daaruit compounding zijn werk laat doen?
+Ik krijg die gedachte niet meer uit mijn hoofd.
+En hoewel we allemaal weten dat Warren Buffett dit deed, viel voor mij dit keer alles op zijn plaats.
+Daarom ging ik diep. Héél diep.
+Ik begon opnieuw met het lezen van het volgende:
+Het boek van Adam Mead ‘The Complete Financial History of Berkshire Hathaway: A Chronological Analysis of Warren Buffett and Charlie Munger’s Conglomerate Masterpiece’ (1.337 pagina’s).
+Alle aandeelhoudersbrieven van Warren Buffett, inclusief de publieke transcripties (5.012 pagina’s).
+Alle Fairfax-aandeelhoudersbrieven van Prem Watsa (772 pagina’s).
+Dat zijn 7.121 pagina’s in totaal.
+Gelukkig hoef jij dat niet te doen, want ik heb het al voor jou gedaan.
+In dit artikel deel ik de belangrijkste conclusies.
+Lezing hangmatbeleggen
+Ben jij klaar voor de lezing van volgende week dinsdag?
+Hier is wat je zal leren:
+Inschrijven doe je hier [  ]: 
+Berkshire Hathaway
+Op zijn 35ste kocht Warren Buffett een meerderheidsbelang in Berkshire Hathaway.
+Veel mensen zien die investering van Buffett als een fout.
+Berkshire Hathaway was toen een worstelend textielbedrijf.
+Dit zei Warren Buffett er in 2010 over:
+“De domste aandelenkoop die ik ooit deed was... tromgeroffel... Berkshire Hathaway.”
+Maar was het écht een fout?
+Ik ben er vrij zeker van dat Buffett zonder deze investering nooit zo succesvol was geworden als vandaag.
+Buffett kocht Berkshire tussen 1962 en 1965.
+De eerste keer aan een gemiddelde prijs van $7,60 per aandeel.
+Maar hij bleef aandelen bijkopen.
+Zijn gemiddelde aankoopprijs kwam uit op $14,86 per aandeel.
+Berkshire Hathaway was toen een klassieke cigar‑butt.
+Alleen al de waarde van het werkkapitaal (zonder de fabrieken en machines mee te rekenen) was $19 per aandeel.
+Daarbovenop kwam de waarde van alle cash, vorderingen en voorraden: $20,8 miljoen.
+Een snelle, ruwe waardering ziet er zo uit:
+Warren Buffett betaalde minder dan de helft van de boekwaarde van het bedrijf.
+In de tien jaar daarna (1965-1974) genereerde de textieldivisie de volgende omzet en bedrijfswinst:
+Totale omzet: $418,5 miljoen.
+Totale bedrijfswinst (verlies): $20,67 miljoen.
+Omdat Berkshire Hathaway 1.017.547 uitstaande aandelen had, krijg je per aandeel de volgende cijfers:
+Cumulatieve omzet per aandeel: $411,3
+Cumulatieve bedrijfswinst per aandeel: $20,3
+Dit betekent dat Warren Buffett:
+$14,86 per aandeel betaalde.
+$20,3 terugkreeg in 10 jaar.
+Het is zeker n
 
 *[Volledige tekst beschikbaar via Substack]*
