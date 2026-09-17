@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 17/09/2026 | Je bank kost veel geld | Slegers newsletter |
 | 15/09/2026 | Ik koop het hele bedrijf | Slegers newsletter |
 | 13/09/2026 | De ultieme aandelenscreener | Slegers newsletter |
 | 10/09/2026 | ⏳Je gaat het missen... | Slegers newsletter |
@@ -3973,3 +3974,35 @@ $20,3 terugkreeg in 10 jaar.
 Het is zeker n
 
 *[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Je bank kost veel geld
+**Datum:** 17/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Beleggen via de bank kost je ontzettend veel geld.
+Ze rekenen je heel wat (verborgen) kosten aan die op termijn zwaar doorwegen.
+Geloof je mij niet?
+Stel dat je 10.000 euro zou beleggen tegen een rendement van 8% per jaar.
+In dat geval zou je via de bank 120.435 euro hebben na 40 jaar.
+Zeker niet slecht!
+Maar wat als je had belegd in een ETF tegen lage kosten?
+Dan was jouw 10.000 euro maar liefst 201.720 euro waard.
+Dat is bijna dubbel zoveel winst! 
+Succesvol beleggen in ETF’s hoeft helemaal niet moeilijk te zijn.
+Iedereen kan hangmatbeleggen.
+En weet je wat? Volgende week is het zover.
+De lancering van Geldgeneratie.
+Hier is alles wat je zal ontvangen: 
+Om dit te vieren zal ik volgende week dinsdag persoonlijk een gratis lezing geven die je in 5 minuten leert om succesvol te beleggen in ETF’s.
+Je kan je hier [  ] inschrijven: 
+Tot dan!
+Beleggen in de beste bedrijven ter wereld
+Pieter
+De lezing is volledig gratis en je kan ook vragen stellen. Schrijf je hier in [  ]. 
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
