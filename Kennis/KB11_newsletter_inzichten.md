@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 20/09/2026 | Ik koop dit aandeel bij | Slegers newsletter |
 | 17/09/2026 | Je bank kost veel geld | Slegers newsletter |
 | 15/09/2026 | Ik koop het hele bedrijf | Slegers newsletter |
 | 13/09/2026 | De ultieme aandelenscreener | Slegers newsletter |
@@ -4004,5 +4005,60 @@ Tot dan!
 Beleggen in de beste bedrijven ter wereld
 Pieter
 De lezing is volledig gratis en je kan ook vragen stellen. Schrijf je hier in [  ]. 
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Ik koop dit aandeel bij
+**Datum:** 20/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Ik hoop dat het goed met je gaat.
+Vandaag kopen we bij in een aandeel uit onze portefeuille.
+Ter herinnering: je vindt de volledige portefeuille, met alle transacties, hier [  ].
+Rendement
+Kwaliteitsaandelen hadden het de afgelopen maanden moeilijk.
+Elke actieve strategie doet het soms beter en soms slechter dan de markt.
+Precies daarom is deze uitspraak zo belangrijk:
+“Je kunt het aandelenidee van iemand anders lenen, maar nooit zijn of haar overtuiging.”
+Volg je blindelings de tip van iemand anders, zonder zelf overtuigd te zijn van dat aandeel? Dan hou je het nooit vol wanneer het moeilijk wordt.
+En net dat heb je nodig om de markt op lange termijn te kloppen.
+Ik ben niet tevreden met het recente resultaat van de portefeuille, maar ik blijf op de ingeslagen weg.
+Ik hoop dat jij dat ook doet.
+Een rendement van 12% per jaar moet realistisch zijn op lange termijn.
+Zo ziet het verwachte rendement van onze portefeuille er vandaag uit:
+Het gemiddelde bedrijf in onze portefeuille groeit naar verwachting met 13,9% per jaar.
+En zo ziet de waardering (FCF-yield) eruit:
+Zolang onze bedrijven steeds meer waarde voor ons creëren, lig ik minder wakker van wat de beurs ondertussen doet.
+Ik raad je ten sterkste aan om er ook zo naar te kijken.
+Jochen schreef hier onlangs een uitstekend artikel over.
+Het heet Wat als je Warren Buffett in 1999 had ontslagen?.
+Je kan het hier lezen:
+Lees het rapport [  ]
+We kopen meer van dit aandeel
+Vandaag is het tijd om extra aandelen te kopen van een bedrijf dat we al bezitten.
+Dit bedrijf:
+Wil elke 5 jaar verdubbelen
+Wordt geleid door een van de beste kapitaalallocators ter wereld
+Het management vindt zijn eigen aandeel te goedkoop
+En het is een van de best presterende aandelen van de VS sinds 1985 (!):
+Ik denk niet dat die sterke groei snel stopt.
+Waarom? Omdat ze een enorm groeipotentieel hebben in India.
+Over welk bedrijf ik het heb?
+Dat antwoord is helaas enkel beschikbaar voor Partners van De Kwaliteitsbelegger.
+Meer ontdekken?
+Schrijf je hier [  ] in voor onze lezing ‘Hangmatbeleggen in 5 minuten’  [  ]volgende week dinsdag om 20u00
+Op woensdag 30 september kan je ook de gloednieuwe lezing ‘Interessante beleggingen op dit moment’ [  ] volgen
+Nog meer ontdekken?
+Neem een kijkje op de lezerspagina [  ]: 
+Beleggen in de beste bedrijven ter wereld
+Pieter
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed
+Fiscal.ai [  ]: Financiële data
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
