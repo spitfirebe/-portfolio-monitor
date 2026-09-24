@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 24/09/2026 | We kopen een nieuwe ETF | Slegers newsletter |
 | 20/09/2026 | Ik koop dit aandeel bij | Slegers newsletter |
 | 17/09/2026 | Je bank kost veel geld | Slegers newsletter |
 | 15/09/2026 | Ik koop het hele bedrijf | Slegers newsletter |
@@ -4062,3 +4063,70 @@ Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed
 Fiscal.ai [  ]: Financiële data
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## We kopen een nieuwe ETF
+**Datum:** 24/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Vorige week gaf ik voor VFB Turnhout een lezing over de huidige stand van de beurzen. Ik ga deze volgende week woensdag online geven. Je kan je hier gratis inschrijven. [  ]
+Dag Partner 👋
+Aandelenkoersen volgen altijd de evolutie van de intrinsieke waarde.
+We willen bedrijven kopen die:
+Van topkwaliteit zijn
+Heel winstgevend zijn
+Aan een aantrekkelijke waardering noteren
+Vandaag duiken we in onze ETF Portefeuille en kopen we ook wat bij.
+Waardebeleggen 101
+De mentor van Warren Buffett? Ben Graham.
+Ben Graham is de vader van het waardebeleggen.
+Zijn beleggingsfilosofie was supereenvoudig: je koopt een euro voor 50 cent.
+In de jaren 50 gebruikten beleggers vaak de Koers-Boekwaarde (K/BW) van een bedrijf om spotgoedkope bedrijven te vinden.
+De boekwaarde vertelde je hoeveel de fysieke bezittingen van een bedrijf waard waren.
+Denk aan dingen zoals:
+Fabrieken
+Machines
+Voorraden
+Magazijnen
+...
+Stel je voor: je koopt een bedrijf aan een K/BW van 1x.
+In theorie is de waarde van alle bezittingen dan even groot als de huidige waarde van het hele bedrijf.
+En het bedrijf zelf krijg je er gratis bij.
+Elke euro winst die het maakt, is voor jou.
+Dat was het idee achter klassiek waardebeleggen.
+Werkt klassiek waardebeleggen vandaag nog?
+Vandaag bezitten de meest winstgevende bedrijven ter wereld nauwelijks nog fysieke bezittingen.
+Nvidia is het meest waardevolle bedrijf ter wereld ($5,5 biljoen).
+Toch bezit het geen enkele fabriek.
+Het ontwerpt chips en betaalt partners zoals TSMC om ze te maken.
+Welke fysieke bezittingen staan er dan écht op de balans van Nvidia?
+Het hoofdkantoor in Californië
+Eigen supercomputers voor onderzoek en ontwikkeling (R&D)
+Voorraad en labomateriaal
+Dat is het.
+Hier zie je de boekwaarde van Nvidia en de marktkapitalisatie (de beurswaarde):
+Koop je Nvidia? Dan koop je duidelijk geen fysieke bezittingen.
+De K/BW is 23,9x.
+Je koopt onzichtbare bezittingen (immateriële activa).
+Denk aan hun eigen chipontwerpen, hun software-ecosysteem en hun topingenieurs.
+Die bezittingen helpen het bedrijf om miljarden aan winst te maken.
+Maar de klassieke boekhoudregels tonen hun waarde niet altijd goed.
+En dat is een probleem voor klassieke value ETF’s.
+Ze kiezen vaak voor bedrijven met veel fysieke bezittingen. 
+En ze laten bedrijven met weinig bezittingen en sterke groei links liggen.
+Daarom doen klassieke value ETF’s het al een tijdje slechter dan groei-ETF’s.
+De vraag is dus… Moeten we het woord ‘value’ (waarde) opnieuw uitvinden?
+De moderne veiligheidsmarge
+Hoe kan je vandaag de waarde van een bedrijf bepalen?
+Warren Buffett gaf ons een eenvoudig antwoord in zijn handleiding voor aandeelhouders van Berkshire Hathaway:
+“Intrinsieke waarde is eenvoudig: het is de huidige waarde van alle cash die je nog uit een bedrijf kunt halen tijdens de rest van zijn bestaan.”
+Denk daar even over na.
+Stel dat jij een bedrijf bezit. Wat vind jij dan het belangrijkst?
+De fabrieken?
+De magazijnen?
+Of de cash die het bedrijf voor jou ve
+
+*[Volledige tekst beschikbaar via Substack]*
