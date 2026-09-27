@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 27/09/2026 | Eén verkopen, twee kopen | Slegers newsletter |
 | 24/09/2026 | We kopen een nieuwe ETF | Slegers newsletter |
 | 20/09/2026 | Ik koop dit aandeel bij | Slegers newsletter |
 | 17/09/2026 | Je bank kost veel geld | Slegers newsletter |
@@ -4128,5 +4129,61 @@ Stel dat jij een bedrijf bezit. Wat vind jij dan het belangrijkst?
 De fabrieken?
 De magazijnen?
 Of de cash die het bedrijf voor jou ve
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Eén verkopen, twee kopen
+**Datum:** 27/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Vorige week gaf ik voor VFB Turnhout een lezing over de huidige stand van de beurzen. Ik ga deze volgende week woensdag online geven. Je kan je hier gratis inschrijven. [  ]
+Dag Partner 👋
+Ik hoop dat het goed met je gaat.
+Vandaag is het tijd voor een nieuwe wissel in onze portefeuille:
+We verkopen één bedrijf.
+Met de opbrengst breiden we twee bestaande posities uit.
+Versterking van de portefeuille
+Wat is het doel van onze portefeuille?
+Een portefeuille opbouwen waar we trots op kunnen zijn.
+Je portefeuille moet passen bij wie je bent.
+Beleg in bedrijven die je met een gerust gevoel kan aanhouden.
+Ter herinnering: alle Partners hebben hier [  ] toegang tot onze portefeuille en de bijbehorende spreadsheet.
+Het rendement van onze portefeuille sinds de start in oktober 2023 blijft voorlopig onder de verwachtingen.
+Daar kan ik maar één ding over zeggen: dit rendement is te laag.
+Het resultaat is niet goed genoeg. Daar zijn geen excuses voor.
+We moeten beter presteren. En als lezer van De Kwaliteitsbelegger verdien jij ook beter.
+Momenteel staat de volledige kwaliteitsbeleggingsstijl onder druk:
+Dit zijn de rendementen sinds het begin van dit jaar van enkele van de beste kwaliteitsbeleggers ter wereld:
+Chuck Akre: -16%
+Dev Kantesaria: -23%
+Bill Ackman: -25%
+Het gemiddelde aandeel binnen onze portefeuille staat 12% lager.
+Ik wil me oprecht verontschuldigen bij jou als Partner.
+Periodes zoals deze tonen uit welk hout je als belegger gesneden bent.
+Juist nu moet je denken als een eigenaar van een bedrijf, niet als een belegger die naar de beurskoers kijkt.
+Persoonlijk maak ik me geen zorgen over onze prestaties.
+Ik weet dat deze strategie werkt en op lange termijn sterke resultaten kan opleveren.
+Toch voel ik me slecht voor jou als Partner en voor alle andere Partners.
+Vooral voor wie er nu aan denkt om over te stappen naar een andere strategie, of volledig passief te gaan beleggen.
+Net vandaag zou dat wel eens het verkeerde moment kunnen zijn.
+Kijk maar eens naar deze tweet:
+De S&P 500 bereikt nieuwe recordhoogtes, terwijl er tegelijk meer aandelen op een dieptepunt staan dan op een hoogtepunt.
+Dat is een uitzonderlijke situatie.
+Zoiets zien we vaak wanneer de markt haar top bereikt.
+Gisteren kreeg ik een e-mail van iemand die overwoog om zich aan te sluiten bij De Kwaliteitsbelegger.
+Hij vroeg welk rendement ik de komende jaren verwacht.
+Ik antwoordde dat ons doel is om de S&P 500 op lange termijn jaarlijks met 3 procentpunten te verslaan.
+Omdat de S&P 500 gemiddeld ongeveer 9% per jaar oplevert, streven we naar een jaarlijks rendement van 12%.
+De reactie van deze lezer?
+“Oké, bedankt. Dat past niet bij mijn doel. Ik streef naar een jaarlijks rendement van meer dan 100%. Sinds het begin van dit jaar bedraagt mijn rendement al +140%.”
+Een jaarlijks rendement van meer dan 100%?
+Hebzucht is een vreemd beestje.
+Het zegt veel over het soort markt waarin we vandaag zitten.
+De hele markt wordt momenteel gedreven door momentum:
+Wa
 
 *[Volledige tekst beschikbaar via Substack]*
