@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 29/09/2026 | Drie manieren om te beleggen | Slegers newsletter |
 | 27/09/2026 | Eén verkopen, twee kopen | Slegers newsletter |
 | 24/09/2026 | We kopen een nieuwe ETF | Slegers newsletter |
 | 20/09/2026 | Ik koop dit aandeel bij | Slegers newsletter |
@@ -4185,5 +4186,71 @@ Hebzucht is een vreemd beestje.
 Het zegt veel over het soort markt waarin we vandaag zitten.
 De hele markt wordt momenteel gedreven door momentum:
 Wa
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Drie manieren om te beleggen
+**Datum:** 29/09/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+De beurs is de beste manier om een vermogen op te bouwen voor jou en je familie.
+Op korte termijn is beleggen misschien risicovol. 
+Maar op lange termijn is het net risicovol om níét te beleggen.
+Waarom? Door inflatie. Het leven wordt jaar na jaar duurder.
+Met €100 koop je vandaag dus meer dan binnen vijf jaar. 
+Je geld smelt als een ijsje in de zon als je het op je spaarboekje laat staan.
+En ik heb nog goed nieuws voor jou: beleggen hoeft helemaal niet moeilijk te zijn.
+Iedereen kan beleggen.
+Je hebt geen economiediploma nodig. 
+Geen Bloomberg-terminal (het dure computerscherm voor professionals). 
+En ook geen tienduizenden euro’s.
+Wat heb je dan wel nodig? Een portie gezond verstand en geduld.
+Op de beurs kan je kiezen uit drie methodes:
+Hangmatbeleggen
+Holdings
+Individuele aandelen
+1. Hangmatbeleggen
+De eerste methode? Hangmatbeleggen.
+Je belegt periodiek in ETF’s.
+Een ETF (Exchange-Traded Fund) is een fonds dat in één klap een hele index koopt.
+Met één aankoop beleg je meteen in duizenden bedrijven wereldwijd. 
+Je zoekt niet naar de speld in de hooiberg. Je koopt gewoon de hele hooiberg.
+Lage kosten. Maximale spreiding. Geen huiswerk.
+Beleg je nog niet? Dan is dit vaak een heel goede manier om te starten.
+Mijn ouders kopen bijvoorbeeld elke maand voor hetzelfde bedrag de ETF IWDA.
+Of zoals mijn moeder zegt: “Ik Wil Die Aandelen.”
+IWDA kost je 0,2% per jaar en belegt in 1.280 bedrijven.
+Het jaarlijkse rendement sinds 1987? 9,1% per jaar.
+Niet slecht, toch? Zo tover je €10.000 om in €334.000.
+Dat is de kracht van samengestelde interest. Een sneeuwbal die van de berg rolt en alleen maar groter wordt.
+2. Holdings
+Ben je al iets verder als belegger? Dan kan je ook naar holdings kijken.
+Een holding is een bedrijf dat zelf andere bedrijven bezit.
+Ze verkopen zelf geen producten en bieden geen diensten aan.
+Bekende voorbeelden? Berkshire Hathaway (van Warren Buffett) en Sofina (van de familie Boël).
+Holdings hebben twee grote voordelen:
+Toegang tot niet-beursgenoteerde bedrijven. Als gewone belegger kom je daar zelden binnen. Via een holding wel.
+Ze doen het op lange termijn vaak beter dan de markt. En dus ook beter dan de hangmatbelegger.
+Hier zijn enkele voorbeelden:
+3. Individuele aandelen
+Naast ETF’s en holdings kan je natuurlijk ook in individuele aandelen beleggen.
+Mijn tip? Beleg in bedrijven die je goed begrijpt.
+Zo neem je betere beslissingen.
+Werk je in de autosector? Dan is een aandeel als D’Ieteren misschien iets voor jou.
+Rijd je regelmatig langs de koekjesfabriek van Lotus Bakeries in Lembeke? En zie je dat de parking de laatste tijd vol staat (of net heel leeg)?
+Dan weet jij misschien beter dan wie ook of Lotus vandaag een interessante belegging is.
+Lezing
+Morgen om 20u00 geef ik een gratis lezing om te spreken over deze drie beleggingsmethodes:
+Hangmatbeleggen
+Holdings
+Individuele aandelen
+De lezing is gratis en start om 20u00.
+Je kan je hier inschrijven: 
+Beleggen in de beste bedrijven te
 
 *[Volledige tekst beschikbaar via Substack]*
