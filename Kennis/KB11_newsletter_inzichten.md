@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 01/10/2026 | Cursus ETF Beleggen | Slegers newsletter |
 | 29/09/2026 | Drie manieren om te beleggen | Slegers newsletter |
 | 27/09/2026 | Eén verkopen, twee kopen | Slegers newsletter |
 | 24/09/2026 | We kopen een nieuwe ETF | Slegers newsletter |
@@ -4252,5 +4253,56 @@ Individuele aandelen
 De lezing is gratis en start om 20u00.
 Je kan je hier inschrijven: 
 Beleggen in de beste bedrijven te
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Cursus ETF Beleggen
+**Datum:** 01/10/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Heb je het webinar van gisteren gemist? Herbekijk het hier en maak jezelf een betere belegger. [  ]
+Het beste aan beleggen in ETF’s? Iedereen kan het doen.
+En je zult het waarschijnlijk beter doen dan 95% van alle beleggers.
+Deze eenvoudige cursus legt je alles uit wat je moet weten.
+Wat is een ETF?
+Stel je een mand met fruit voor.
+In plaats van elk stuk fruit afzonderlijk te kopen, koop je een mand met appels, bananen en sinaasappels.
+Deze mand is vergelijkbaar met een ETF (Exchange Traded Fund).
+Met een ETF beleg je in een hele groep aandelen of obligaties tegelijk.
+Met één aankoop spreid je je beleggingen meteen.
+Je kan kiezen voor een specifieke index, zoals de S&P 500, of voor een sector, zoals technologie of gezondheid.
+Er zijn verschillende soorten ETF’s:
+Aandelen ETF’s: Dit zijn manden met aandelen van diverse bedrijven.
+Obligatie-ETF’s: Deze bevatten obligaties, waarmee je geld uitleent aan bedrijven of overheden.
+Sector- en industrie ETF’s: Deze ETF’s richten zich op bedrijven binnen een specifieke sector, zoals technologie of gezondheidszorg.
+Thematische ETF’s: Dit zijn manden met bedrijven die zich bezighouden met bepaalde thema’s of trends, zoals groene energie of technologische innovatie.
+Deze cursus focust op aandelen-ETF’s.
+Aandelen zijn op de lange termijn doorgaans de beste belegging.
+ETF’s versus actief beheerde fondsen
+Laten we het fruitmandvoorbeeld weer gebruiken.
+ETF’s zijn zoals het kopen van een fruitmand: je weet precies wat erin zit en de prijs weerspiegelt de totale waarde van het fruit.
+Actief beheerde fondsen zijn meer zoals het inhuren van iemand om fruit voor je te plukken.
+Ze beweren beter te zijn in het kiezen van het beste fruit, maar vragen een vergoeding voor hun expertise.
+Deze vergoeding zou gerechtvaardigd zijn als deze experts echt beter waren in het selecteren van het beste fruit.
+Maar dit lijkt niet het geval te zijn in de beleggingswereld.
+Meer dan 90% (!) van de actief beheerde fondsen presteert slechter dan de markt!
+Banken rekenen hoge vergoedingen aan, maar leveren niet altijd extra waarde.
+De gemiddelde vergoedingen om je geld te laten beheren door een zogenaamde ‘professional’:
+Instapkosten: 3%
+Jaarlijkse commissie: 1,5%
+De gemiddelde kosten voor beleggen in ETF’s:
+Jaarlijkse kosten: 0,2%
+Stel je voor dat je €10.000 hebt om te investeren voor 40 jaar en dat je elke maand €200 toevoegt aan je beleggingsportefeuille.
+Als zowel het bankfonds als de ETF een jaarlijks rendement van 8% genereert, ziet je belegging er als volgt uit:
+Dit betekent dat je bijna twee keer zoveel zou hebben met een ETF in vergelijking met een actief beheerd fonds!
+Kosten eten jouw rendement op als belegger.
+Waar kan ik een ETF kopen?
+De “winkel” waar je je fruitmand (ETF’s) kunt kopen, heet een broker.
+Het is een plaats op internet waar je dingen kan kopen zoals ETF’s, aandelen, obligaties, …
+De broker die je moet kiezen, hangt af van een paar dingen, zoals waar je woont, kosten, gebruiksvriende
 
 *[Volledige tekst beschikbaar via Substack]*
