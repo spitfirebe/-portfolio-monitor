@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 04/10/2026 | De beste overnamemachines | Slegers newsletter |
 | 01/10/2026 | Cursus ETF Beleggen | Slegers newsletter |
 | 29/09/2026 | Drie manieren om te beleggen | Slegers newsletter |
 | 27/09/2026 | Eén verkopen, twee kopen | Slegers newsletter |
@@ -4304,5 +4305,73 @@ Waar kan ik een ETF kopen?
 De “winkel” waar je je fruitmand (ETF’s) kunt kopen, heet een broker.
 Het is een plaats op internet waar je dingen kan kopen zoals ETF’s, aandelen, obligaties, …
 De broker die je moet kiezen, hangt af van een paar dingen, zoals waar je woont, kosten, gebruiksvriende
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## De beste overnamemachines
+**Datum:** 04/10/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Heb je het webinar van gisteren gemist? Herbekijk het hier en maak jezelf een betere belegger. [  ]
+Dag Partner 👋
+De week van de serial acquirers zit er bijna op.
+Vandaag is het tijd voor het leukste deel: we bouwen een portefeuille met seriële overnemers.
+We vonden 12 superspannende namen.
+Gemiddeld groeide deze aandelen met +34% per jaar!
+Klaar? Laten we er meteen induiken.
+Voor we beginnen
+Voor we starten, verdelen we de portefeuille in 4 mandjes.
+Elk mandje bevat 3 serial acquirers. Zo krijg je een portefeuille van 12 namen.
+Dit zijn de mandjes die we gebruiken:
+VMS Serial Acquirers (nichesoftware)
+Zweedse Serial Acquirers
+Industriële Serial Acquirers
+Speciale Serial Acquirers
+Lezing gemist?
+Heb je de lezing van vorige week gemist?
+Bekijk ‘m hier [  ] en leer over mijn drie favoriete aandelen op dit moment:
+Mandje 1: VMS Serial Acquirers
+Vertical Market Software (VMS) is software voor heel specifieke zaken.
+Denk aan software voor bibliotheken, golfclubs of … kippenhokken.
+Het serial acquirer-model past perfect bij zulke softwarebedrijven.
+Waarom? Stel: je hebt een softwarebedrijf dat eieren telt in kippenhokken.
+Klinkt gek, toch? Maar Constellation ($CSU) bezit écht zo’n bedrijf.
+Softwarebedrijven voor kippenhokken zijn geweldig:
+Geen enkele student van MIT (een topuniversiteit in de VS) droomt ervan om in deze business te gaan
+Er is amper concurrentie
+Klanten kunnen niet zonder
+Ze leveren sterke, terugkerende kasstromen op
+Toch hebben ze één groot nadeel: er is weinig ruimte om hun winst opnieuw te herinvesteren.
+Daarom is het slim om een serial acquirer boven deze bedrijfjes te zetten.
+Zo bezit je deze prachtige bedrijven, en geven overnames je ruimte om je winst opnieuw te investeren.
+We voegen drie bedrijven toe aan de portefeuille die het VMS-model gebruiken:
+Sygnity ($SGN)
+Chapters Group ($CHG)
+Software Circle ($SFT)
+1. Sygnity ($SGN)
+Er zijn vijf beursgenoteerde bedrijven uit de Constellation-familie:
+Constellation Software zelf
+Topicus
+Lumine Group
+Asseco Poland
+Sygnity
+Van die vijf haalde Sygnity de beste resultaten in de eerste helft van 2026:
+Omzetgroei van +47% in de eerste jaarhelft van 2026
+Groei van de EBITDA (winst voor rente, belastingen en afschrijvingen) van +74% in de eerste jaarhelft van 2026
+Ondanks die sterke cijfers blijft het aandeel spotgoedkoop: je betaalt minder dan 12 keer de verwachte EBITDA (Forward EV/EBITDA).
+Waarom is het zo goedkoop?
+Er zijn weinig vrij verhandelbare aandelen (de free float), en dat speelt een grote rol.
+Topicus alleen bezit al 72,7%. Wellicht is maar zo’n 10% van de aandelen vrij verhandelbaar.
+Grote beleggers kunnen daardoor geen positie opbouwen.
+Sygnity is ook het enige bedrijf uit de Constellation-familie dat nog niet hersteld is van de angst voor AI:
+Het Topicus-draaiboek in actie
+Het loont om goed te kijken wat Topicus bij Sygnity doet.
+Je hoort vaak dat Constellation en Topicus ‘kapitaalmachines’ zijn.
+Volgens mij doet dat hen tekort.
+Ze zijn niet allee
 
 *[Volledige tekst beschikbaar via Substack]*
