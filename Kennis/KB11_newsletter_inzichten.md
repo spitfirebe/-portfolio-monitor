@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 06/10/2026 | 6 Nieuwe aandelen | Slegers newsletter |
 | 04/10/2026 | De beste overnamemachines | Slegers newsletter |
 | 01/10/2026 | Cursus ETF Beleggen | Slegers newsletter |
 | 29/09/2026 | Drie manieren om te beleggen | Slegers newsletter |
@@ -4373,5 +4374,71 @@ Het loont om goed te kijken wat Topicus bij Sygnity doet.
 Je hoort vaak dat Constellation en Topicus ‘kapitaalmachines’ zijn.
 Volgens mij doet dat hen tekort.
 Ze zijn niet allee
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 6 Nieuwe aandelen
+**Datum:** 06/10/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Heb je het webinar van gisteren gemist? Herbekijk het hier en maak jezelf een betere belegger. [  ]
+Dag Partner 👋
+De week van de serial acquirers zit er bijna op.
+Vandaag is het tijd voor het leukste deel: we bouwen verder aan onze portefeuille.
+Je kreeg al 6 namen van ons.
+Vandaag geven we je de laatste 6 namen.
+Klaar? Laten we er meteen induiken.
+Lezing gemist?
+Heb je de lezing van vorige week gemist?
+Bekijk ‘m hier [  ] en leer over mijn drie favoriete aandelen op dit moment:
+Even herhalen
+Serial acquirers kan je verdelen in 4 mandjes:
+VMS Serial Acquirers (nichesoftware)
+Zweedse Serial Acquirers
+Industriële Serial Acquirers
+Speciale Serial Acquirers
+Vandaag duiken we in de Industriële Serial Acquirers en de Speciale Serial Acquirers.
+Industriële Serial Acquirers
+Mandje 1 draaide rond software.
+Nu willen we ook drie serial acquirers die zich richten op industriële bedrijven.
+Dit zijn de 3 namen:
+TerraVest ($TVK)
+Tasmea ($TEA)
+Lindbergh ($LDB)
+1. TerraVest ($TVK)
+TerraVest was vroeger een oersaai bedrijf.
+In koude, afgelegen gebieden hebben mensen vaak geen gasleiding om hun huis te verwarmen. Ze gebruiken dan propaangas, dat in grote opslagtanks zit.
+En precies daar komt TerraVest in beeld: bij die opslagtanks.
+Propaan opslaan is supersaai, maar denk nu niet dat je er slechte rendementen mee haalt.
+Sinds de beursgang in 2012 groeide het rendement voor aandeelhouders met maar liefst 31,6% per jaar.
+Dat dankzij slimme en gedisciplineerde overnames.
+Vandaag staat TerraVest op de juiste plek op het juiste moment.
+Het wordt een ‘pick-and-schovel’-aandeel van de AI-boom.
+Het levert het gereedschap voor de bouw van AI-infrastructuur.
+Waarom?
+Datacenters slurpen enorm veel energie, vooral in de vorm van elektriciteit.
+Maar volledig vertrouwen op het stroomnet is riskant.
+Valt het stroomnet uit? Dan ligt het datacenter stil, en dat kost een fortuin.
+Daarom hebben datacenters meestal noodgeneratoren die op brandstof draaien.
+En die brandstof moet je opslaan in grote tanks.
+Ook het koelwater voor datacenters zorgt voor meer vraag naar opslagtanks.
+En daar komt TerraVest in beeld.
+Zo krijgt een bedrijf dat al heel mooi groeit extra wind in de zeilen:
+Het segment HVAC & Containment Equipment van TerraVest (verwarming, ventilatie, airco en opslag, met daarin ook de opslagtanks) groeide het voorbije kwartaal met 83% tegenover vorig jaar.
+Volgens het management komt die groei vooral door de bouw van datacenters.
+2. Tasmea ($TEA)
+Australië telt ongeveer 28 miljoen inwoners.
+Maar het wordt pas interessant als je kijkt waar al die mensen wonen:
+Sydney heeft zo’n 5,5 miljoen inwoners
+Perth heeft er zo’n 2,5 miljoen
+Melbourne heeft er zo’n 5,5 miljoen
+Brisbane heeft er zo’n 3,0 miljoen
+Trek je die vier grote steden eraf, dan blijven er maar 11,5 miljoen mensen over, verspreid over een land bijna zo groot als de Verenigde Staten.
+En de VS telt meer dan 350 miljoen inwoners.
+Tasmea-medeoprichter Stephen Young vergelijkt het met Europa:
 
 *[Volledige tekst beschikbaar via Substack]*
