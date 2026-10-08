@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 08/10/2026 | Portefeuille Update: Oktober 2026 | Slegers newsletter |
 | 06/10/2026 | 6 Nieuwe aandelen | Slegers newsletter |
 | 04/10/2026 | De beste overnamemachines | Slegers newsletter |
 | 01/10/2026 | Cursus ETF Beleggen | Slegers newsletter |
@@ -4440,5 +4441,66 @@ Brisbane heeft er zo’n 3,0 miljoen
 Trek je die vier grote steden eraf, dan blijven er maar 11,5 miljoen mensen over, verspreid over een land bijna zo groot als de Verenigde Staten.
 En de VS telt meer dan 350 miljoen inwoners.
 Tasmea-medeoprichter Stephen Young vergelijkt het met Europa:
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Portefeuille Update: Oktober 2026
+**Datum:** 08/10/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Ik hoop dat het goed met je gaat.
+Vandaag duiken we opnieuw in onze portefeuille.
+Wat speelt er? Laten we meteen kijken.
+Wat speelt er?
+We zitten vandaag in een opvallende markt.
+De stemming van beleggers bepaalt momenteel de richting van de markt.
+Op dit moment draait alles om artificiële intelligentie (AI).
+Mijn vriend Kris schreef daar onlangs trouwens een interessant artikel over.
+Je kan het hier lezen. [  ]
+De investeringen in AI zijn enorm.
+Dit jaar geven bedrijven wereldwijd naar verwachting € 2,5 biljoen uit aan AI.
+Tegen 2027 stijgt dat bedrag zelfs naar € 3,3 biljoen.
+Als je het mij vraagt, zijn we mogelijk in een gevaarlijke fase van de markt aangekomen.
+Kijk maar eens naar deze post van Jason Goepfert:
+Nog een voorbeeld:
+Dit is een vreemde en ongezonde markt.
+Hoe bescherm je jezelf hier het best tegen?
+Focus nog meer op kwaliteit.
+Kies voor bedrijven met:
+een gezonde balans,
+een hoge winstgevendheid,
+een sterk concurrentievoordeel,
+veel prijszettingsmacht.
+Beleggers zoeken juist deze bedrijven op wanneer de onzekerheid toeneemt.
+Ze maken vaak hoge winsten en kunnen hun prijzen verhogen om moeilijke omstandigheden op te vangen.
+💡
+“De belangrijkste eigenschap van een sterk bedrijf is prijszettingsmacht. Kan een bedrijf zijn prijzen verhogen zonder klanten aan concurrenten te verliezen? Dan heeft het een uitstekende positie. Moet een bedrijf daarentegen bang zijn om zelfs maar een kleine prijsverhoging door te voeren, dan is het een zwak bedrijf. Ik heb beide situaties meegemaakt en ken het verschil.” - Charlie Munger
+Onze portefeuille
+Onze portefeuille bestaat momenteel uit 20 kwaliteitsbedrijven.
+Als Partner heb je 24/7 toegang tot de portefeuille en alle transacties.
+Wat maakt onze portefeuille interessant?
+Dat zie je wanneer je de evolutie van de intrinsieke waarde vergelijkt met de beurskoersen.
+Kijken we naar de situatie in 2025 voor alle aandelen in de portefeuille, dan krijgen we het volgende beeld:
+Hoe lees je deze tabel?
+De intrinsieke waarde van onze bedrijven steeg met 9,7%.
+De gemiddelde beurskoers steeg met slechts 0,2%.
+Daardoor werden onze bedrijven gemiddeld 9,5% goedkoper.
+Voor 2026 ziet het plaatje er voorlopig als volgt uit:
+De intrinsieke waarde van onze bedrijven steeg met 11,3%.
+De gemiddelde beurskoers daalde met 13,8%.
+Daardoor werden onze bedrijven gemiddeld 25,1% goedkoper.
+Kijken we naar de periode van 1 januari 2025 tot vandaag, dan zien we het volgende:
+De intrinsieke waarde van onze bedrijven steeg met 22,0%.
+De gemiddelde beurskoers daalde met 12,8%.
+Daardoor werden onze bedrijven gemiddeld 34,9% goedkoper.
+Als je deze cijfers bekijkt, is het geen verrassing dat onze portefeuille vandaag goedkoper gewaardeerd is dan ooit tevoren:
+Fundamenteel is er niets mis met onze bedrijven.
+Integendeel: sinds begin 2025 steeg hun intrinsieke waarde met 22,0%.
+Benjamin Graham verwoordde het treffend: op korte termijn is de beurs een stemmachine, maar op lange termijn een weeg
 
 *[Volledige tekst beschikbaar via Substack]*
