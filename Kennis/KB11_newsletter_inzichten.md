@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 11/10/2026 | Twee nieuwe aankopen | Slegers newsletter |
 | 08/10/2026 | Portefeuille Update: Oktober 2026 | Slegers newsletter |
 | 06/10/2026 | 6 Nieuwe aandelen | Slegers newsletter |
 | 04/10/2026 | De beste overnamemachines | Slegers newsletter |
@@ -4502,5 +4503,56 @@ Als je deze cijfers bekijkt, is het geen verrassing dat onze portefeuille vandaa
 Fundamenteel is er niets mis met onze bedrijven.
 Integendeel: sinds begin 2025 steeg hun intrinsieke waarde met 22,0%.
 Benjamin Graham verwoordde het treffend: op korte termijn is de beurs een stemmachine, maar op lange termijn een weeg
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Twee nieuwe aankopen
+**Datum:** 11/10/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Vandaag is het weer tijd om bij te kopen voor Onze Portefeuille.
+We kopen bij in 2 bedrijven:
+Bedrijf 1: Volgens het management 15% ondergewaardeerd
+Bedrijf 2: Onze mini-Berkshire Hathaway
+Een gekke statistiek
+De gekste statistiek die je vandaag zal zien?
+Deze hier:
+Stel: je neemt 99% van de rendementen van Warren Buffett weg…
+Dan zou hij het nog altijd beter dan de markt doen.
+Dat is de magie van samengestelde interest.
+Wij mensen zijn niet gemaakt om de magie van exponentiële groei te begrijpen.
+Het is één van de krachtigste dingen op aarde.
+Beleg daarom in bedrijven die jaar na jaar meer en meer waarde creëren voor jou als belegger.
+Een bedrijf zoals Berkshire.
+Maar er zijn nog veel meer voorbeelden:
+Je hebt maar één zo’n winnaar nodig in je hele beleggersleven om écht succesvol te zijn.
+Hier zijn 10 gouden regels die je meteen kan gebruiken:
+Weet wat je bezit en waarom je het bezit. Doe je huiswerk voor je koopt. Kopen zonder onderzoek is als pokeren zonder naar je kaarten te kijken.
+Begrijp de cijfers. De grootste verliezen komen van zwakke balansen. Kies dus voor winstgevende bedrijven met gezonde financiering.
+Gebruik je voordeel uit het dagelijkse leven. Op je werk, in winkels en thuis zie je goede bedrijven vaak sneller dan Wall Street.
+Koop kwaliteit, geen hype. Laat hete aandelen en “the next big thing” links liggen. Beleg in geweldige bedrijven in saaie sectoren met een duurzaam competitief voordeel.
+Maak van ROIC je belangrijkste cijfer. ROIC (Return On Invested Capital) is het rendement op het geïnvesteerde kapitaal. Het toont hoe goed het management met geld omgaat. Hoe hoger, hoe beter.
+Denk op lange termijn. Op korte termijn lopen koersen en bedrijfsresultaten vaak uit elkaar. Op lange termijn volgt het aandeel de winst: groeit de winst 10x, dan volgt de koers.
+Laat je winnaars lopen. Je kunt op een aandeel nooit meer verliezen dan je erin stak. Maar je winst kan vele keren groter zijn.
+Spreid niet te veel. Koop alleen zoveel aandelen als je goed kunt analyseren en opvolgen.
+Zie dalingen op de beurs als kansen. Hou wat cash achter de hand. Zo kun je kopen wanneer anderen in paniek slaan.
+Negeer voorspellingen over de economie en alle ruis. Niemand kan de rente, de economie of wisselkoersen betrouwbaar voorspellen.
+Wil je nog meer vuistregels?
+Hier zijn 20 gouden beleggingsregels van Peter Lynch:
+Laten we nu in de 2 aankopen duiken die we doen voor Onze Portefeuille.
+Twee nieuwe aankopen
+1. We kopen meer Fairfax Financial Holdings ($FFH)
+Hoe verdient het bedrijf geld?
+Fairfax verdient geld met de verkoop van verzekeringen en herverzekeringen.
+Klanten betalen premies en Fairfax beheert de risico’s heel zorgvuldig.
+Het geld dat Fairfax vasthoudt tot het schade moet uitbetalen (de “float”), belegt het om extra rendement te halen.
+Waarom kopen we bij?
+Aan het roer van Fairfax Financial staat één van de beste kapitaalallocatoren ter wereld: Prem Watsa.
+Sinds 1985 levert het bedrijf aandeelho
 
 *[Volledige tekst beschikbaar via Substack]*
