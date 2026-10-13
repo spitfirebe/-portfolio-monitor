@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 13/10/2026 | Terug naar de basis | Slegers newsletter |
 | 11/10/2026 | Twee nieuwe aankopen | Slegers newsletter |
 | 08/10/2026 | Portefeuille Update: Oktober 2026 | Slegers newsletter |
 | 06/10/2026 | 6 Nieuwe aandelen | Slegers newsletter |
@@ -4554,5 +4555,66 @@ Het geld dat Fairfax vasthoudt tot het schade moet uitbetalen (de “float”), 
 Waarom kopen we bij?
 Aan het roer van Fairfax Financial staat één van de beste kapitaalallocatoren ter wereld: Prem Watsa.
 Sinds 1985 levert het bedrijf aandeelho
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Terug naar de basis
+**Datum:** 13/10/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Volg donderdag om 20u00 onze gratis lezing mee. Je kan je hier inschrijven. [  ]
+Dag Partner 👋
+Ik hoop dat alles goed met je gaat.
+Vandaag keren we terug naar de basis.
+We duiken in het Manifesto van De Kwaliteitsbelegger.
+Daarin lees je waar we voor staan, welke principes we volgen en wat we belangrijk vinden.
+Laten we ons vandaag de vraag stellen waarom De Kwaliteitsbelegger bestaat.
+Er zijn twee belangrijke zaken:
+We willen het juiste doen.
+We beleggen in de beste bedrijven ter wereld.
+1. We willen het juiste doen
+Simon Sinek zegt dat je altijd moet beginnen met de vraag: waarom?
+Waarom bestaat De Kwaliteitsbelegger?
+Daar zijn twee belangrijke redenen voor:
+Iedereen zou moeten beleggen.
+Onze belangen lopen gelijk
+Iedereen zou moeten beleggen
+Ik geloof oprecht dat iedereen zou moeten beleggen.
+Voor jou en je familie is beleggen één van de beste en eenvoudigste manieren om vermogen op te bouwen.
+Veel mensen onderschatten de kracht van exponentiële groei.
+Toch is dit één van de krachtigste principes in de hele wereld.
+Dat komt omdat we exponentiële groei nauwelijks tegenkomen in het dagelijks leven.
+Bomen groeien geleidelijk, baby’s groeien stap voor stap op tot volwassenen en ook onze verplaatsingen gebeuren aan een min of meer constant tempo.
+Onze evolutie heeft ons niet geleerd om exponentiële groei intuïtief te begrijpen.
+Maar in de financiële wereld werkt het anders.
+… Exponentiële groei maakt vaak het verschil tussen financiële vrijheid en financiële zorgen.
+Als meer mensen zouden beleggen, zou de wereld niet alleen welvarender zijn, maar ook financieel gezonder.
+Jij als Partner van De Kwaliteitsbelegger kan de portefeuille hier [  ] bekijken.
+Onze portefeuille heeft momenteel een waarde van ongeveer €1,7 miljoen.
+… Bij een gemiddeld rendement van 12% per jaar groeit dat bedrag tot:
+Na 10 jaar: €5,3 miljoen
+Na 20 jaar: €16,4 miljoen
+Na 30 jaar: €50,8 miljoen
+Na 40 jaar: €157,9 miljoen
+Na 50 jaar: €490,6 miljoen
+Na 60 jaar: €1,5 miljard
+Na 66 jaar (de huidige leeftijd van Warren Buffett): €4,7 miljard
+De juiste belangen maken het verschil
+Charlie Munger zei ooit:
+“Ik denk dat ik mijn hele leven al beter dan de meeste mensen heb begrepen hoe belangrijk incentives zijn. Toch heb ik hun kracht nog altijd onderschat.” - Charlie Munger
+Wanneer je geld wil beleggen in een aandeel of een beleggingsproduct, stel jezelf dan altijd twee vragen:
+Belegt de persoon die dit product aanbeveelt er zelf ook in?
+Heeft het product een sterk trackrecord?
+Slechts weinig beleggingen kunnen op beide vragen volmondig ja antwoorden.
+Dat is ook precies waarom 70% van onze portefeuille belegd is in Owner-Operators.
+Dit zijn aandelen waarbij het management met zijn eigen centen in het bedrijf belegd is.
+Al mijn belegbaar vermogen zit in de aandelen waarover ik schrijf.
+Volgens mij is dat de enige juiste aanpak.
+Want als je zelf niet overtuigd bent van een aandeel of een idee, waarom zou je er dan over schrijven?
+2. We beleggen in de beste
 
 *[Volledige tekst beschikbaar via Substack]*
