@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 15/10/2026 | We doen 4 transacties | Slegers newsletter |
 | 13/10/2026 | Terug naar de basis | Slegers newsletter |
 | 11/10/2026 | Twee nieuwe aankopen | Slegers newsletter |
 | 08/10/2026 | Portefeuille Update: Oktober 2026 | Slegers newsletter |
@@ -4616,5 +4617,57 @@ Al mijn belegbaar vermogen zit in de aandelen waarover ik schrijf.
 Volgens mij is dat de enige juiste aanpak.
 Want als je zelf niet overtuigd bent van een aandeel of een idee, waarom zou je er dan over schrijven?
 2. We beleggen in de beste
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## We doen 4 transacties
+**Datum:** 15/10/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Vandaag is het tijd voor een nieuwe portefeuillewijziging.
+Het is al de derde aanpassing die we recent hebben doorgevoerd.
+Met deze stap verhogen we de kwaliteit van onze portefeuille.
+Hieronder kan je de 4 transacties terugvinden:
+Verkoop van Dino Polska ($DNP)
+Hoe verdient het bedrijf geld?
+Dino Polska begon in 1999 en groeide uit tot één van de grootste supermarktketens van Polen. Het bedrijf opent middelgrote supermarkten in landelijke gebieden, dicht bij waar zijn klanten wonen.
+Waarom verkopen we?
+Dino Polska heeft het momenteel niet gemakkelijk.
+De concurrentie van Biedronka en Lidl neemt toe.
+Daardoor moet Dino Polska zijn prijzen verlagen om competitief te blijven.
+Dat is goed nieuws voor consumenten.
+Voor Dino Polska is dat minder goed nieuws.
+Om concurrerend te blijven, moest Dino zijn winstmarges verlagen.
+Daarbovenop proberen werknemers zich te verenigen in een vakbond.
+Daarom verhoogde het management de lonen en breidde het de voordelen voor werknemers uit.
+In april kregen werknemers er 300 PLN bij.
+Volgens het management zullen de lonen de komende jaren waarschijnlijk verder stijgen:
+💡
+“Volgens het management zijn hogere lonen en personeelsvoordelen de belangrijkste reden voor de stijgende kosten. Aan het begin van dit jaar verhoogde Dino de lonen al. Omdat het bedrijf nieuwe winkels blijft openen, verwacht het management dat de personeelskosten verder zullen stijgen.” - Dino Polska Q2 2026 Earnings Call
+Dit zet de winstmarges van Dino nog verder onder druk.
+Op lange termijn komt Dino volgens mij nog steeds goed uit de strijd.
+Het bedrijf heeft nog veel ruimte om nieuwe winkels te openen.
+Maar vandaag zie ik aantrekkelijkere kansen op de beurs.
+Onze transactie
+We bezitten 14.550 aandelen Dino Polska, vandaag goed voor $67.000 (3,7% van onze Portefeuille).
+We verkopen onze volledige positie met een limietprijs van $4,5.
+Het geld gebruiken we om bij te kopen in Fairfax, S&P Global en 3i Group.
+Aankoop van Fairfax ($FFH)
+Hoe verdient het bedrijf geld?
+Fairfax is een Canadese verzekeraar en investeringsmaatschappij. Het bedrijf ontvangt premies van klanten en investeert dat kapitaal vervolgens in aandelen en bedrijven om het verder te laten groeien.
+Waarom kopen we bij?
+Weinig kapitaalallocators kunnen een trackrecord zoals dat van Prem Watsa voorleggen.
+Sinds hij Fairfax Financial in 1985 oprichtte, leverde het aandeel zijn beleggers een gemiddeld jaarlijks rendement van 19,5% op.
+Wie in 1985 $1.000 in Fairfax investeerde, ziet die investering vandaag uitgroeien tot meer dan $1,2 miljoen.
+Van de ongeveer 6.000 beursgenoteerde bedrijven deden slechts zes het over diezelfde periode beter.
+Dat is een indrukwekkende prestatie.
+Maar de beste jaren van Fairfax liggen nog niet achter ons.
+Het bedrijf hanteert een model dat sterk lijkt op dat van Berkshire Hathaway.
+De verzekeringsactiviteiten genereren zogenoemde ‘float’, kapitaal dat Fairfax kan investeren. De opbrengsten daarvan gebruikt het bed
 
 *[Volledige tekst beschikbaar via Substack]*
