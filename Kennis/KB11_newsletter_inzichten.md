@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 18/10/2026 | De koopjes van de maand | Slegers newsletter |
 | 15/10/2026 | We doen 4 transacties | Slegers newsletter |
 | 13/10/2026 | Terug naar de basis | Slegers newsletter |
 | 11/10/2026 | Twee nieuwe aankopen | Slegers newsletter |
@@ -4669,5 +4670,62 @@ Dat is een indrukwekkende prestatie.
 Maar de beste jaren van Fairfax liggen nog niet achter ons.
 Het bedrijf hanteert een model dat sterk lijkt op dat van Berkshire Hathaway.
 De verzekeringsactiviteiten genereren zogenoemde ‘float’, kapitaal dat Fairfax kan investeren. De opbrengsten daarvan gebruikt het bed
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## De koopjes van de maand
+**Datum:** 18/10/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Zoals elke maand krijg je een update van onze ‘Koopjes van de maand’.
+Wat gebeurt er op de beurs? Welke aandelen vinden wij momenteel het aantrekkelijkst?
+Laten we je vandaag inspireren.
+September 2026
+In september 2026 daalde de S&P 500 met 1,8%:
+Volgens de Fear & Greed Index [  ] zijn beleggers momenteel ‘angstig’:
+Beste & slechtste presteerders
+Dit overzicht toont de beste en slechtste presteerders binnen ons boodschappenlijstje.
+Slechtste presteerders
+Hoe goedkoper we geweldige bedrijven kunnen kopen, hoe beter.
+Hier zijn de slechtste presteerders van de voorbije maand:
+Fair Isaac (FICO) heeft het momenteel moeilijk.
+Het bedrijf verliest zijn monopoliepositie en de beurskoers krijgt zware klappen.
+Beste presteerders
+Deze aandelen deden het heel goed de voorbije maand:
+Fortinet blijft indruk maken.
+Sinds het begin van het jaar is het aandeel al met 137% gestegen.
+🏦 In de Spotlight: Nu Holdings ($NU)
+Hoe verdient het bedrijf geld?
+Nu Holdings (Nubank) is een digitale bank zonder fysieke kantoren.
+Nu Holdings (Nubank) is een bank die volledig digitaal werkt. 
+Je zal geen enkel fysiek kantoor vinden.
+Het bedrijf begon ooit met een gratis kredietkaart in Brazilië. 
+Daarmee wist Nubank klanten weg te lokken bij traditionele banken met hoge kosten.
+Vandaag biedt Nubank een volledig financieel pakket aan:
+Spaarrekeningen
+Persoonlijke leningen
+Beleggingen & verzekeringen. 
+Het bedrijf is actief in Brazilië, Mexico en Colombia.
+Nubank verdient geld op twee manieren:
+Rente-inkomsten (86%): Rente op kredietkaarten en persoonlijke leningen.
+Vergoedingen (14%): Commissies op kaartbetalingen en inkomsten uit premiumdiensten.
+Waarom is het een interessant bedrijf?
+Banken in Latijns-Amerika verdienen samen naar schatting 140 miljard dollar aan particuliere klanten.
+Veel markten worden nog steeds gedomineerd door inefficiënte oligopolies die hoge kosten aanrekenen.
+Nu Holdings doorbrak de macht van de vijf grote Braziliaanse banken met gratis rekeningen en aantrekkelijke spaarproducten, allemaal beheerd via een gebruiksvriendelijke app.
+Nu’s concurrentievoordelen? 
+Lage kosten en een sterk merk:
+Omdat het bedrijf geen fysieke kantoren heeft en volledig op moderne cloudtechnologie draait, kost een klant minder dan 1 dollar per maand. Traditionele banken spenderen meer dan 4 dollar.
+Maar liefst 80% tot 90% van de nieuwe klanten komt binnen via mond-tot-mondreclame. Daardoor liggen de kosten voor klantenwerving vrijwel op nul.
+Eenmaal klanten in het Nu-ecosysteem zitten, nemen ze steeds meer producten af.
+Veel groeipotentieel
+Nubank maakte enkele jaren geleden nog verlies. Vandaag is het bedrijf heel winstgevend.
+In het tweede kwartaal van 2026 boekte Nu Holdings voor het eerst in zijn geschiedenis meer dan 1 miljard dollar nettowinst in één kwartaal.
+Daarnaast breidt het bedrijf agressief uit in Mexico en Colombia, waardoor er nog veel groeipotentieel voor hen ligt.
+Als Nubank daar hetzelfde succes behaalt als in Brazilië, kan het 
 
 *[Volledige tekst beschikbaar via Substack]*
