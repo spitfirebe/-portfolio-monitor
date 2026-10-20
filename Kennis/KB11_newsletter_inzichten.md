@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 20/10/2026 | Lezing: Holdings | Slegers newsletter |
 | 18/10/2026 | De koopjes van de maand | Slegers newsletter |
 | 18/10/2026 | De koopjes van de maand | Slegers newsletter |
 | 15/10/2026 | We doen 4 transacties | Slegers newsletter |
@@ -4787,3 +4788,45 @@ Daarnaast breidt het bedrijf agressief uit in Mexico en Colombia, waardoor er no
 Als Nubank daar hetzelfde succes behaalt als in Brazilië, kan het 
 
 *[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Lezing: Holdings
+**Datum:** 20/10/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Holdings zijn een uitstekende manier om te beleggen op de beurs.
+Deze donderdag om 20u00 geven we een lezing over holdings.
+Je kan je hier inschrijven:
+Wat zijn holdings?
+Een holding is een bedrijf dat op zijn beurt andere bedrijven bezit.
+Ze verkopen zelf geen producten of bieden geen diensten aan.
+Bekende voorbeelden zijn Berkshire Hathaway (van Warren Buffett) of Sofina (van de familie Boël).
+Holdings zijn interessante beleggingen omdat je via één aandeel meteen in meerdere bedrijven tegelijk investeert.
+Met een holding ben je dus meteen goed gespreid.
+Het is zoals een ETF op steroïden omdat ze het doorgaans beter doen dan de markt in zijn geheel:
+Waarom een holdingfilosofie?
+We hebben een 15-stappenmethode om de kwaliteit van een bedrijf te beoordelen:
+Die werkt meestal uitstekend. Maar niet elk bedrijf is hetzelfde.
+Zo kan dit 15-stappenplan niet gebruikt worden voor holdings.
+Laten we er even Berkshire Hathaway bijnemen als voorbeeld.
+Warren Buffett is de beste belegger ter wereld.
+Maar als we naar de ROIC kijken zien we iets geks:
+Loyale lezers weten dat we een ROIC van minstens 15% willen.
+Berkshire Hathaway voldoet hier met andere woorden niet aan onze criteria.
+Maar het is een van de beste bedrijven ter wereld…
+… Een holding beoordelen met ons 15-stappenplan is een beetje alsof je Thibaut Courtois beoordeelt op zijn tennisspel.
+Het kán wel. Maar of je er wijzer van wordt is iets anders.
+Daarom hebben we ons eigen model ontworpen om holdings te beoordelen.
+Dit model gaan we donderdag bespreken.
+Schrijf je hier gratis in: 
+Beleggen in de beste bedrijven ter wereld
+PS Schrijf je hier in voor de gratis lezing [  ]
+Gebruikte bronnen
+Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed
+Fiscal.ai [  ]: Financiële data
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
