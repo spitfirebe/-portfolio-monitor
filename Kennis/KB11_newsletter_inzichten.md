@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 21/10/2026 | 🇧🇪 Belgische holdings | Slegers newsletter |
 | 20/10/2026 | Lezing: Holdings | Slegers newsletter |
 | 18/10/2026 | De koopjes van de maand | Slegers newsletter |
 | 18/10/2026 | De koopjes van de maand | Slegers newsletter |
@@ -4830,3 +4831,64 @@ Lynx [  ]: Maak een rekening aan en krijg €150 transactietegoed
 Fiscal.ai [  ]: Financiële data
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## 🇧🇪 Belgische holdings
+**Datum:** 21/10/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Deze donderdag geven we een gratis lezing over holdings. Je kan je hier inschrijven.  [  ]
+Holdings zijn een zeer interessante niche.
+Ze doen het op lange termijn beter dan de markt. Laten we er meteen induiken.
+Ze verdienen zeker een plekje in je portefeuille
+Lezing
+Deze donderdag om 20u00 geven we een lezing over holdings.
+Je kan je hier inschrijven:
+Wat zijn Holdings?
+Een holding is een bedrijf dat belegt in andere (niet-)beursgenoteerde bedrijven.
+Vaak produceren ze zelf geen goederen of diensten. Ze verdienen geld door te beleggen in andere bedrijven.
+Net zoals jij geld verdient door te beleggen, doet een holding dat ook.
+Het leuke is dat holdings vaak veel expertise hebben. Daarnaast laten ze jou toe om te beleggen in niet-beursgenoteerde bedrijven.
+Holdings
+Er zijn heel wat mooie holdings, ook in België.
+Er zijn twee redenen die holdings aantrekkelijk maken:
+Goede beursprestatie
+Diversificatie
+Goede beursprestatie
+Holdings doen het doorgaans zeer goed op de beurs (de gele lijn):
+Hier zijn drie oorzaken :
+Toegang tot exclusieve bedrijven via één aandeel
+Voorbeeld: Sofina mag investeren in Sequoia Capital, een extreem succesvol en exclusief venturecapitalfonds
+Holdings worden meestal geleid door uitstekende managers
+Ze denken vaak op (zeer) lange termijn
+Diversificatie
+Holdings zijn vaak goed gediversifieerd.
+Denk bijvoorbeeld maar aan LVMH.
+Het Franse bedrijf is een marktleider in de luxe-industrie met 75 merken in hun Portefeuille:
+Als je het mij vraagt verdienen holdings dus zeker een plaats in een goede aandelenportefeuille.
+De holdingmarkt ontleed
+Als belegger mag je holdings niet negeren.
+Zeker wanneer je de Belgische aandelenmarkt onder de loep neemt.
+Holdings zijn een ideale hoeksteen voor jouw Portefeuille.
+Hier is een lijst van alle Belgische holdings:
+Ackermans & van Haaren (AvH): Investeert in bouw, energie, en vastgoed
+Bois Sauvage: Investeert in voedings-, vastgoed- en industriële sectoren
+Brederode: Belegt in beursgenoteerde en private ondernemingen wereldwijd
+D’Ieteren Group: Holding actief in mobiliteit, autoglas, en meer
+Floridienne: Holding actief in chemie, voeding en biowetenschappen
+Gimv: Investeringsmaatschappij actief in groeibedrijven en innovatieve sectoren
+Groupe Bruxelles Lambert (GBL): Grootschalige investeringen in internationale bedrijven
+Quest for Growth: Investeert in Europese technologie- en life sciences-bedrijven
+Texaf: Vastgoed en industrie gericht op Congo
+TINC: Belegt in infrastructuurprojecten met stabiele en duurzame opbrengsten
+Sofina: Familiale investeerder in diverse sectoren en bedrijven
+Laten we onze favorieten kiezen uit deze lijst.
+Onze favorieten
+Ackermans & Van Haaren
+Ackermans & van Haaren (AvH) werd opgericht in 1884. De familie Ackermans en van Haaren gaan samen in zee (letterlijk) door te baggeren aan de Schelde.
+Vandaag is AvH een Belgische holding die investeert in sectoren zoals energie, vastgoed en gezondheid. Ze investeren ook in kleinere bedrijven met 
+
+*[Volledige tekst beschikbaar via Substack]*
