@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 25/10/2026 | Lessen uit de crash van FICO | Slegers newsletter |
 | 21/10/2026 | 🇧🇪 Belgische holdings | Slegers newsletter |
 | 20/10/2026 | Lezing: Holdings | Slegers newsletter |
 | 18/10/2026 | De koopjes van de maand | Slegers newsletter |
@@ -4890,5 +4891,53 @@ Onze favorieten
 Ackermans & Van Haaren
 Ackermans & van Haaren (AvH) werd opgericht in 1884. De familie Ackermans en van Haaren gaan samen in zee (letterlijk) door te baggeren aan de Schelde.
 Vandaag is AvH een Belgische holding die investeert in sectoren zoals energie, vastgoed en gezondheid. Ze investeren ook in kleinere bedrijven met 
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Lessen uit de crash van FICO
+**Datum:** 25/10/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Bij beleggen begint alles met een moat of een duurzaam concurrentievoordeel.
+Het begrijpen van het bestaan en de houdbaarheid van die moat is één van de belangrijkste vaardigheden van een succesvolle belegger.
+Laten we daarom stilstaan bij het belang van moats en tegelijk een update geven over onze portefeuille.
+Wat is een moat?
+Een moat of duurzaam concurrentievoordeel geeft een bedrijf een uitzonderlijk sterke positie.
+Daardoor kan het zijn winstmarges en marktaandeel behouden en vergroten.
+De bedrijven in onze portefeuille beschikken over sterke moats, waardoor ze jaar na jaar meer geld voor ons verdienen.
+Warren Buffett vergelijkt een bedrijf met een kasteel.
+De moat is de slotgracht rond dat kasteel.
+Het is een verzameling voordelen die het bedrijf beschermen tegen concurrenten en het voor buitenstaanders moeilijk maken om binnen te dringen.
+“Volgens Warren Buffett ligt de sleutel tot succesvol beleggen niet in het voorspellen welke sector het snelst zal groeien of de grootste impact op de samenleving zal hebben. Wat echt telt, is het concurrentievoordeel van een bedrijf en hoe duurzaam dat voordeel is. Bedrijven met een brede en moeilijk te doorbreken moat kunnen hun winstgevendheid langer beschermen en creëren op lange termijn de meeste waarde voor aandeelhouders.” - Warren Buffett
+Hoe weet je of een bedrijf een moat heeft?
+Een moat is een structureel concurrentievoordeel waarmee een bedrijf jarenlang bovengemiddelde rendementen kan behalen.
+Zo’n moat kan verschillende vormen aannemen:
+Hoge overstapkosten 
+Netwerkeffecten
+Kostenvoordelen
+Immateriële activa
+Wil je snel weten of een bedrijf een moat heeft?
+Kijk naar bedrijven met:
+Een hoge en stabiele brutomarge (>40%)
+Een hoge en stabiele ROIC (>15%)
+Als beide cijfers jarenlang sterk blijven, is dat vaak een duidelijke aanwijzing dat het bedrijf over een moat beschikt.
+Neem bijvoorbeeld Games Workshop.
+Het bedrijf verkoopt boardgames waarbij spelers met miniatuurfiguren gevechten uitvechten in fantasie- en sciencefictionwerelden.
+Games Workshop combineert een hoge en stabiele brutomarges met een uitzonderlijk hoge ROIC die jaar na jaar verder stijgt.
+Nog een kenmerk van bedrijven met een moat? Prijszettingsmacht.
+Charlie Munger zei ooit dat je in je leven slechts een handvol bedrijven tegenkomt die hun winst fors kunnen verhogen door simpelweg hun prijzen op te trekken, maar dat nog niet volledig hebben gedaan.
+Die bedrijven beschikken over een enorme hoeveelheid onbenutte prijszettingsmacht.
+Games Workshop is daar een perfect voorbeeld van. 
+Het bedrijf verhoogt zijn prijzen vrijwel elk jaar met 4% à 5%, terwijl klanten gewoon blijven kopen. 
+Ook S&P Global en See’s Candies behoren tot die zeldzame groep bedrijven met sterke prijszettingsmacht.
+En precies daarom presteren zulke ondernemingen op lange termijn vaak beter dan de markt:
+Wat als een bedrijf zijn moat verliest?
+Eén van de grootste gevaren voor een kwaliteitsbelegger?
+Wanneer een moat 
 
 *[Volledige tekst beschikbaar via Substack]*
