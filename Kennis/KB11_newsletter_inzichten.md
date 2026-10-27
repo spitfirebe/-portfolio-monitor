@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 27/10/2026 | De test van Warren Buffett | Slegers newsletter |
 | 25/10/2026 | Lessen uit de crash van FICO | Slegers newsletter |
 | 21/10/2026 | 🇧🇪 Belgische holdings | Slegers newsletter |
 | 20/10/2026 | Lezing: Holdings | Slegers newsletter |
@@ -4939,5 +4940,60 @@ En precies daarom presteren zulke ondernemingen op lange termijn vaak beter dan 
 Wat als een bedrijf zijn moat verliest?
 Eén van de grootste gevaren voor een kwaliteitsbelegger?
 Wanneer een moat 
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## De test van Warren Buffett
+**Datum:** 27/10/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Eén van mijn favoriete boeken? The Outsiders van William Thorndike.
+In dit boek analyseert hij enkele van de beste CEO’s ter wereld en ontdekt hij wat hen zo bijzonder maakt.
+Laten we bekijken hoe jij deze uitzonderlijke CEO’s kan herkennen en hoe je samen met hen kan beleggen.
+The Outsiders
+We schreven eerder al een uitgebreide samenvatting van The Outsiders van William Thorndike.
+Nog niet gelezen? Dan vind je die hier:
+De beste CEO’s vind je niet op Wall Street
+Hoe stel jij je de beste CEO’s ter wereld voor?
+Als je iemand op straat vraagt hoe de beste CEO ter wereld eruitziet, krijg je waarschijnlijk dit antwoord:
+Hij vliegt met een privéjet.
+Hij heeft een indrukwekkend kantoor op Wall Street.
+Hij beschikt over een schat aan ervaring.
+Hij heeft een sterke persoonlijkheid en veel charisma.
+Zo stellen de meeste mensen zich de ultieme CEO voor:
+De ultieme bedrijfsleider, toch?
+Denk nog eens na.
+De beste CEO ter wereld zou zomaar je buurman kunnen zijn.
+Hij is een echte familieman, gelukkig getrouwd en leeft een evenwichtig leven.
+Grote CEO’s houden van eenvoud. 
+Ze gaan zuinig om met kapitaal en dragen liever een jeans en T-shirt dan een duur designerkostuum.
+Ze hebben geen luxe nodig om indruk te maken. 
+Hun resultaten spreken voor zich. Hun focus ligt op het creëren van waarde op lange termijn voor aandeelhouders.
+Mark Leonard van Constellation Software [  ] is daar een uitstekend voorbeeld van.
+Heb je trouwens al gehoord van het aandeel Pinetree Capital (TSE: PNP)?
+Deze beursgenoteerde investeringsmaatschappij richt zich op VMS-bedrijven.
+Dat zijn kleine, specifieke softwarebedrijfjes.
+Pinetree Capital bouwt voort op de kennis en ervaring die Constellation Software de voorbije jaren heeft opgebouwd.
+Aan het roer staat Damien Leonard, de zoon van Mark Leonard.
+Of Damien dezelfde iconische baard heeft als zijn vader? Geen idee. Net als zijn vader blijft hij liever uit de schijnwerpers.
+De beste CEO’s zoeken geen aandacht. 
+Ze werken liever vanuit een eenvoudig kantoor.
+Hoe soberder het kantoor, hoe groter vaak de waardecreatie voor aandeelhouders.
+Warren Buffett is daar het perfecte voorbeeld van.
+Een leuk weetje? Warren Buffett werkt vandaag nog altijd aan het bureau van zijn vader uit de jaren vijftig.
+Opvallend genoeg vind je deze sobere kantoren vaak in kleine steden, ver weg van Wall Street.
+Daardoor denken deze CEO’s onafhankelijk, iets waar veel beleggers moeite mee hebben.
+Zoals Warren Buffett het verwoordt:
+“Het verbaast me telkens opnieuw hoe organisaties zich verzetten tegen verandering en keuzes maken die nergens op slaan, simpelweg omdat ze de kudde volgen.” - Warren Buffett
+Met andere woorden: de beste CEO’s zijn onafhankelijke denkers.
+“Je kan geen uitzonderlijke resultaten behalen door hetzelfde te doen als iedereen.” - John Templeton
+Dit is het verschil tussen een ‘doorsnee’-CEO en een echte ‘Outsider’-CEO:
+‘Outsider’-CEO’s blinken uit in het slim inzetten van kapitaal.
+Kapitaalallocat
 
 *[Volledige tekst beschikbaar via Substack]*
