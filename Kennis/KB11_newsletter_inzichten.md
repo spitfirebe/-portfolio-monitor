@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 29/10/2026 | Momentum Group koopwaardig? | Slegers newsletter |
 | 27/10/2026 | De test van Warren Buffett | Slegers newsletter |
 | 25/10/2026 | Lessen uit de crash van FICO | Slegers newsletter |
 | 21/10/2026 | 🇧🇪 Belgische holdings | Slegers newsletter |
@@ -4995,5 +4996,63 @@ Met andere woorden: de beste CEO’s zijn onafhankelijke denkers.
 Dit is het verschil tussen een ‘doorsnee’-CEO en een echte ‘Outsider’-CEO:
 ‘Outsider’-CEO’s blinken uit in het slim inzetten van kapitaal.
 Kapitaalallocat
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Momentum Group koopwaardig?
+**Datum:** 29/10/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Weet je hoe groot de kans is dat een beursgenoteerd bedrijf uitgroeit tot een 100-bagger?
+Dat is een aandeel dat x100 gaat.
+Minder dan 3%.
+En hoeveel tijd kost dat gemiddeld?
+Ongeveer 26 jaar.
+Toch slaagde één Zweedse ondernemersfamilie erin om twee 100-baggers en één 80-bagger voort te brengen.
+Nog opvallender: één van die bedrijven bereikte een rendement van 100 keer de inleg in slechts 22 jaar.
+Welk bedrijf zou het volgende kunnen zijn? Misschien wel Momentum Group AB ($OM-MMGR B).
+Het is het kleinste beursgenoteerde bedrijf van deze familie.
+Laten we deze interessante smallcap van dichterbij bekijken.
+1. Hoe verdient Momentum Group geld?
+1. Geschiedenis
+Een fantastisch verhaal van een ondergewaardeerd bedrijf? Bergman & Beving.
+Dit Zweedse bedrijf legde de basis voor wat we vandaag kennen als een “serial acquirer”.
+En dat deden ze al lang vóór bedrijven zoals Constellation Software.
+Bergman & Beving startte zijn overnamestrategie al in 1967.
+Het bedrijf begon met de overname van distributiebedrijven.
+Negen jaar later, in 1976, trok het naar de beurs.
+Sinds de beursgang werd het aandeel een 7.500-bagger.
+Met andere woorden: €1.000 groeide uit tot €7,5 miljoen.
+Onderweg paste Bergman & Beving zijn structuur meerdere keren aan.
+Dat om om de ondernemersgeest te behouden:
+Waarom werden al die afsplitsingen doorgevoerd? Om klein, wendbaar en ondernemend te blijven.
+Dat sluit aan bij wat Mark Leonard van Constellation Software vaak zegt:
+“We willen groot worden door klein te blijven.” - Mark Leonard
+In 2001 splitste Bergman & Beving zich op in drie bedrijven:
+Bergman & Beving bleef bestaan, maar ging verder onder de naam B&B Tools. Later koos het opnieuw voor de naam Bergman & Beving.
+Addtech verzelfstandigde zich in 2001.
+Lagercrantz Group trok in 2001 eveneens zijn eigen weg.
+Zowel Addtech als Lagercrantz zijn sectorspreidende overnameholdings. 
+Ze nemen bedrijven over in verschillende niches en beperken zich niet tot één sector.
+Hun portefeuille bestaat vooral uit industriële bedrijven. In software investeren ze niet.
+Laten we naar de koersgrafieken van beide spin-offs kijken.
+Addtech groeit al sinds 2001 tegen een jaarlijks tempo van meer dan 20%. Het is een 96-bagger:
+En Lagercrantz Group? Dat schreef een bijna identiek succesverhaal:
+In 2016 splitste Addtech AddLife af.
+AddLife focust meer op de medische sector. 
+Ook dat bedrijf creëerde veel waarde voor aandeelhouders:
+Is dat niet opmerkelijk?
+Al deze bedrijven uit dezelfde ondernemersfamilie presteerden veel beter dan de brede markt.
+Dat brengt ons bij Momentum Group.
+Momentum Group is de jongste telg van de indrukwekkende Bergman & Beving-familie.
+In 2017 verzelfstandigde Momentum Group zich van Bergman & Beving. 
+Later splitste het bedrijf zich opnieuw op in twee afzonderlijke ondernemingen: Alligo en Momentum Group.
+Om verwarring te vermijden: in deze analyse kijken we naar Momentum Group 2.0, de huidige versie van het bedrijf.
+Zie je door de s
 
 *[Volledige tekst beschikbaar via Substack]*
