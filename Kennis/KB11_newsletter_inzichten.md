@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 01/11/2026 | Ons boodschappenlijstje: November 2026 | Slegers newsletter |
 | 29/10/2026 | Momentum Group koopwaardig? | Slegers newsletter |
 | 27/10/2026 | De test van Warren Buffett | Slegers newsletter |
 | 25/10/2026 | Lessen uit de crash van FICO | Slegers newsletter |
@@ -5054,5 +5055,56 @@ In 2017 verzelfstandigde Momentum Group zich van Bergman & Beving.
 Later splitste het bedrijf zich opnieuw op in twee afzonderlijke ondernemingen: Alligo en Momentum Group.
 Om verwarring te vermijden: in deze analyse kijken we naar Momentum Group 2.0, de huidige versie van het bedrijf.
 Zie je door de s
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Ons boodschappenlijstje: November 2026
+**Datum:** 01/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Het is tijd om ons boodschappenlijstje bij te werken.
+Met ons boodschappenlijstje ontdek je welke aandelen volgens ons het meest interessant zijn vandaag.
+Zijn er momenteel aantrekkelijke beleggingskansen? Laten we het uitzoeken.
+Jouw brein
+Eén van de grootste beleggers aller tijden? Peter Lynch.
+Hij zei ooit het volgende over beleggen:
+“Bijna iedereen heeft de intelligentie om succesvol te beleggen. De echte uitdaging is emotioneel sterk genoeg zijn om vol te houden wanneer het moeilijk wordt.”
+Mr. Market test momenteel het geduld van beleggers
+Zet CNBC op of kijk naar de S&P 500, en alles lijkt perfect.
+De index noteert dicht bij zijn recordniveaus:
+Kijk je dieper?
+Dan krijg je een heel ander beeld.
+Het merendeel van de bedrijven in de index bevindt zich al geruime tijd in een berenmarkt:
+Omdat de S&P 500 gewogen wordt op basis van marktkapitalisatie, trekken een handvol grote technologiebedrijven de index omhoog.
+Tegelijkertijd noteren heel wat uitstekende kwaliteitsbedrijven ver onder hun recente piekkoersen.
+Het moeilijkste aan beleggen
+Psychologisch is het bijzonder moeilijk om een aandeel in je portefeuille te zien dalen terwijl de brede markt blijft stijgen.
+Je begint te twijfelen aan jezelf:
+Heb ik een fout gemaakt?
+Is de moat van dit bedrijf aangetast?
+Weet de markt iets wat ik niet weet?
+Maar hier schuilt het geheim van de beste beleggers:
+Het beste moment om een uitstekend bedrijf te kopen, is vaak wanneer het het slechtst aanvoelt.
+Wanneer prijs en realiteit uit elkaar groeien
+Op lange termijn volgen aandelenkoersen de winstgroei van een bedrijf.
+Op korte termijn worden aandelenkoersen vooral gedreven door emoties.
+Zoals Peter Lynch het treffend verwoordde:
+Op korte termijn is er vaak weinig verband tussen het succes van een bedrijf en de prestaties van het aandeel. Over langere periodes is dat verband er wel degelijk. Uiteindelijk volgt de aandelenkoers de prestaties van het bedrijf. Net daarin schuilt de kans voor beleggers: wees geduldig en investeer in succesvolle bedrijven. 
+Wanneer een aandeel daalt, moet je jezelf één vraag stellen:
+Is het bedrijf er fundamenteel op achteruitgegaan, of is de waardering gewoon aantrekkelijker geworden?
+Laten we kijken naar een interessant voorbeeld.
+Stryker ($SYK)
+Hoe verdient het bedrijf geld?
+Stryker verdient geld door medische apparatuur en hulpmiddelen te verkopen aan ziekenhuizen en chirurgen. Denk daarbij aan implantaten zoals heup- en knieprotheses. Daarnaast verkoopt het bedrijf ook chirurgische instrumenten, ziekenhuisbedden, noodapparatuur en andere medische oplossingen…
+Stryker is een fantastisch, saai bedrijf.
+Het is een wereldleider in medische technologie.
+Het bedrijf is gespecialiseerd in orthopedische implantaten en chirurgische apparatuur.
+Mensen hebben nog altijd nieuwe heupen, knieën en chirurgische ingrepen nodig, ongeacht de economie, de rente of de laatste ontwikkelingen in AI.
+Toch staat het aandeel van Stryker vandaag meer dan
 
 *[Volledige tekst beschikbaar via Substack]*
