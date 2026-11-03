@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 03/11/2026 | Drie interessante aandelen | Slegers newsletter |
 | 01/11/2026 | Ons boodschappenlijstje: November 2026 | Slegers newsletter |
 | 29/10/2026 | Momentum Group koopwaardig? | Slegers newsletter |
 | 27/10/2026 | De test van Warren Buffett | Slegers newsletter |
@@ -5106,5 +5107,62 @@ Het is een wereldleider in medische technologie.
 Het bedrijf is gespecialiseerd in orthopedische implantaten en chirurgische apparatuur.
 Mensen hebben nog altijd nieuwe heupen, knieën en chirurgische ingrepen nodig, ongeacht de economie, de rente of de laatste ontwikkelingen in AI.
 Toch staat het aandeel van Stryker vandaag meer dan
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Drie interessante aandelen
+**Datum:** 03/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Enkele van de beste kwaliteitsbeleggers ter wereld? Akre Capital Management.
+De voorbije 15 jaar behaalden zij een gemiddeld jaarlijks rendement van 12,4%.
+Recent kregen we de kans om in gesprek te gaan met de beleggers achter Akre Capital Management:
+John Neff
+Andrew Millette
+Trey Tickner
+Laten we hun belangrijkste inzichten delen.
+Het beroemde “Three-Legged Stool-model”
+Akre Capital Management staat bekend om zijn “Three-Legged Stool-model”.
+Het vormt de basis van hun beleggingsfilosofie.
+De drie pijlers zijn:
+Een uitzonderlijk bedrijf
+Een sterk managementteam
+Veel herinvesteringsmogelijkheden
+1. Een uitzonderlijk bedrijf
+Dit is de basis van de filosofie van Akre:
+💡
+“De essentie van beleggen is rendement op kapitaal.”
+Soms hoeft beleggen niet ingewikkeld te zijn. Zo eenvoudig kan het zijn.
+Wil je als belegger een hoog rendement behalen? Investeer dan in bedrijven die zelf hoge rendementen op kapitaal realiseren.
+Dat idee sluit perfect aan bij Buffett en Munger.
+Zij benadrukken dat het bijzonder moeilijk is om als aandeelhouder uitstekende resultaten te behalen in een bedrijf dat zelf slechte rendementen op zijn kapitaal genereert.
+Daarom kijkt Akre vooral naar het rendement op eigen vermogen (ROE) en het rendement op het totale geïnvesteerde kapitaal (ROIC).
+Dit zijn de belangrijkste maatstaven volgens Akre:
+Rendement op eigen vermogen = Free Cash Flow / Eigen vermogen
+Rendement op het totale kapitaal = Free Cash Flow / Totaal geïnvesteerd kapitaal
+2. Een sterk managementteam
+De tweede pijler is een sterk managementteam.
+Dat is meteen ook de moeilijkste pijler om te beoordelen.
+Daarom gebruikt Akre een eenvoudige, maar doeltreffende test.
+Hoe vaker je de termen ‘per aandeel’ of ‘EPS’ tegenkomt, hoe enthousiaster je mag worden.
+Groei betekent op zich weinig wanneer een bedrijf voortdurend nieuwe aandelen uitgeeft.
+Als aandeelhouder telt uiteindelijk maar één ding: groei per aandeel.
+Je kunt dit eenvoudig zelf controleren.
+Open een jaarverslag of het transcript van een earningscall en zoek met Ctrl+F naar ‘per aandeel’ of ‘EPS’.
+Vind je veel resultaten? Dan is de kans groot dat het management veel aandacht heeft voor aandeelhouderswaarde.
+Vind je nauwelijks of geen resultaten? Dan staat waardecreatie per aandeel mogelijk minder hoog op de agenda.
+Neem bijvoorbeeld de aandeelhoudersbrief van 2024 van Prem Watsa (Fairfax).
+Zoek je daarin op ‘per aandeel’, dan krijg je maar liefst 40 treffers.
+Dat is vaak een teken dat het management de belangen van aandeelhouders vooropstelt.
+Het toont aan dat Prem Watsa veel aandacht besteedt aan de waardecreatie voor zijn aandeelhouders.
+3. Veel herinvesteringsmogelijkheden
+Het management kan op verschillende manieren kapitaal ophalen: via schulden, nieuwe aandelen, interne cashflow of de verkoop van activa.
+Dat kapitaal kan vervolgens worden ingezet voor overnames, aandeleninkopen, dividenden, groei-investeringen of schuldafbouw.
+De keuze waar een bedrijf zijn kapitaa
 
 *[Volledige tekst beschikbaar via Substack]*
