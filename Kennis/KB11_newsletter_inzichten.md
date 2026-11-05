@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 05/11/2026 | Ons boodschappenlijsstje | Slegers newsletter |
 | 03/11/2026 | Drie interessante aandelen | Slegers newsletter |
 | 01/11/2026 | Ons boodschappenlijstje: November 2026 | Slegers newsletter |
 | 29/10/2026 | Momentum Group koopwaardig? | Slegers newsletter |
@@ -5164,5 +5165,60 @@ Het toont aan dat Prem Watsa veel aandacht besteedt aan de waardecreatie voor zi
 Het management kan op verschillende manieren kapitaal ophalen: via schulden, nieuwe aandelen, interne cashflow of de verkoop van activa.
 Dat kapitaal kan vervolgens worden ingezet voor overnames, aandeleninkopen, dividenden, groei-investeringen of schuldafbouw.
 De keuze waar een bedrijf zijn kapitaa
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Ons boodschappenlijsstje
+**Datum:** 05/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Ben jij klaar voor G-Day? Maak kennis met de man die lezers van Compounding Quality net $300.000 liet winnen… Hoe? Hij koos 6 groeiaandelen die allemaal meer dan verdubbelden… Ontdek hier alles wat je moet weten. [  ]
+Zoals elke maand krijg je een update over onze Best Buys van de maand.
+Wat gebeurt er op de beurs? En wat zijn onze favoriete aandelen?
+Laat je vandaag inspireren.
+Oktober 2026
+Vorige maand zakte de S&P 500 met -1,8%:
+Beleggers zijn vandaag ‘angstig’ volgens de Fear & Greed Index [  ]:
+Kwaliteitsaandelen beleefden intussen één van hun beste maanden ooit.
+De kloof op de beurs is op dit moment opvallend groot.
+Donald Trump ‘verloor’ de midterms (de tussentijdse verkiezingen in Amerika), en daardoor werd die kloof nog groter.
+Kijk maar eens naar enkele van onze aandelen:
+Fairfax Financial: +26,1% in de voorbije maand
+Brookfield Corporation: +16,1% in de voorbije maand
+Beste & slechtste prestaties
+Dit overzicht toont je de beste en slechtste aandelen in ons belegbaar universum.
+Achterblijvers
+Hoe goedkoper we topbedrijven kunnen kopen, hoe beter.
+Dit zijn de slechtste aandelen van de voorbije maand:
+Fair Isaac ($FICO) heeft het nog altijd heel moeilijk.
+Het bedrijf verliest zijn monopolie en de beurs straft het aandeel daar zwaar voor.
+Alphabet ($GOOG) wordt interessant als je het mij vraagt.
+Koplopers
+Deze aandelen deden het goed in de voorbije maand:
+Qualys doet het fantastisch.
+Het aandeel steeg met +142% in de voorbije 6 maanden.
+🏦 In de kijker: Adyen ($ADYEN.AS)
+Hoe verdient het bedrijf geld?
+Adyen verwerkt betalingen tussen winkels, kaartmaatschappijen en banken. Dat doet het via één platform. Bij elke betaling neemt Adyen een klein percentage of een vast bedrag.
+Vroeger was een betaling verwerken een rommelig kluwen van tussenpersonen, risicobeheerders en lokale banken.
+Adyen verving dat allemaal door één platform.
+Dat platform regelt de hele betaling, van de kassa tot het geld op de rekening, overal ter wereld.
+Adyen verdient op twee manieren geld:
+Afrekenkosten: Een klein percentage van het totale bedrag van de betaling.
+Verwerkingskosten: Een vast bedrag voor elke betaling die door hun systeem gaat.
+Waarom is het een interessant bedrijf?
+De slotgracht (het concurrentievoordeel) van Adyen is zijn eigen, eengemaakte technologie.
+Concurrenten groeiden door andere bedrijven over te nemen. Daardoor draaien ze op een lappendeken van verouderde software.
+Adyen bouwde zijn hele betaalsysteem zelf.
+Maar onlangs deed het bedrijf zijn eerste twee overnames:
+Talon.One: een platform voor klantenkaarten en promoties
+Orb: een factuursysteem voor grote bedrijven dat werkt met artificiële intelligentie (AI).
+Het doel? Adyen omtoveren van een betaalverwerker tot een volledig handelsplatform.
+Met facturatie en klantenbinding erbij kunnen winkels hun betalingen, omzet, facturen en klantenkaarten beheren in één systeem.
+Dat maakt het voor klanten nog moeilijker om over te stappen naar een concurrent. En die overstapk
 
 *[Volledige tekst beschikbaar via Substack]*
