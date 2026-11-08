@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 08/11/2026 | 3 Nieuwe aankopen | Slegers newsletter |
 | 05/11/2026 | Ons boodschappenlijsstje | Slegers newsletter |
 | 03/11/2026 | Drie interessante aandelen | Slegers newsletter |
 | 01/11/2026 | Ons boodschappenlijstje: November 2026 | Slegers newsletter |
@@ -5220,5 +5221,64 @@ Orb: een factuursysteem voor grote bedrijven dat werkt met artificiële intellig
 Het doel? Adyen omtoveren van een betaalverwerker tot een volledig handelsplatform.
 Met facturatie en klantenbinding erbij kunnen winkels hun betalingen, omzet, facturen en klantenkaarten beheren in één systeem.
 Dat maakt het voor klanten nog moeilijker om over te stappen naar een concurrent. En die overstapk
+
+*[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## 3 Nieuwe aankopen
+**Datum:** 08/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Ik hoop dat het goed met je gaat.
+Vandaag is het tijd voor enkele toevoegingen aan onze portefeuille.
+We zullen meer aandelen kopen van drie bedrijven.
+Het doel is om extra te beleggen in topbedrijven, zodat het verwachte rendement van onze volledige portefeuille stijgt.
+Sterk rendement van kwaliteitsbedrijven
+Zoals mijn vriend Kris [  ] met me deelde, presteerden waardeaandelen in oktober 10% beter dan groeiaandelen:
+Kwaliteitsaandelen deden het recent uitstekend.
+Een vergelijking van de Akre Focus ETF met de S&P 500 en de Nasdaq toont dat duidelijk aan (rendement in oktober):
+Akre Focus ETF: +10,6%
+S&P 500: -1,1%
+Nasdaq: -6,9%
+Onze portefeuille liet een gelijkaardige evolutie zien.
+Fairfax Financial: +24.7%
+S&P Global: +23.0%
+Visa: +17.7%
+…
+Die trend zien we vandaag duidelijk terug in onze portefeuille:
+Wordt de markt euforisch over AI? Dan dalen onze aandelen.
+Wordt de markt voorzichtiger over AI? Dan stijgen onze aandelen.
+Ik verwacht dat dit patroon zich zal blijven herhalen. 
+Daarom is onze portefeuille goed gepositioneerd om de markt de komende jaren te outperformen.
+Verwachtingen voor onze portefeuille
+Onze portefeuille heeft momenteel een verwacht rendement. van 14,9% per jaar.
+Als we naar de portefeuille kijken, zien we dat vooral de verzekeraars (Brown & Brown en Kinsale Capital) nog een lager verwacht rendement hebben.
+Dat komt omdat we ons momenteel in een soft market bevinden. 
+Met andere woorden: de verzekeringsmarkt is vandaag uitdagender (door de toenemende concurrentie).
+Toch blijven we overtuigd van de langetermijnvooruitzichten van beide bedrijven. 
+Het doel van Kinsale Capital blijft bijvoorbeeld om de komende jaren met 10% tot 15% per jaar te groeien.
+Ook het verwachte rendement van Games Workshop ligt aan de lagere kant.
+Persoonlijk maak ik me weinig zorgen over de toekomst van Games Workshop. 
+Het is een saai bedrijf dat positief blijft verrassen.
+Aan dit rendement zou je je investering ongeveer elke vijf jaar verdubbelen.
+Vandaag kopen we extra aandelen van drie bedrijven in onze portefeuille.
+3I Group
+Hoe verdient het bedrijf geld?
+3i Group is actief in private equity.
+Het bedrijf investeert in ondernemingen, helpt ze groeien en probeert die investeringen uiteindelijk met winst te verkopen.
+Waarom breiden we uit?
+3i Group is een fantastisch bedrijf met een uitstekend managementteam. 
+Het management heeft een sterk trackrecord in het verhogen van de intrinsieke waarde (NAV) van het bedrijf. 
+Wij vinden dat 3i Group een groter plaats in onze portefeuille verdient dan vandaag het geval is. 
+Ook vandaag biedt 3i Group een aantrekkelijke opportuniteit.
+Het aandeel noteert rond £26.
+De intrinsieke waarde per aandeel bedraagt £31,31. 
+Daardoor kopen beleggers vandaag aan een korting van ongeveer 17% op de NAV.
+Ook het management deelt die mening. 
+Het bedrijf heeft al voor £344 miljoen aan eigen aandelen ingekocht, terwijl er toestemming is om voor maximaal £750 miljoen aandelen teru
 
 *[Volledige tekst beschikbaar via Substack]*
