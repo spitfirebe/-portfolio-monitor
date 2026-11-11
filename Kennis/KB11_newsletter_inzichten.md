@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 11/11/2026 | Wat de nieuwe rijken anders doen | Slegers newsletter |
 | 08/11/2026 | 3 Nieuwe aankopen | Slegers newsletter |
 | 05/11/2026 | Ons boodschappenlijsstje | Slegers newsletter |
 | 03/11/2026 | Drie interessante aandelen | Slegers newsletter |
@@ -5282,3 +5283,52 @@ Ook het management deelt die mening.
 Het bedrijf heeft al voor £344 miljoen aan eigen aandelen ingekocht, terwijl er toestemming is om voor maximaal £750 miljoen aandelen teru
 
 *[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Wat de nieuwe rijken anders doen
+**Datum:** 11/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋,
+We bevinden ons in een nieuw tijdperk van vermogensopbouw.
+Beleggingen waarop je vroeger kon vertrouwen, zullen teleurstellen.
+Maar wat als je in de voetsporen treedt van de leerlingen van Warren Buffett [  ]?
+Eén investering met een beperkt risico zou je op lange termijn een uitzonderlijk rendement kunnen opleveren.
+Dit is waarom...
+Misschien herinner je je nog hoe slimme beleggers rijk werden in 1999.
+Dotcomaandelen stortten in, maar sommige mensen werden 100 keer rijker.
+Hoe?
+Door te investeren in “lelijke” winstmachines.
+Een goed voorbeeld is Amazon.
+De media vonden het destijds een domme zet.
+Maar Jeff Bezos vond een manier om beleggers rijk te maken.
+(Op dezelfde manier waarop één bedrijf jou binnenkort een fortuin zou kunnen opleveren.)
+De belangrijkste strategie die Bezos gebruikte?
+Heel eenvoudig 👇
+Je wil eigenaar zijn van de infrastructuur die iedereen nodig heeft om te kunnen functioneren.
+Denk aan een wereldwijd netwerk van magazijnen, vrachtwagens, servers en meer.
+Met andere woorden: je domineert dankzij fysieke activa die moeilijk te kopiëren zijn.
+Bij de AI-goudkoorts zien we hetzelfde verhaal bij één bedrijf.
+Het controleert vrijwel de ruggengraat van de wereldeconomie.
+En het is zelfs winstgevender dan grote winnaars zoals Amazon.
+Een investering van €10.000 groeit in 30 jaar uit tot €1,8 miljoen.
+Dat is €400.000 meer winst dan Amazon heeft opgeleverd.
+Niet slecht, maar de volgende winstgolf zou nog veel groter kunnen zijn.
+Dit is waarom:
+Stel je voor dat het verkeer door jouw “tolpoorten” verdrievoudigt.
+Wie zou daar rijk van worden?
+Natuurlijk, jij en je medebeleggers.
+Dat is precies het geval bij dit bedrijf.
+Klik hier om het volledige verhaal te ontdekken en te investeren vóór de grote winstgolf op gang komt. [  ]
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS: Drie interessante feiten over dit aandeel:
+Het bouwt vermogen op tegen een tempo van bijna 20% per jaar. [  ]
+Grote indexfondsen kunnen pas investeren na 24 december [  ]  [  ](maar jij kan dat wel eerder).
+Als het management 10% van de uitstaande aandelen intrekt, zou dat een aanzienlijk positief effect kunnen hebben op de waarde per aandeel.
+Ontdek hier het volledige verhaal en krijg toegang tot mijn portefeuille van  [  ]€2,0 miljoen [  ]. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
