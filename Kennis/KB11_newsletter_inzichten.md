@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 12/11/2026 | Waarom belegt deze miljardair in dit bedrijf? | Slegers newsletter |
 | 11/11/2026 | Wat de nieuwe rijken anders doen | Slegers newsletter |
 | 08/11/2026 | 3 Nieuwe aankopen | Slegers newsletter |
 | 05/11/2026 | Ons boodschappenlijsstje | Slegers newsletter |
@@ -5330,5 +5331,49 @@ Het bouwt vermogen op tegen een tempo van bijna 20% per jaar. [  ]
 Grote indexfondsen kunnen pas investeren na 24 december [  ]  [  ](maar jij kan dat wel eerder).
 Als het management 10% van de uitstaande aandelen intrekt, zou dat een aanzienlijk positief effect kunnen hebben op de waarde per aandeel.
 Ontdek hier het volledige verhaal en krijg toegang tot mijn portefeuille van  [  ]€2,0 miljoen [  ]. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Waarom belegt deze miljardair in dit bedrijf?
+**Datum:** 12/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋,
+Als belegger heb je meestal twee opties:
+Beleggen in populaire bedrijven die relatief eenvoudig te kopiëren zijn.
+Beleggen in winstmachines die vrijwel ONMOGELIJK te kopiëren zijn.
+Mijn ervaring leert dat optie #2 je op lange termijn veel rijker kan maken.
+Kijk bijvoorbeeld naar een recente investering van  [  ]de miljardair Ray Dalio. [  ]
+Hij is de oprichter van ‘s werelds grootste hedgefonds: Bridgewater Associates.
+En volgens hem kan één bedrijf in het komende decennium nog veel meer waard worden.
+Waarom?
+Door zijn unieke strategische positie.
+Dit bedrijf heeft een unieke positie in misschien wel de meest winstgevende markt van de komende jaren.
+Ik heb het over de markt voor schaarser wordende fysieke activa.
+Zaken die jij en je favoriete technologiebedrijven nodig hebben om te kunnen functioneren.
+Denk aan zaken zoals: 
+Kapitaal
+Energie
+Elektriciteit
+Water
+Datacenters
+Telecommunicatietorens
+En nog veel meer.
+Wie betaalt jaarlijks tientallen miljarden euro’s om deze activa te gebruiken?
+De bedrijven achter de apps en software die je elke dag gebruikt.
+Wat is de gemiddelde looptijd van de contracten die dit bedrijf afsluit?
+Tot wel 20 jaar gegarandeerde inkomsten.
+Voor beleggers is dat bijzonder interessant.
+Het betekent dat je zowel in goede als in moeilijke economische tijden kunt profiteren van terugkerende inkomsten.
+Maar dat is niet de enige reden waarom steeds meer professionele beleggers vandaag instappen.
+Ontdek hier hoe drie krachtige trends dit aandeel de komende jaren verder kunnen ondersteunen. [  ]
+Beleggen in de beste bedrijven ter wereld
+Pieter Slegers
+PS: Grote indexfondsen kunnen dit aandeel pas kopen zodra de wettelijke beperkingen aflopen op 24 december 2026 [  ]. Als particuliere belegger heb jij die beperking niet.
+Ontdek hoe je vandaag kan investeren aan een waardering die volgens het management 50% onder de intrinsieke waarde ligt. [  ]
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
