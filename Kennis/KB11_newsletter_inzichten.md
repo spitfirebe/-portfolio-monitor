@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 13/11/2026 | De belegger die tegen de stroom inging na 9/11 | Slegers newsletter |
 | 12/11/2026 | Waarom belegt deze miljardair in dit bedrijf? | Slegers newsletter |
 | 11/11/2026 | Wat de nieuwe rijken anders doen | Slegers newsletter |
 | 08/11/2026 | 3 Nieuwe aankopen | Slegers newsletter |
@@ -5375,5 +5376,49 @@ Beleggen in de beste bedrijven ter wereld
 Pieter Slegers
 PS: Grote indexfondsen kunnen dit aandeel pas kopen zodra de wettelijke beperkingen aflopen op 24 december 2026 [  ]. Als particuliere belegger heb jij die beperking niet.
 Ontdek hoe je vandaag kan investeren aan een waardering die volgens het management 50% onder de intrinsieke waarde ligt. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## De belegger die tegen de stroom inging na 9/11
+**Datum:** 13/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Na 9/11 gaven veel CEO’s de moed op.
+Maar één kapitaalallocator keek verder dan de chaos van dat moment.
+En zijn bedrijf zou aandeelhouders de komende jaren rijkelijk belonen.
+Laten we kijken waarom…
+Na 9/11 zette deze CEO alles op alles om zijn bedrijf opnieuw op te bouwen.
+Vandaag behoren zijn “huurders” tot:
+De rijkste landen ter wereld
+De grootste technologiebedrijven ter wereld
+AI-bedrijven achter de meest gebruikte toepassingen
+Hoe verdient zijn bedrijf geld?
+Door eigenaar te zijn van de netwerken die de wereldeconomie verbinden.
+Denk aan zaken zoals het internet.
+Maar in totaal is de eindmarkt 5x groter. 
+Wat heeft een modern bedrijf nodig om succesvol te zijn?
+Kapitaal, energie, elektriciteit, datacenters, toeleveringsketens, ...
+Zoals je weet worden deze activa steeds duurder.
+Maar dit bedrijf maakt het voor klanten eenvoudig om toegang te krijgen tot wat ze nodig hebben.
+Daarom gaan veel klanten samenwerkingen aan van 10 jaar of langer.
+Het aandeel heeft van elke €10.000 ongeveer €1,8 miljoen gemaakt. [  ]
+Maar de volgende groeigolf zou voor nog grotere rendementen kunnen zorgen.
+Waarom?
+Drie krachtige groeikatalysatoren
+De eerste is de groeiende behoefte van technologiebedrijven.
+De vraag naar elektriciteit vanuit hun datacenters staat op het punt te verdubbelen.
+En wat gebeurt er als bijna elke technologiereus afhankelijk is van jouw energievoorziening?
+Een stijging van de vraag met 100% kan zorgen voor aanzienlijk hogere inkomsten.
+Mogelijk is dat één van de redenen waarom een bekende miljardair besloot in dit aandeel te beleggen.
+Maar de stijgende vraag naar energie is nog maar het begin.
+Twee andere groeikatalysatoren zouden de winstgroei de komende jaren verder kunnen ondersteunen.
+Ontdek hier het volledige verhaal en krijg toegang tot mijn portefeuille van €2,0 miljoen. [  ]
+Everything in Life Compounds
+Pieter Slegers
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
