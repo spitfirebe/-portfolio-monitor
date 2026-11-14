@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 14/11/2026 | Nog nooit verloren | Slegers newsletter |
 | 13/11/2026 | De belegger die tegen de stroom inging na 9/11 | Slegers newsletter |
 | 12/11/2026 | Waarom belegt deze miljardair in dit bedrijf? | Slegers newsletter |
 | 11/11/2026 | Wat de nieuwe rijken anders doen | Slegers newsletter |
@@ -5420,5 +5421,40 @@ Twee andere groeikatalysatoren zouden de winstgroei de komende jaren verder kunn
 Ontdek hier het volledige verhaal en krijg toegang tot mijn portefeuille van €2,0 miljoen. [  ]
 Everything in Life Compounds
 Pieter Slegers
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Nog nooit verloren
+**Datum:** 14/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Je houdt er niet van om geld te verliezen?
+Ik ook niet.
+Daarom geef ik de voorkeur aan bedrijven die in elke marktcyclus kunnen floreren.
+Neem bijvoorbeeld een bedrijf dat eigenaar is van ondergrondse elektriciteitskabels, zoals... 👇
+Het bedrijf produceert zelf geen chips en ontwikkelt ook geen software.
+Toch ontvangt het elk jaar forse vergoedingen van zeven technologiereuzen.
+Waarom?
+Zonder zijn infrastructuur zouden veel van de apps die je dagelijks gebruikt niet werken.
+Zo belangrijk is dit bedrijf.
+En het gaat verder dan alleen Big Tech.
+Miljoenen klanten maken elke dag gebruik van zijn “tolpoorten”.
+Maar dat is nog niet alles.
+Drie interessante feiten over dit bedrijf:
+• Het heeft nog nooit een verliesjaar gekend.
+• Het groeit tegen bijna 20% per jaar.
+• Het management zou binnen de komende 12 maanden tot 10% van de uitstaande aandelen kunnen intrekken.
+Dit gebeurt niet vaak.
+Maar wanneer een bedrijf van wereldklasse zo’n kans krijgt?
+Dan kan het rendement bijzonder sterk zijn voor beleggers die er vroeg bij zijn.
+Ontdek hoe je kan investeren voordat indexfondsen toestemming krijgen om het aandeel op te nemen. [  ]
+Everything in Life Compounds
+Pieter Slegers
+PS: Een bekende miljardair maakte recent een uitzondering op zijn eigen beleggingsregels om in dit bijzondere aandeel te investeren. Ontdek hier waarom ook verschillende beleggers uit de kring rond Warren Buffett stilletjes zijn ingestapt. [  ]
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
