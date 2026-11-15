@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 15/11/2026 | Wanneer Trump je een cheque schrijft | Slegers newsletter |
 | 14/11/2026 | Nog nooit verloren | Slegers newsletter |
 | 13/11/2026 | De belegger die tegen de stroom inging na 9/11 | Slegers newsletter |
 | 12/11/2026 | Waarom belegt deze miljardair in dit bedrijf? | Slegers newsletter |
@@ -5456,5 +5457,47 @@ Ontdek hoe je kan investeren voordat indexfondsen toestemming krijgen om het aan
 Everything in Life Compounds
 Pieter Slegers
 PS: Een bekende miljardair maakte recent een uitzondering op zijn eigen beleggingsregels om in dit bijzondere aandeel te investeren. Ontdek hier waarom ook verschillende beleggers uit de kring rond Warren Buffett stilletjes zijn ingestapt. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Wanneer Trump je een cheque schrijft
+**Datum:** 15/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Waarom schreef president Trump dit bedrijf een cheque van miljarden euro’s uit?
+Het bedrijf bezit energie-infrastructuur die de Verenigde Staten nog honderd jaar van stroom zou kunnen voorzien.
+Maar het gaat niet alleen om de Verenigde Staten.
+Ook zes van de rijkste landen ter wereld werken samen met dit bedrijf.
+Daaronder bevindt zich Noorwegen, eigenaar van ‘s werelds grootste staatsinvesteringsfonds.
+Waarom krijgt dit bedrijf zoveel aandacht?
+Omdat het toegang biedt tot betrouwbare en ononderbroken energievoorziening.
+Dat is mogelijk één van de meest interessante markten van het komende decennium.
+En dit bedrijf beschikt over sterke troeven.
+Het keert elk jaar ongeveer €6 miljard uit aan beleggers zoals jij en ik.
+Dat komt neer op ongeveer €1,3 winst per aandeel.
+Maar wat als de energievraag van zijn grootste klanten de komende jaren verdrievoudigt?
+Dan kunnen ook de opbrengsten voor jou als belegger aanzienlijk toenemen.
+Hoe groot dat potentieel is?
+Neem nu datacenters.
+Momenteel verwerken AI-datacenters dagelijks ongeveer 4 miljard zoekopdrachten en vragen.
+Daarvoor is vandaag al een enorme hoeveelheid betrouwbare elektriciteit nodig.
+(En die huidige vraag is nu al bijzonder gunstig voor dit bedrijf.)
+Maar wat gebeurt er wanneer steeds meer mensen AI dagelijks beginnen te gebruiken?
+Volgens Goldman Sachs zou het dagelijkse gebruik van AI de komende jaren 24 keer hoger kunnen liggen dan vandaag.
+Dat betekent een sterk stijgende vraag naar elektriciteit in het komende decennium.
+En volgens deze redenering behoort dit bedrijf tot de grootste mogelijke begunstigden van die trend.
+Maar elektriciteit is vandaag slechts één van de drie belangrijkste winstmotoren van het bedrijf.
+Ontdek welke voordelen dit aandeel op korte én lange termijn kan bieden voor aandeelhouders. [  ]
+Beleggen in de beste bedrijven ter wereld
+Pieter Slegers
+PS: Tijdens elke goudkoorts worden de grootste vermogens vaak opgebouwd door beleggers die eigenaar zijn van de essentiële infrastructuur. [  ]
+Wie controle heeft over kritieke grondstoffen, netwerken en infrastructuur, profiteert meestal het meest.
+Hetzelfde principe zien we terug bij deze uitzonderlijke compounder.
+Ontdek hoe je aandelen kan kopen met 50% korting voordat indexfondsen beginnen te kopen. [  ]
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
