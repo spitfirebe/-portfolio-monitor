@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 16/11/2026 | Een boost op je rendement? | Slegers newsletter |
 | 15/11/2026 | Wanneer Trump je een cheque schrijft | Slegers newsletter |
 | 14/11/2026 | Nog nooit verloren | Slegers newsletter |
 | 13/11/2026 | De belegger die tegen de stroom inging na 9/11 | Slegers newsletter |
@@ -5501,3 +5502,67 @@ Hetzelfde principe zien we terug bij deze uitzonderlijke compounder.
 Ontdek hoe je aandelen kan kopen met 50% korting voordat indexfondsen beginnen te kopen. [  ]
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Een boost op je rendement?
+**Datum:** 16/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Let op kwaliteitsbedrijven die het volgende doen:
+Ze kopen op 12 maanden tijd minstens 10% van hun aandelen in.
+Waarom?
+Omdat je uitzonderlijke rendementen kan behalen als je er vroeg bij bent.
+Op dit moment biedt één bedrijf precies die kans.
+Al 30 jaar lang groeit dit bedrijf met gemiddeld 19% per jaar.
+Dat volstond om een belegging van €10.000 te laten uitgroeien tot €1,8 miljoen.
+Dat is indrukwekkend.
+Maar als het management zijn plannen uitvoert...
+En binnen de komende 12 maanden 10% van zijn uitstaande aandelen inkoopt?
+Dan kunnen de jaarlijkse rendementen nog hoger uitvallen.
+Hoeveel hoger?
+Dat kan niemand met zekerheid voorspellen.
+Maar we weten wel wat er kan gebeuren wanneer een bedrijf op grote schaal eigen aandelen inkoopt.
+AutoZone (AZO) behaalde in 15 jaar tijd een rendement van +1.900%.
+Builders FirstSource (BLDR) ging in vier jaar tijd bijna x20.
+Murphy USA groeide in 11 jaar tijd uit tot een 14-bagger voor beleggers.
+Er zijn nog meer voorbeelden, maar het patroon is duidelijk.
+Goed getimede en agressieve aandeleninkopen kunnen een enorme impact hebben op jouw rendement.
+Dat is mogelijk ook wat beleggers te wachten staat bij het bedrijf waarover ik je vertelde.
+Maar in dit geval zou het potentieel zelfs groter kunnen zijn dan gebruikelijk.
+Waarom? Omdat grote indexfondsen vandaag nog geen aandelen kunnen kopen.
+Ze moeten wachten tot het bedrijf bepaalde beperkingen heeft opgeheven.
+Op basis van de brieven van de CEO is mijn vroegste inschatting 24 december.
+Dat kan iets vroeger of later worden, maar zodra de herstructurering is afgerond?
+De media zullen het nieuws naar buiten brengen, en dan begint de stormloop
+Het goede nieuws?
+Je kan aandelen kopen met 50% korting vóór die historische dag.
+Hoe is dat mogelijk?
+Ik heb al mijn bevindingen samengebracht in een nieuw onderzoeksrapport [  ].
+Daarin ontdek je alles wat je over dit bedrijf moet weten.
+Ook waarom het aandeel beleggers in het komende decennium mogelijk 10 keer rijker zou kunnen maken.
+Dit rapport is niet te koop.
+Maar je krijgt het gratis wanneer je De Kwaliteitsbelegger uitprobeert.
+Dit is mijn belangrijkste onderzoeksdienst en het doel is eenvoudig:
+Vermogen opbouwen met aandelen van hoge kwaliteit.
+Vandaag bezitten we 18 aandelen, waaronder recente winnaars zoals:
+• Medpace (+150%).
+• Games Workshop (+3.500%).
+• …
+Bovendien:
+Al mijn belegbaar vermogen zit in deze portefeuille.
+Je mag er dus van uitgaan dat ik mijn onderzoek zeer grondig voer.
+Je investering vandaag?
+Normaal kost toegang tot De Kwaliteitsbelegger ongeveer €1.200 per jaar.
+Veel van onze leden vinden dat een uitstekende deal.
+Maar als je je vóór morgen middernacht aansluit?
+Dan krijg je een forse korting, inclusief alles wat je hier ziet:
+📚 Speciaal rapport: “The Mother of All AI Landlords”
+📈 Onbeperkte toegang tot mijn privéportefeuille van €2,0 miljoen.
+🔎 Volledige beleggingsanalyses van interessante nieuwe bedrijven.
+📚 Exclusieve Bonus #1 : “Tweede beursga
+
+*[Volledige tekst beschikbaar via Substack]*
