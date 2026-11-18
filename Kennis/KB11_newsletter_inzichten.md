@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 18/11/2026 | Koop deze beursgang vóór middernacht | Slegers newsletter |
 | 16/11/2026 | Een boost op je rendement? | Slegers newsletter |
 | 15/11/2026 | Wanneer Trump je een cheque schrijft | Slegers newsletter |
 | 14/11/2026 | Nog nooit verloren | Slegers newsletter |
@@ -5566,3 +5567,42 @@ Dan krijg je een forse korting, inclusief alles wat je hier ziet:
 📚 Exclusieve Bonus #1 : “Tweede beursga
 
 *[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Koop deze beursgang vóór middernacht
+**Datum:** 18/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+De brief van de CEO bevestigt dat we er erg dichtbij zijn.
+Een bijzondere “IPO” zou al vanaf 24 december mogelijk zijn.
+De grootste indexfondsen ter wereld kunnen vandaag nog niet beleggen, maar jij en ik?
+Wij kunnen aandelen kopen met 50% korting.
+Dat voordat een stortvloed aan nieuwe kopers de koers potentieel hoger duwt.
+Hoe is dat mogelijk?
+Ik heb alles wat je moet weten samengebracht in een gratis onderzoeksrapport.
+Je krijgt er toegang toe via een risicoloze proefperiode van De Kwaliteitsbelegger.
+Dit krijg je wanneer je je vandaag nog aansluit vóór middernacht:
+📚 Speciaal rapport: “The Mother of All AI Landlords”
+📈 Onbeperkte toegang tot mijn privéportefeuille van €2,0 miljoen.
+🔎 Volledige beleggingsanalyses van interessante nieuwe bedrijven.
+📚 Exclusieve Bonus #1 : “Tweede beursgang”: Hoe je kan profiteren wanneer grote indexfondsen toestemming krijgen om winstgevende aandelen te kopen.
+📚 Exclusieve Bonus #2: Verdubbel je inkomsten met de beste dividendgroeiers waar je waarschijnlijk nog nooit van hebt gehoord.
+📚 Exclusieve Bonus #3: Private Fireside Chat, LIVE portefeuille-updates en vraag-en-antwoordsessies.
+🎥 Exclusive Bonus #4: Privégesprekken met CEO’s van bedrijven die we bezitten.
+📊 Toegang tot de privécommunity en meer.
+Dit zou wel eens één van de beste investeringen kunnen zijn die je dit jaar doet.
+Maar als je vandaag niet vóór middernacht (ET)  [  ]beslist, loop je deze kans mis.
+Hier is hoe het werkt:
+Neem een proefabonnement van 90 dagen via deze link [  ]
+Je ontvangt meteen toegang tot deze speciale IPO die je moet kopen voor middernacht
+Je krijgt meteen toegang tot mijn persoonlijke aandelenportefeuille
+Klik hier om je grote korting en exclusieve bonussen te claimen, en ik zie je graag binnenkort terug. [  ]
+Everything in Life Compounds
+Pieter Slegers
+PS Deze actie loopt om middernacht af. Je kan hier je gratis proefabonnement en alle voordelen activeren. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
