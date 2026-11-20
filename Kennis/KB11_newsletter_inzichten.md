@@ -130,6 +130,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
 | 19/11/2026 | Je hebt het gemist … | Slegers newsletter |
+| 19/11/2026 | Je hebt het gemist … | Slegers newsletter |
 | 18/11/2026 | Koop deze beursgang vóór middernacht | Slegers newsletter |
 | 16/11/2026 | Een boost op je rendement? | Slegers newsletter |
 | 15/11/2026 | Wanneer Trump je een cheque schrijft | Slegers newsletter |
@@ -5605,6 +5606,61 @@ Klik hier om je grote korting en exclusieve bonussen te claimen, en ik zie je gr
 Everything in Life Compounds
 Pieter Slegers
 PS Deze actie loopt om middernacht af. Je kan hier je gratis proefabonnement en alle voordelen activeren. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Je hebt het gemist …
+**Datum:** 19/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Ik was recent in Hawaii.
+Ik maakte onder andere een helikoptervlucht met mijn vriendin:
+Waarom reisde ik naar de andere kant van de wereld?
+Om tijd te maken voor het onderzoek naar één aandeel.
+Ik noem het: Het bedrijf dat zal profiteren van AI.
+Dit bedrijf:
+✅ Is 50% ondergewaardeerd
+✅ Groeit met meer dan 20% per jaar
+✅ Heeft de meest indrukwekkende CEO die ik ooit in mijn leven ontmoette
+Gisteren was de laatste dag waarop je De Kwaliteitsbelegger risicovrij kon testen en 25% korting op je eerste jaar kreeg.
+Hoe?
+Het jaarabonnement kost normaal €399.
+Met dit aanbod kreeg je 25% korting op je eerste jaar.
+Dit betekent dat je maar €299 betaalde. Je bespaarde dus €100.
+Maar het wordt nog beter.
+Je kreeg er ook een gratis jaarabonnement op de dividendnieuwsbrief bovenop (normale prijs: €465).
+Daarbovenop was er ook een niet-tevreden geldteruggarantie van 90 dagen.
+Niet tevreden? Dan mail je gewoon naar liesbeth@compoundingquality.net en kreeg je je geld volledig terug. Zonder vragen.
+Helaas moet ik je zeggen dat je het gemist hebt, want het aanbod liep gisteren af.
+Maar nu het goede nieuws …
+… Gisteren lag de betalingsprovider die ik gebruik even plat.
+Ik kreeg 37 e-mails van mensen die het aanbod daardoor niet konden gebruiken.
+Daarom verleng ik dit speciale aanbod tot vandaag middernacht.
+Waar wacht je nog op?
+Dit is een risicovrije belegging in jezelf. Ik ben 100% zeker dat je er nooit spijt van zal hebben.
+Dit krijg je allemaal:
+📈 Mijn persoonlijke portefeuille vol kwaliteitsaandelen
+✍️ Drie artikels per week (dinsdag, donderdag en zondag)
+📚 Volledige toegang tot onze hele bibliotheek met artikels op basis van data
+🔎 Volledige beleggingscases over boeiende bedrijven
+📊 Toegang tot de besloten community
+🎥 Besloten Zoom-meetings met de CEO’s van de bedrijven waarin we beleggen
+🚀 Een exclusief rapport met AL mijn beleggingscases tot nu toe
+En natuurlijk … Je krijgt ook toegang tot mijn rapport: Het bedrijf dat zal profiteren van AI.
+Ik heb mijn eigen geld in dit aandeel belegd.
+Hier krijg je de 25% korting op je eerste jaar, samen met de geldteruggarantie van 90 dagen:
+Hier is hoe het werkt:
+Neem een proefabonnement van 90 dagen via deze link [  ]
+Je ontvangt meteen toegang tot deze speciale IPO die je moet kopen voor middernacht
+Je krijgt meteen toegang tot mijn persoonlijke aandelenportefeuille
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Ik denk dat het aandeel waarover ik het heb binnen vijf jaar kan verdubbelen. Word Partner van De Kwaliteitsbelegger en krijg meteen toegang tot mijn persoonlijke portefeuille [  ]
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
 
