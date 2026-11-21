@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 21/11/2026 | Waarom ik van holdings hou | Slegers newsletter |
 | 19/11/2026 | Je hebt het gemist … | Slegers newsletter |
 | 19/11/2026 | Je hebt het gemist … | Slegers newsletter |
 | 18/11/2026 | Koop deze beursgang vóór middernacht | Slegers newsletter |
@@ -5718,3 +5719,58 @@ Pieter
 PS Ik denk dat het aandeel waarover ik het heb binnen vijf jaar kan verdubbelen. Word Partner van De Kwaliteitsbelegger en krijg meteen toegang tot mijn persoonlijke portefeuille [  ]
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Waarom ik van holdings hou
+**Datum:** 21/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Wist je dat je via één aandeel kan beleggen in tientallen bedrijven, geleid door een familie die haar eigen vermogen mee belegt?
+Dat is precies wat een holding doet.
+Dinsdag geef ik een gratis webinar over beleggen in holdings.  [  ]
+Maar eerst deel ik graag vier inzichten met jou.
+1. Je spaarboekje is niet veilig
+Je geld staat veilig op de bank. Maar het wordt er elke dag een beetje minder waard.
+Een spaarrekening levert ongeveer 1% rente op. Inflatie bedraagt al snel 2 tot 3% per jaar.
+Het resultaat: een gegarandeerd verlies aan koopkracht.
+Een dagkrant kostte vroeger €0,50. Vandaag betaal je €3,50 of meer. En brood is vandaag 165 keer duurder dan een eeuw geleden.
+2. Kosten zijn de stille vijand
+Stel dat je €10.000 belegt en 40 jaar laat staan.
+Via een bankfonds: 3,0% instapkosten, 1,5% beheerkosten per jaar en een brutorendement van 8,0% per jaar. Eindresultaat: €120.435.
+Via een gediversifieerde holding: geen instap- of beheerkosten en een brutorendement van 10,0% per jaar. Eindresultaat: €452.593.
+Het verschil: €332.158.
+Dit is een rekenvoorbeeld, geen garantie. 
+Maar het toont wel hoe hard kosten en een lager rendement over lange tijd aan je vermogen knagen.
+3. Een holding = een ETF op steroïden
+Zie een holding als een fruitmandje. Waarom één appel kopen als je de hele mand kan hebben?
+Een holding heeft vier grote voordelen:
+Spreiding: één aandeel, tientallen bedrijven en sectoren.
+Skin in the game: vaak belegt een familie haar eigen vermogen mee.
+Private bedrijven: je krijgt toegang tot bedrijven die niet op de beurs staan.
+Korting: vaak koop je een euro voor 70 tot 80 cent.
+Let wel op: niet elke holding is gespreid. 
+Een monoholding zoals KBC Ancora draait rond één grote participatie, in dit geval KBC. 
+Sofina of Ackermans & van Haaren bezitten er tientallen.
+4. De beste holdings deden het beter dan de markt
+We bekeken 13 holdings, elk sinds hun eigen beursgang. 
+Gemiddeld haalden ze 13,4% per jaar. De S&P 500 behaalde een rendement van 9,8% per jaar.
+Topper is Constellation Software met 30,3% per jaar. 
+Maar ook dichter bij huis zitten er mooie namen tussen, zoals Ackermans & van Haaren met 11,6% per jaar.
+Familieholdings doen het zelfs zo’n 3% per jaar beter dan de markt, dankzij skin in the game.
+Neem Brederode, van de familie Van der Mersch. 
+Over 10 jaar haalde het 11,8% per jaar. En toch noteert het aandeel met een korting van meer dan 30% op de intrinsieke waarde.
+Resultaten uit het verleden bieden uiteraard geen garantie voor de toekomst. Maar ze tonen wel waarom holdings mijn aandacht verdienen.
+Gratis webinar: Hoe beleggen in holdings?
+Wil je hier meer over leren? Dan nodig ik je graag uit voor ons gratis webinar.
+📅 Dinsdag 24 november om 20u00
+👉 Schrijf je hier gratis in: Ik volg graag mee [  ]
+Dit is wat je zal leren:
+Je spaarboekje is niet veilig: waarom sparen je een fortuin kost
+Een holding = een ETF op steroïden: spreiding, sterk management en korting
+De beste holdings in Belg
+
+*[Volledige tekst beschikbaar via Substack]*
