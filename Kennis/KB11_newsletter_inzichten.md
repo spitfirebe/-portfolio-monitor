@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 22/11/2026 | Zo bouw je een portefeuille met 10 holdings | Slegers newsletter |
 | 21/11/2026 | Waarom ik van holdings hou | Slegers newsletter |
 | 19/11/2026 | Je hebt het gemist … | Slegers newsletter |
 | 19/11/2026 | Je hebt het gemist … | Slegers newsletter |
@@ -5774,3 +5775,42 @@ Een holding = een ETF op steroïden: spreiding, sterk management en korting
 De beste holdings in Belg
 
 *[Volledige tekst beschikbaar via Substack]*
+
+---
+
+## Zo bouw je een portefeuille met 10 holdings
+**Datum:** 22/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Gisteren las je waarom ik van holdings hou. 
+Heb je die e-mail gemist? Geen probleem.
+Vandaag ga ik een stap verder: welke holdings zijn interessant en hoe combineer je ze?
+Twee Belgische parels
+Sofina is in handen van de familie Boël, al sinds 1898. De familie bezit 55% van de aandelen.
+Via Sofina krijg je toegang tot private equity en topfondsen zoals Sequoia. Over 10 jaar groeide de intrinsieke waarde (NAV) met 9,9% per jaar.
+En toch noteert het aandeel met een korting van 21% op de intrinsieke waarde.
+Ackermans & van Haaren zit al sinds 1876 in Antwerpen. Denk aan Delen, Bank Van Breda, DEME, CFE en SIPEF.
+Sinds 1984 groeide de intrinsieke waarde met 12,5% per jaar. En met een netto kaspositie van €524 miljoen heeft de holding geen schulden.
+De kracht van geduld
+Kijk naar Berkshire Hathaway van Warren Buffett.
+Van 1965 tot 2024 haalde het 19,9% per jaar. De S&P 500 deed 10,4%.
+Wie in 1965 €1.000 belegde, zag dat uitgroeien tot €55 miljoen.
+Zo ziet een portefeuille met 10 holdings eruit
+In het webinar bouwen we samen een voorbeeldportefeuille op:
+10 holdings, elk 10% van de portefeuille
+30% België, 30% rest van Europa en 40% Noord-Amerika
+6 landen en honderden onderliggende bedrijven
+Kom je ook?
+📅 Dinsdag 24 november om 20u00
+👉 Schrijf je hier gratis in: Ik volg graag mee [  ]
+In het webinar bespreek ik vijf Belgische en acht internationale holdings. Je ziet hoe je zelf eenvoudig in holdings kan beleggen.
+Je kan al je vragen live stellen in de chat. Wie er live bij is, haalt er dus het meeste uit.
+👉  [  ]Reserveer nu je plekje [  ]
+Tot dan!
+Beleggen in de beste bedrijven ter wereld
+Pieter
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
