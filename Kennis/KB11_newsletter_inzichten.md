@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 27/11/2026 | 🔔 Black Friday! | Slegers newsletter |
 | 22/11/2026 | Zo bouw je een portefeuille met 10 holdings | Slegers newsletter |
 | 21/11/2026 | Waarom ik van holdings hou | Slegers newsletter |
 | 19/11/2026 | Je hebt het gemist … | Slegers newsletter |
@@ -5812,5 +5813,46 @@ Je kan al je vragen live stellen in de chat. Wie er live bij is, haalt er dus he
 Tot dan!
 Beleggen in de beste bedrijven ter wereld
 Pieter
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## 🔔 Black Friday!
+**Datum:** 27/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag Partner 👋
+Het is Black Friday.
+In de Verenigde Staten worden er voor maar liefst $10,8 miljard aan producten verkocht tijdens Black Friday. Dat is gelijk aan $125,000 per seconde! 
+Je hebt twee keuzes: 
+🛒 Je koopt dingen die je niet nodig hebt
+📈 Je investeert in jezelf, en dat levert levenslang rendement op
+Als jij dit leest… denk ik dat je tot de tweede groep behoort.
+Hier is jouw Black Friday deal:
+Een korting van €100.
+Een gratis jaarabonnement op Compounding Dividends
+Normaal kost een abonnement €399 per jaar.
+Vandaag betaal je maar €299.
+Wat krijg je als Partner?
+📈 Toegang tot mijn persoonlijke Portefeuille
+📝 Drie artikels per week
+📚 Toegang tot het volledige archief van onze analyses
+🔍 Volledige transparantie over elke aankoop en verkoop
+Je krijgt ook twee extra’s: 
+📖 Exclusieve toegang tot het eerste hoofdstuk van mijn nieuwe boek
+💰 1 jaar gratis toegang tot Compounding Dividends
+Daarbovenop krijg je ook dit:
+Wat moet je hiervoor doen?
+➡️ Ga naar deze pagina [  ]
+➡️ Kies het jaarplan
+➡️ Je wordt automatisch Partner
+Let op: deze deal is alleen beschikbaar voor de eerste 50 mensen. Daarna stopt het.
+Ik kijk ernaar uit je te verwelkomen!
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Je kan De Kwaliteitsbelegger 90 dagen uitproberen, zonder risico. Is het toch niets voor jou? Dan krijg je meteen je geld terug. [  ]
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
