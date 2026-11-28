@@ -129,6 +129,7 @@ Buffett: "Soms is de beste investering je eigen aandelen."
 ## Update-log
 | Datum | Onderwerp | Bron |
 |-------|-----------|------|
+| 28/11/2026 | Dirty Thirty in Vegas? | Slegers newsletter |
 | 27/11/2026 | 🔔 Black Friday! | Slegers newsletter |
 | 22/11/2026 | Zo bouw je een portefeuille met 10 holdings | Slegers newsletter |
 | 21/11/2026 | Waarom ik van holdings hou | Slegers newsletter |
@@ -5854,5 +5855,62 @@ Ik kijk ernaar uit je te verwelkomen!
 Beleggen in de beste bedrijven ter wereld
 Pieter
 PS Je kan De Kwaliteitsbelegger 90 dagen uitproberen, zonder risico. Is het toch niets voor jou? Dan krijg je meteen je geld terug. [  ]
+Disclaimer
+Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
+
+---
+
+## Dirty Thirty in Vegas?
+**Datum:** 28/11/2026
+**Bron:** De Kwaliteitsbelegger (Pieter Slegers)
+
+View this post on the web at 
+
+Dag belegger 👋
+Ik ben momenteel in Las Vegas.
+Ik spreek er op een conferentie.
+Morgen word ik ook 30 jaar. 
+Het is enorm mooi meegenomen dat ik hier mijn 30ste verjaardag kan vieren.
+Of om het in de woorden van mijn schoonmoeder te zeggen: ‘Your Dirty Thirty’.
+Wat ik heb geleerd vandaag?
+Dat er naast de stock market (aandelenmarkt) hier ook een ander soort markt is: 
+Wat ik wel écht niet snap?
+Alle mensen die hier ontzettend veel geld vergokken.
+Dat is onverantwoord omgaan met je geld.
+Ik zag zelfs iemand naar buiten gesleept worden door de security omdat hij agressief werd nadat hij enkele tienduizenden euro’s verloor.
+Je werkt heel hard voor je centen.
+Het is dan ook heel belangrijk dat je er verantwoord mee omgaat.
+Je laat je geld voor jou werken.
+En dat doe je op de beurs.
+Hier zijn de winsten van de transacties van mijn ouders:
+Elke transactie in 2017, 2018 en 2019 verdubbelde minstens (allemaal aankopen van ETF’s).
+Tot zondag om middernacht (het einde van mijn verjaardag) loopt nog onze actie waarbij je De Kwaliteitsbelegger risicoloos kan uittesten.
+Je ontvangt ook heel wat exclusieve voordelen. 
+Hier is de deal…
+Een korting van €100.
+Een gratis jaarabonnement op Compounding Dividends
+Normaal kost een abonnement €399 per jaar.
+Vandaag betaal je maar €299.
+Word dan vandaag lid van De Kwaliteitsbelegger en profiteer van deze voordelen:
+📈 Mijn persoonlijke Portefeuille
+✍️ Drie analyses per week
+📚 Het volledige archief met alle artikels
+🔎 Complete analyses over topbedrijven
+📖 Exclusieve toegang tot hoofdstuk 1 van mijn nieuwe boek
+En daar bovenop krijg je deze exclusieve bonussen:
+En daar bovenop ontvang je ook nog eens dit:
+💸 Extra €100 korting: Je betaalt dus maar €299 in plaats van €399
+🛡️ Zonder risico proberen: Niet tevreden? Laat het ons weten binnen de 90 dagen en je ontvangt je geld integraal terug
+💶 Een jaar gratis toegang tot Compounding Dividends
+Durf te investeren in jezelf.
+Waar wacht je nog op?
+Deze actie is er alleen voor de eerste 50 mensen.
+Zo werkt het:
+Kies een jaarabonnement via deze link [  ]
+Je krijgt meteen toegang tot onze Portefeuille
+Niet tevreden? Mail ons binnen 90 dagen op support@compoundingquality.net [ mailto:support@compoundingquality.net ] en je krijgt je geld terug
+Beleggen in de beste bedrijven ter wereld
+Pieter
+PS Wacht niet te lang. Word Partner voor €299. Je kan het helemaal risicoloos uitproberen. [  niet te lang. Op = op. Word Founding Partner voor $399. Je kunt het helemaal veilig uitproberen. ]
 Disclaimer
 Als lezer van De Kwaliteitsbelegger ga je akkoord met de disclaimer. Je kan deze hier [  ] lezen.
